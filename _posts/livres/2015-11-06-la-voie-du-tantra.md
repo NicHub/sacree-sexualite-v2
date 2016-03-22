@@ -9,7 +9,7 @@ images:
 
 Art-Science-Rituel
 
-![couverture](../../images-livres/la-voie-du-tantra.png )
+![couverture](../../../../images-livres/la-voie-du-tantra.png )
 
 Le Tantra, dont les racines plongent dans l’Hindouisme, poursuit les objectifs universels que sont la connaissance et la libération de soi. Il constitue une méthode expérimentale et scientifique, permettant une expression de la conscience et des facultés humaines, processus au cours duquel les pouvoirs spirituels inhérents à l’individu peuvent être réalisés.
 

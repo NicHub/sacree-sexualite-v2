@@ -9,8 +9,6 @@ images:
 
 Le plaisir feminin, une angoisse masculine
 
-![couverture](../../images-livres/qui-peur-point-g.png)
-
 Au XXIe siècle, le plaisir féminin reste un sujet tabou. Véritable « continent noir » de la médecine, la sexualité des femmes est très peu étudiée, notamment en France. Comme si l’accès au septième ciel dépendant toujours de la seule qualité d’un amant.
 
 Interdits religieux et sociaux, difficultés technologiques et financières, réticences des milieux scientifiques... Les raisons qui expliquent ce manque de savoir sont multiples. Mais elles dissimulent toutes une vérité simple : les hommes, y compris les chercheurs, sont encore terrorisés par la jouissance féminine.

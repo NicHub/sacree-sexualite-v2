@@ -10,13 +10,13 @@
 		{% endif %}
 	{% endfor %}
 	{% if vignette_found %}
-		{% assign vignette_url = "../../images-livres/" | append: vignette_url %}
+		{% assign vignette_url = "../images-livres/" | append: vignette_url %}
 	{% else %}
-		{% assign vignette_url = "../../images-livres/point-interrogation.png" %}
+		{% assign vignette_url = "../images-livres/point-interrogation.png" %}
 	{% endif %}
 	<div class="col-sm-4 col-xs-6">
 		<div class="panel panel-default vignette">
-			<div class="panel-thumbnail"><a href="{{ thisbaseurl }}{{ item.url }}" title="Renovations"><img src="{{ vignette_url }}" class="img-responsive"></a></div>
+			<div class="panel-thumbnail"><a href="..{{ item.url }}" title="Renovations"><img src="{{ vignette_url }}" class="img-responsive"></a></div>
 			<div class="panel-body">
 				<p>{{ item.title }}</p>
 			</div>

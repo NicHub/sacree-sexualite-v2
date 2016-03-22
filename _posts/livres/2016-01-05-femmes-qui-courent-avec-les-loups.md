@@ -9,8 +9,6 @@ images:
 
 Histoires et mythes de l’archétype de la Femme sauvage
 
-![couverture](../../images-livres/femmesloup.png )
-
 Chaque femme porte en elle une force naturelle, instinctive, riche de dons créateurs et d’un savoir immémorial. Mais la société et la culture ont trop souvent muselé cette « Femme Sauvage », afin de la faire entrer dans le moule réducteur des rôles assignés.
 
 Psychanalyste et conteuse, fascinée par les mythes et les légendes, auteur également du Jardinier de l’Eden Clarissa Pinkola Estés nous propose de retrouver cette part enfouie, pleine de vitalité et de générosité, vibrante, donneuse de vie.

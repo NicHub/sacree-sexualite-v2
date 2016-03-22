@@ -10,12 +10,14 @@
 	{% endif %}
 
 {% elsif page_level == 2 %}
-	{% assign thisbaseurl = "../.." %}
+	{% assign thisbaseurl = ".." %}
 {% elsif page_level == 3 %}
 	{% assign thisbaseurl = "../../../.." %}
 {% endif %}
 
-
+{% comment %}
+page_level = {{ page_level }}
+{% endcomment %}
 
 	<head>
 		<meta charset="utf-8" />

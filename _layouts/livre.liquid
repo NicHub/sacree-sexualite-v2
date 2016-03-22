@@ -2,9 +2,22 @@
 layout: pretty-print-basic
 ---
 <html lang="{{ site.locale }}">
-{% assign couverture_url = page.path | split: '/' | last | split: '.' | first | append: ".jpg" %}
-{% assign couverture_url = thisbaseurl | append: '/images-livres/' | append: couverture_url %}
 {% include head.html %}
+{% assign couverture_path = page.path | split: '/' | last | split: '.' | first | append: ".jpg" %}
+{% assign couverture_path = '/images-livres/' | append: couverture_path %}
+{% for static_file in site.static_files %}
+	{% if static_file.path == couverture_path %}
+		{% assign image_found =  true %}
+		{% break %}
+	{% endif %}
+{% endfor %}
+{% if image_found %}
+	{% assign couverture_url = thisbaseurl | append: couverture_path %}
+{% else %}
+	{% assign couverture_url = thisbaseurl | append: "/images-livres/point-interrogation.png" %}
+{% endif %}
+
+
 	<body id="page">
 {% include analyticstracking.html %}
 

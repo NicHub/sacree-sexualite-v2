@@ -9,7 +9,7 @@ images:
 
 Une thérapie des troubles sexuels
 
-![couverture](../../images-livres/hypnosexo.png )
+![couverture](../../../../images-livres/hypnosexo.png )
 
 Qu’est-ce que la nouvelle hypnose ? Une méthode thérapeutique qui permet de changer sa manière de fonctionner mentalement et d’échapper à des blocages complexes, sans pour autant suivre une psychothérapie de longue durée.
 

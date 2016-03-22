@@ -9,7 +9,7 @@ images:
 
 Le Tantra de la connaissance suprême
 
-![couverture](../../images-livres/tantra-yoga.png )
+![couverture](../../../../images-livres/tantra-yoga.png )
 
 La Vijnânabhaïrava tantra, écrit au début de notre ère dans l’école shivaïte du Cachemire, présente la « quintessence de tous les tantras ». Il se situe d’emblée sur le plan de la réalité absolue et touche aux racines les plus profondes de l’esprit.
 

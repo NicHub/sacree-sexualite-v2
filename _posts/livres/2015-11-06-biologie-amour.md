@@ -9,7 +9,7 @@ images:
 
 L’amour expliqué de manière scientifique dès notre vie intra-utérine
 
-![couverture](../../images-livres/biologie-amour.png)
+![couverture](../../../../images-livres/biologie-amour.png)
 
 L’amour est-il déterminant pour notre santé, notre personnalité et notre vie ?
 Selon Arthur Janov, docteur en psychologie, l’amour exerce une influence considérable non seulement sur notre bien-être psychologique, mais aussi sur notre santé physique et sur notre personnalité. Par ses effets biologiques, l’amour joue même un rôle essentiel dans la formation du système nerveux, le développement des structures cérébrales et la biochimie du cerveau au cours de la vie foetale et de la petite enfance.
