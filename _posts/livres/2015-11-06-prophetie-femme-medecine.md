@@ -9,7 +9,7 @@ images:
 
 Initiation d’une femme au féminin et à la sexualité
 
-![couverture](../../../../images-livres/prophetie-femme-medecine.png)
+<!-- ![couverture](../../../../images-livres/prophetie-femme-medecine.png) -->
 
 Kantu est jeune femme, belle, curieuse de tout et pleine d’enthousiasme. Elle vit à Cuzco, une ville du Pérou, et passe ses journées entre les études, les amis et les fêtes. Elle ne connaît rien des anciennes traditions andines, de la  science de la Pachamama, des enseignements de curanderos (hommes médecine). Cela ne l’intéresse pas. Un jour, un événement inattendu bouleverse son univers, en la contraignant à se confronter à une réalité incompréhensible pour elle. Disposée à tout pour conquérir l’homme  qu’elle aime, Kantu entreprend un chemin difficile qui la porte à redécouvrir l’énergie féminine sacrée qui est en elle.
 

@@ -9,7 +9,7 @@ images:
 
 Le sexe est la source de la créativité humaine -Osho
 
-![couverture](../../../../images-livres/du-sexe-a-conscience-divine.png )
+<!-- ![couverture](../../../../images-livres/du-sexe-a-conscience-divine.png ) -->
 
 Le sexe est la source de la créativité humaine.
 

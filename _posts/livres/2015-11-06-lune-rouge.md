@@ -9,7 +9,7 @@ images:
 
 Les forces du cycle féminin
 
-![couverture](../../../../images-livres/lune-rouge.png)
+<!-- ![couverture](../../../../images-livres/lune-rouge.png) -->
 
 La femme moderne initiée à la sagesse antique du cycle menstruel.
 

@@ -9,7 +9,7 @@ images:
 
 Santé, fertilité, hormones, plantes amies et symbolique
 
-![couverture](../../../../images-livres/sagesse-cycle.png)
+<!-- ![couverture](../../../../images-livres/sagesse-cycle.png) -->
 
 Voici enfin LE livre qui manquait aux femmes !
 

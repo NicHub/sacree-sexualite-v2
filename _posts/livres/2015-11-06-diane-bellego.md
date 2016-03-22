@@ -9,7 +9,7 @@ images:
 
 La fusion au cœur de la séparation
 
-![couverture](../../../../images-livres/bellegook.png )
+<!-- ![couverture](../../../../images-livres/bellegook.png ) -->
 
 Transformer amoureusement sa vie et le monde, toucher l’union et la connaître avec l’autre appelle à réconcilier en soi masculin/féminin. Ce livre de vie, fruit de l’expérience intérieur, personnel et professionnelle de l’auteur, propose ce parcours amoureux d’éveil.
 
