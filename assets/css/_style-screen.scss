@@ -36,8 +36,8 @@ body#page {
 		font-size: 10.5pt;
 		border-bottom: 1px solid transparent;
 		a.navbar-brand {
-			color: Navy;
 			font-family: 'Shadows Into Light Two';
+			color: Navy;
 			font-size: 20pt;
 		}
 		.navbar-nav.navbar-right li a {
@@ -97,6 +97,14 @@ body#page {
 						@media( max-width: $screen-xs-max ) {
 							font-size: 25pt;
 						}
+						span {
+							font-family: 'Shadows Into Light Two';
+							font-size: 14pt;
+							color: Navy;
+							font-size: 20pt;
+							letter-spacing: normal;
+							word-spacing: normal;
+						}
 					}
 					.btn-prev-next {
 						text-shadow: 0 0 10px $shadow-col, 0 0 20px $shadow-col;
@@ -140,6 +148,28 @@ body#page {
 	.text-center {
 		text-align: center;
 	}
+
+	.gallerie {
+		.vignette {
+			$h_vignette: 300px;
+			height: $h_vignette;
+			max-height: $h_vignette;
+			img {
+				// border: 1px solid red;
+				$taille-image: 200px;
+				width: $taille-image;
+				height: $taille-image;
+				margin: 10px auto;
+			}
+		}
+	}
+
+	img.couverture {
+		width: 200px;
+		display: block;
+		margin: 40px auto;
+	}
+
 }
 
 
@@ -188,3 +218,4 @@ form {
 		text-align: center;
 	}
 }
+

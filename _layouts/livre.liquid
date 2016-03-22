@@ -1,0 +1,45 @@
+---
+layout: pretty-print-basic
+---
+<html lang="{{ site.locale }}">
+{% assign couverture_url = page.path | split: '/' | last | split: '.' | first | append: ".jpg" %}
+{% assign couverture_url = thisbaseurl | append: '/images-livres/' | append: couverture_url %}
+{% include head.html %}
+	<body id="page">
+{% include analyticstracking.html %}
+
+{% include menu-top.html %}
+
+<div class="jumbotron">
+</div>
+
+<div class="container content" id="p">
+	<div class="row header">
+		<div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 col-lg-8 col-lg-offset-2 titre-principal">
+			<h1 class="animated pulse">{{ site.data.infos.slogan }}</h1>
+{% comment %}
+			{% include prev-next-buttons.html %}
+{% endcomment %}
+		</div>
+	</div>
+	<div class="row">
+	{% if page.plus-large %}
+		<div class="page-inner-text">
+	{% else %}
+		<div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 col-lg-8 col-lg-offset-2 page-inner-text">
+	{% endif %}
+		<img class="couverture" alt="..." src="{{ couverture_url }}" />
+		{{ content }}
+		</div>
+	</div>
+	<div class="row">
+{% comment %}
+			{% include prev-next-buttons.html %}
+{% endcomment %}
+	</div>
+</div>
+
+{% include footer.html %}
+
+	</body>
+</html>

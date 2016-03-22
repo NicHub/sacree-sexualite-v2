@@ -1,8 +1,22 @@
-{% if page.permalink == "/" %}
-	{% assign thisbaseurl = "." %}
-{% else %}
-	{% assign thisbaseurl = ".." %}
+
+
+{% assign page_level = page.path | split: '/' | size %}
+{% if page_level == 1 %}
+
+	{% if page.permalink == "/" %}
+		{% assign thisbaseurl = "." %}
+	{% else %}
+		{% assign thisbaseurl = ".." %}
+	{% endif %}
+
+{% elsif page_level == 2 %}
+	{% assign thisbaseurl = "../.." %}
+{% elsif page_level == 3 %}
+	{% assign thisbaseurl = "../../../.." %}
 {% endif %}
+
+
+
 	<head>
 		<meta charset="utf-8" />
 		<!--[if IE]><meta http-equiv="x-ua-compatible" content="IE=9" /><![endif]-->
