@@ -1,0 +1,43 @@
+
+- titre: Thérapie & coaching
+  menu:
+
+    - titre: Lætitia Stucki *
+      permalink: http://laetitia-stucki.ch/
+    - titre: Thérapie
+      permalink: therapie/
+
+    - separator: Hypnose
+
+    - titre: Présentation de l’hypnose *
+      permalink: http://laetitia-stucki.ch/hypnose/
+    - titre: Hypnocoaching amour / sexualité
+      permalink: hypnocoaching-amour-sexualite/
+
+    - separator: Infos
+
+    - titre: Contact & accès
+      permalink: contact-et-acces/
+    - titre: Tarifs
+      permalink: tarifs/
+
+
+- titre: Découverte
+  menu:
+
+    - titre: Présentation
+      permalink: presentation/
+    - titre: Articles
+      permalink: articles/
+    - titre: Livres
+      permalink: livres/
+    - titre: Citations
+      permalink: citations/
+    - titre: Liens
+      permalink: liens/
+
+
+
+
+
+

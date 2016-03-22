@@ -1,0 +1,50 @@
+
+div.header {
+	display: none;
+}
+@page {
+	size: A4;
+	margin: 1.5cm 2cm 2cm;
+}
+.page-text {
+	font-size: 12pt !important;
+	text-align: justify;
+	margin: 0;
+	width: 100%;
+	padding-top: 0 !important;
+	h1 {
+		margin-top: 3cm !important;
+		font-size: 30pt !important;
+		text-align: left;
+	}
+	iframe {
+		display: none;
+	}
+	p {
+		        hyphens: auto;
+		   -moz-hyphens: auto;
+		-webkit-hyphens: auto;
+	}
+}
+blockquote {
+	border: none;
+}
+#tf-accueil {
+	div {
+		padding-top: 10px !important;
+		padding-bottom: 10px !important;
+		margin-top: 10px !important;
+		margin-bottom: 10px !important;
+	}
+}
+#tf-contact {
+	hr, div.clearfix {
+		display: none !important;
+	}
+}
+.jumbotron {
+	display: none;
+}
+.btn-prev-next {
+	display: none;
+}

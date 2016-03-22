@@ -1,0 +1,33 @@
+
+
+locale: fr
+
+
+
+url: "http://laetitiastucki.github.io"
+baseurl: "/sacree-sexualite-v2"
+
+
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: true
+
+exclude: [ "CNAME", "README.md", "Gemfile", "Gemfile.lock" ]
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+sass:
+  sass_dir: assets/css
+  style: compressed
+
+gems:
+  - jekyll-sitemap
+
