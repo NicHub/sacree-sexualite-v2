@@ -11,10 +11,15 @@
 		</select>
 	</fieldset>
 	<fieldset class="form-group col-xs-8 col-xs-offset-2">
+		{% if site.data.infos.email-obfuscation-cc %}
+		<input type="hidden" name="_cc" value="{{ site.data.infos.email-obfuscation-cc | join: ',' }}" />
+		{% endif %}
 		<input type="text" name="_format" value="plain" style="display:none" />
 		<input type="text" name="_gotcha" style="display:none" />
-		<button type="submit" class="btn btn-primary col-xs-4 col-xs-offset-4">Envoyer</button>
+		<button id="form-submit-button" type="submit" class="btn btn-primary col-xs-4 col-xs-offset-4">Envoyer</button>
 	</fieldset>
 	<fieldset id="form-status" class="form-group col-xs-8 col-xs-offset-2 hidden">
 	</fieldset>
 </form>
+
+
