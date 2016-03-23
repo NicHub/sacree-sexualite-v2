@@ -3,8 +3,15 @@ layout: pretty-print-basic
 ---
 <html lang="{{ site.locale }}">
 {% include head.html %}
-{% assign couverture_path = page.path | split: '/' | last | split: '.' | first | append: ".jpg" %}
-{% assign couverture_path = '/images-livres/' | append: couverture_path %}
+{% if false %}
+{% comment %}image grande taille{% endcomment %}
+	{% assign couverture_path = page.path | split: '/' | last | split: '.' | first | append: ".jpg" %}
+	{% assign couverture_path = '/images-livres/' | append: couverture_path %}
+{% else %}
+{% comment %}image petite taille{% endcomment %}
+	{% assign couverture_path = page.path | split: '/' | last | split: '.' | first | append: "-300x300.jpg" %}
+	{% assign couverture_path = '/images-livres/' | append: couverture_path %}
+{% endif %}
 {% for static_file in site.static_files %}
 	{% if static_file.path == couverture_path %}
 		{% assign image_found =  true %}
