@@ -18,7 +18,7 @@
 		<input type="text" name="_gotcha" style="display:none" />
 		<button id="form-submit-button" type="submit" class="btn btn-primary col-xs-4 col-xs-offset-4">Envoyer</button>
 	</fieldset>
-	<fieldset id="form-status" class="form-group col-xs-8 col-xs-offset-2 hidden">
+	<fieldset id="form-status" class="form-group col-xs-12 col-sm-8 col-sm-offset-2 hidden">
 	</fieldset>
 </form>
 
