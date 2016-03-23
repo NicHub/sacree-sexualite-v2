@@ -3,15 +3,11 @@ layout       : livre
 title        : "La quête du plaisir"
 categories   : livres
 exergue      : "Les enseignements censurés du Tantra"
-images:
-  couverture : sleemy-la_quete_du_plaisir.png
 ---
 
 Les enseignements censurés du Tantra
 
 *Sleemy*
-
-<!-- ![couverture](../../../../images-livres/sleemy-la_quete_du_plaisir.png) -->
 
 Un des effets les plus merveilleux du Tantra est sans doute de rapprocher de manière spectaculaire les couples qui l’utilisent.
 

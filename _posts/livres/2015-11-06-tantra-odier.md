@@ -3,13 +3,9 @@ layout       : livre
 title        : "Tantra – Daniel Odier"
 categories   : livres
 exergue      : "La dimension sacrée de l’érotisme"
-images:
-  couverture : tantra-odier.png
 ---
 
 La dimension sacrée de l’érotisme
-
-<!-- ![couverture](../../../../images-livres/tantra-odier.png) -->
 
 Parvenir à l’érotisme sacré est une quête longue et difficile qui exige de se plier aux ascèses les plus exigeantes auprès d’un maître authentique.
 

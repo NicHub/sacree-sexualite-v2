@@ -3,13 +3,9 @@ layout       : livre
 title        : "Lune Rouge"
 categories   : livres
 exergue      : "Les forces du cycle féminin"
-images:
-  couverture : lune-rouge.png
 ---
 
 Les forces du cycle féminin
-
-<!-- ![couverture](../../../../images-livres/lune-rouge.png) -->
 
 La femme moderne initiée à la sagesse antique du cycle menstruel.
 

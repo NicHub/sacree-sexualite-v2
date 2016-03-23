@@ -3,8 +3,6 @@ layout       : livre
 title        : "Et tu sera Chamane !"
 categories   : livres
 exergue      : "Le destin de Marie Jésus Sandoval – Amrita"
-images:
-  couverture : mariejesus.png
 ---
 
 Le destin de Marie Jésus Sandoval - Amrita

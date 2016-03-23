@@ -3,8 +3,6 @@ layout       : livre
 title        : "Qui a peur du point G ?"
 categories   : livres
 exergue      : "Le plaisir feminin, une angoisse masculine"
-images:
-  couverture : qui-peur-point-g.png
 ---
 
 Le plaisir feminin, une angoisse masculine

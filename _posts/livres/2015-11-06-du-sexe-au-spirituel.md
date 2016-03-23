@@ -3,13 +3,9 @@ layout       : livre
 title        : "Du sexe au spirituel"
 categories   : livres
 exergue      : "Dialogue entre Brigitte Lahaie et Selim Aissel, maître spirituel"
-images:
-  couverture : du-sexe-au-spirituel.png
 ---
 
 Dialogue entre Brigitte Lahaie et Selim Aissel, maître spirituel
-
-<!-- ![couverture](../../../../images-livres/du-sexe-au-spirituel.png) -->
 
 Ce livre exceptionnel est la transcription d’un échange entre Brigitte Lahaie, spécialiste de la sexualité et animatrice de longue date d’une émission sur Radio Monte-Carlo, et Selim Aïssel, maître spirituel et fondateur de la Psycho-Antropologie.
 

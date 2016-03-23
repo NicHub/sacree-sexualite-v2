@@ -3,8 +3,6 @@ layout       : livre
 title        : "Faire l’amour de manière divine, de l’acte charnel à l’amour Divin"
 categories   : livres
 exergue      : "L’acte d’amour est est l’une des composante fondamentale de l’épanouissement et du bonheur des amants"
-images:
-  couverture : barry-long.png
 ---
 
 L’acte d’amour est est l’une des composante fondamentale de l’épanouissement et du bonheur des amants

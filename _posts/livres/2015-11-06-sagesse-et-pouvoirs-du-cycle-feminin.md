@@ -3,13 +3,9 @@ layout       : livre
 title        : "Sagesse et pouvoirs du cycle féminin"
 categories   : livres
 exergue      : "Santé, fertilité, hormones, plantes amies et symbolique"
-images:
-  couverture : sagesse-cycle.png
 ---
 
 Santé, fertilité, hormones, plantes amies et symbolique
-
-<!-- ![couverture](../../../../images-livres/sagesse-cycle.png) -->
 
 Voici enfin LE livre qui manquait aux femmes !
 

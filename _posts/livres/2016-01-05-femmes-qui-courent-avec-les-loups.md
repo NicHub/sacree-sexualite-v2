@@ -3,8 +3,6 @@ layout       : livre
 title        : "Femmes qui courent avec les loups"
 categories   : livres
 exergue      : "Histoires et mythes de l’archétype de la Femme sauvage"
-images:
-  couverture : femmesloup.png
 ---
 
 Histoires et mythes de l’archétype de la Femme sauvage

@@ -3,8 +3,6 @@ layout       : livre
 title        : "L’audace d’aimer : une voie vers la liberté intérieure"
 categories   : livres
 exergue      : "L’itinéraire spirituel de Roger W. McGowen"
-images:
-  couverture : audace-d-aimer.png
 ---
 
 L’itinéraire spirituel de Roger W.McGowen

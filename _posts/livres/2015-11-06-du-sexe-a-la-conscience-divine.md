@@ -2,14 +2,10 @@
 layout       : livre
 title        : "Du sexe à la conscience divine"
 categories   : livres
-exergue      : "Le sexe est la source de la créativité humaine -Osho"
-images:
-  couverture : du-sexe-a-conscience-divine.png
+exergue      : "Le sexe est la source de la créativité humaine – Osho"
 ---
 
-Le sexe est la source de la créativité humaine -Osho
-
-<!-- ![couverture](../../../../images-livres/du-sexe-a-conscience-divine.png ) -->
+Le sexe est la source de la créativité humaine – Osho
 
 Le sexe est la source de la créativité humaine.
 

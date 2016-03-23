@@ -3,13 +3,9 @@ layout       : livre
 title        : La femme optimale
 categories   : livres
 exergue      : Un programme en 28 jours pour découvrir les énergies créatrices du cycle féminin et s’épanouir
-images:
-  couverture : femme-optimale.png
 ---
 
 Un programme en 28 jours pour découvrir les énergies créatrices du cycle féminin et s’épanouir
-
-<!-- ![couverture](../../../../images-livres/femme-optimale.png) -->
 
 En général, les femmes considèrent plutôt leur cycle menstruel comme un désagrément que comme une source d’épanouissement personnel. D’autant que nos sociétés occidentales ne tiennent pas compte du fait que nos pensées, notre comportement et par conséquent, nos capacités fluctuent au cours du mois...
 

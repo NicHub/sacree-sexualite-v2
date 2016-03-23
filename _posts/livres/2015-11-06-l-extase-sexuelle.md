@@ -1,15 +1,11 @@
 ---
 layout       : livre
-title        : "L’Extase Sexuelle"
+title        : "L’extase sexuelle"
 categories   : livres
 exergue      : "Parut avant le livre slow sex sur le même thème et du même auteur"
-images:
-  couverture : extase-sexuelle.png
 ---
 
 Parut avant le livre slow sex sur le même thème et du même auteur
-
-<!-- ![couverture](../../../../images-livres/extase-sexuelle.png) -->
 
 Selon des études récentes, l’individu « moyennement » actif sexuellement éprouve l’orgasme 20 secondes par semaine, soit 18 minutes par an et environ 15 heures en 50 ans. Un résultat pour le moins déconcertant !
 

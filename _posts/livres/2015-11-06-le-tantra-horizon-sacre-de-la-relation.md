@@ -1,15 +1,11 @@
 ---
 layout       : livre
-title        : "Le Tantra"
+title        : "Le Tantra, horizon sacré de la relation"
 categories   : livres
 exergue      : "Horizon sacré de la relation"
-images:
-  couverture : tantra-horizon-sacre.png
 ---
 
 Horizon sacré de la relation
-
-<!-- ![couverture](../../../../images-livres/tantra-horizon-sacre.png) -->
 
 Qu’est-ce que le Tantra ? Émergeant dans la Vallée de l’indus, et vielle de six mille ans, cette pratique repose sur le principe selon lequel la conscience masculine passive n’a de pouvoir que grâce à l’énergie féminine active.
 

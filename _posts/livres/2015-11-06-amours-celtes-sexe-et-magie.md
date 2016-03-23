@@ -3,8 +3,6 @@ layout       : livre
 title        : "Amours celtes sexe et magie"
 categories   : livres
 exergue      : "Histoires, comptes et explications sur la sexualité celte"
-images:
-  couverture : amours-celtes.png
 ---
 
 Histoire, comptes et explications sur la sexualité Celte
