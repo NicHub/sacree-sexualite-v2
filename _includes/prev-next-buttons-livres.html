@@ -1,0 +1,30 @@
+
+{% assign IDLivre =  0 %}
+{% for monlivre in site.categories.["livres"] %}
+	{% if monlivre.url == page.url %}
+		{% break %}
+	{% else %}
+		{% assign IDLivre =  IDLivre | plus: 1 %}
+	{% endif %}
+{% endfor %}
+
+{% assign NbPages =  site.categories.["livres"] | size %}
+{% assign PrevID = IDLivre | minus: 1 | modulo: NbPages %}
+{% assign NextID = IDLivre | plus:  1 | modulo: NbPages %}
+
+{% assign PrevPage = site.categories.["livres"][PrevID] %}
+{% assign NextPage = site.categories.["livres"][NextID] %}
+
+		<div class="btn-prev-next text-center">
+			<a class="btn btn-primary bouton-prec" title="{{ PrevPage.title }}" href="{{ site.baseurl }}{{ PrevPage.url }}" role="button"><i class="fa fa-chevron-circle-left"></i></a>
+
+			<span>&nbsp;</span>
+
+			<a class="btn btn-primary" title="Retour aux livres" href="{{ thisbaseurl }}/livres/" role="button">
+				<img src="{{ thisbaseurl }}{{ site.data.infos.images.logo }}" alt="..." />
+			</a>
+
+			<span>&nbsp;</span>
+
+			<a class="btn btn-primary bouton-suiv" title="{{ NextPage.title }}" href="{{ site.baseurl }}{{ NextPage.url }}" role="button"><i class="fa fa-chevron-circle-right"></i></a>
+		</div>
