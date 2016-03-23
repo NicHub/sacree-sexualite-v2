@@ -15,4 +15,4 @@ La révolution de demain, la paix de sexes, la libération des femmes, l’équi
 
 Vous tenez entre vos mains un véritable code secret à l’usage de la femme et du couple !
 
-La fondation SymptoTherm a pour mission le soutien de projets favorisant l’autogestion de la santé en particulier dans le cadre de la meilleure connaissance du cycle féminin, de la sexualité et de l’application de la méthode symptothermie de régulation des naissances. La fondation SymptoTherm est placée sous l’autorité de surveillance de la Confédération Suisse.
+La fondation SymptoTherm a pour mission le soutien de projets favorisant l’autogestion de la santé en particulier dans le cadre de la meilleure connaissance du cycle féminin, de la sexualité et de l’application de la méthode symptothermie de régulation des naissances. La fondation SymptoTherm est placée sous l’autorité de surveillance de la Confédération suisse.

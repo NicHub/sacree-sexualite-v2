@@ -17,10 +17,10 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 
 ## Clitoris
 
-- La taille du clitoris a-t-elle son importance pour l'orgasme?<br/>[http://www.santemagazine.fr/le-blog-sexo-de-marine-nugeron-et-daisy-le-corre/la-taille-du-clitoris-en-quoi-ca-compte-61925.html](http://www.santemagazine.fr/le-blog-sexo-de-marine-nugeron-et-daisy-le-corre/la-taille-du-clitoris-en-quoi-ca-compte-61925.html)
+- La taille du clitoris a-t-elle son importance pour l’orgasme?<br/>[http://www.santemagazine.fr/le-blog-sexo-de-marine-nugeron-et-daisy-le-corre/la-taille-du-clitoris-en-quoi-ca-compte-61925.html](http://www.santemagazine.fr/le-blog-sexo-de-marine-nugeron-et-daisy-le-corre/la-taille-du-clitoris-en-quoi-ca-compte-61925.html)
 - Le clitoris au fil des siècles, de sa découverte à sa mauvaise réputation<br/>[http://www.racontemoilhistoire.com/2015/04/27/clitoris-au-fil-siecles-decouverte-mauvaise-reputation/](http://www.racontemoilhistoire.com/2015/04/27/clitoris-au-fil-siecles-decouverte-mauvaise-reputation/)
 - Odile Buisson : Le point G et l’orgasme féminin<br/>[http://www.dailymotion.com/video/x1ytz7h_odile-buisson-le-point-g-et-l-orgasme-feminin_school](http://www.dailymotion.com/video/x1ytz7h_odile-buisson-le-point-g-et-l-orgasme-feminin_school)
-- Témoignage d'un homme qui ne veux pas faire de cunnilingus<br/>[http://www.slate.fr/story/109435/cunnilingus-pratique-sexuelle](http://www.slate.fr/story/109435/cunnilingus-pratique-sexuelle)
+- Témoignage d’un homme qui ne veut pas faire de cunnilingus<br/>[http://www.slate.fr/story/109435/cunnilingus-pratique-sexuelle](http://www.slate.fr/story/109435/cunnilingus-pratique-sexuelle)
 
 ## Contraception
 
@@ -37,18 +37,18 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - Le couple dans la voie Chamanique - Tantrique<br/>[http://www.conscience-et-eveil-spirituel.com/article-sur-le-nouveau-couple.html](http://www.conscience-et-eveil-spirituel.com/article-sur-le-nouveau-couple.html)
 - Le nouveau couple<br/>[http://chrysalyda.com/2015/05/15/le-nouveau-couple/](http://chrysalyda.com/2015/05/15/le-nouveau-couple/)
 - Ne confondez pas relation, couple et amour<br/>[http://chemindevie.net/relation-couple-amour/?utm_campaign=shareaholic&utm_medium=facebook&utm_source=socialnetwork](http://chemindevie.net/relation-couple-amour/?utm_campaign=shareaholic&utm_medium=facebook&utm_source=socialnetwork)
-- Quel genre d'infidèle êtes-vous?<br/>[http://sexes.blogs.liberation.fr/2012/11/20/quel-est-votre-genre-dinfidelite-/](http://sexes.blogs.liberation.fr/2012/11/20/quel-est-votre-genre-dinfidelite-/)
+- Quel genre d’infidèle êtes-vous?<br/>[http://sexes.blogs.liberation.fr/2012/11/20/quel-est-votre-genre-dinfidelite-/](http://sexes.blogs.liberation.fr/2012/11/20/quel-est-votre-genre-dinfidelite-/)
 - Tous les couples sont voués à l’échec<br/>[http://blogdudevperso.com/tous-les-couples-sont-voues-a-lechec/](http://blogdudevperso.com/tous-les-couples-sont-voues-a-lechec/)
 - Une rupture amoureuse fait souffrir, mais notre cerveau est fait pour que nous passions à autre chose<br/>[http://www.huffingtonpost.fr/2015/03/30/rupture-amoureuse-cerveau-passer-autre-chose_n_6967252.html?ir=France&ncid=fcbklnkfrhpmg00000001](http://www.huffingtonpost.fr/2015/03/30/rupture-amoureuse-cerveau-passer-autre-chose_n_6967252.html?ir=France&ncid=fcbklnkfrhpmg00000001)
 
 ## Dédramatiser la sexualité
 
-- Désir féminin une histoire excitante<br/>[http://www.hebdo.ch/hebdo/cadrages/detail/d%C3%A9sir-f%C3%A9minin-une-histoire-excitante](http://www.hebdo.ch/hebdo/cadrages/detail/d%C3%A9sir-f%C3%A9minin-une-histoire-excitante)
+- Désir féminin, une histoire excitante<br/>[http://www.hebdo.ch/hebdo/cadrages/detail/d%C3%A9sir-f%C3%A9minin-une-histoire-excitante](http://www.hebdo.ch/hebdo/cadrages/detail/d%C3%A9sir-f%C3%A9minin-une-histoire-excitante)
 - Les 400 culs<br/>[http://sexes.blogs.liberation.fr/](http://sexes.blogs.liberation.fr/)
      - Faut-il en finir avec les tabous?<br/>[http://sexes.blogs.liberation.fr/2015/08/30/faut-il-en-finir-avec-les-tabous/](http://sexes.blogs.liberation.fr/2015/08/30/faut-il-en-finir-avec-les-tabous/)
      - Toutes les femmes sont des catins...<br/>[http://sexes.blogs.liberation.fr/2015/09/28/toutes-les-femmes-sont-des-putes/](http://sexes.blogs.liberation.fr/2015/09/28/toutes-les-femmes-sont-des-putes/)
-     - Tu n'as pas honte!?<br/>[http://sexes.blogs.liberation.fr/2015/11/08/tu-n-pas-honte/?utm_campaign=Echobox&utm_medium=Social&utm_source=Facebook](http://sexes.blogs.liberation.fr/2015/11/08/tu-n-pas-honte/?utm_campaign=Echobox&utm_medium=Social&utm_source=Facebook)
-     - Dressez la liste de vos désires et faites la circuler<br/>[http://sexes.blogs.liberation.fr/2014/08/25/comment-deviner-les-desirs-de-lautre-/](http://sexes.blogs.liberation.fr/2014/08/25/comment-deviner-les-desirs-de-lautre-/)
+     - Tu n’as pas honte !?<br/>[http://sexes.blogs.liberation.fr/2015/11/08/tu-n-pas-honte/?utm_campaign=Echobox&utm_medium=Social&utm_source=Facebook](http://sexes.blogs.liberation.fr/2015/11/08/tu-n-pas-honte/?utm_campaign=Echobox&utm_medium=Social&utm_source=Facebook)
+     - Dressez la liste de vos désirs et faites la circuler<br/>[http://sexes.blogs.liberation.fr/2014/08/25/comment-deviner-les-desirs-de-lautre-/](http://sexes.blogs.liberation.fr/2014/08/25/comment-deviner-les-desirs-de-lautre-/)
      - Le Tantra vous tente-t-il?<br/>[http://sexes.blogs.liberation.fr/2012/12/13/le-tantra-vous-tente-t-il/](http://sexes.blogs.liberation.fr/2012/12/13/le-tantra-vous-tente-t-il/)
      - Pourquoi nous cachons-nous pour jouir?<br/>[http://sexes.blogs.liberation.fr/2012/11/28/pourquoi-nous-cachons-nous-pour-jouir-/](http://sexes.blogs.liberation.fr/2012/11/28/pourquoi-nous-cachons-nous-pour-jouir-/)
 
@@ -57,8 +57,8 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 
 - Calendrier Lunaire<br/>[http://www.calendrier-lunaire.net/calendrier-phasesDeLaLune](http://www.calendrier-lunaire.net/calendrier-phasesDeLaLune)
 - Comment et pourquoi je ne me lave plus le vagin et la vulve<br/>[http://moruemoderne.blogspot.ru/2014/12/comment-et-pourquoi-je-ne-me-lave-plus.html](http://moruemoderne.blogspot.ru/2014/12/comment-et-pourquoi-je-ne-me-lave-plus.html)
-- Couvrez ce sein! Les tartuffe sont de retour<br/>[http://tempsreel.nouvelobs.com/edito/20151222.OBS1809/couvrez-ce-sein-les-tartuffe-sont-de-retour.html](http://tempsreel.nouvelobs.com/edito/20151222.OBS1809/couvrez-ce-sein-les-tartuffe-sont-de-retour.html)
-- Désir féminin une histoir excitante<br/>[http://www.hebdo.ch/hebdo/cadrages/detail/d%C3%A9sir-f%C3%A9minin-une-histoire-excitante](http://www.hebdo.ch/hebdo/cadrages/detail/d%C3%A9sir-f%C3%A9minin-une-histoire-excitante)
+- Couvrez ce sein! Les tartuffes sont de retour<br/>[http://tempsreel.nouvelobs.com/edito/20151222.OBS1809/couvrez-ce-sein-les-tartuffe-sont-de-retour.html](http://tempsreel.nouvelobs.com/edito/20151222.OBS1809/couvrez-ce-sein-les-tartuffe-sont-de-retour.html)
+- Désir féminin une histoire excitante<br/>[http://www.hebdo.ch/hebdo/cadrages/detail/d%C3%A9sir-f%C3%A9minin-une-histoire-excitante](http://www.hebdo.ch/hebdo/cadrages/detail/d%C3%A9sir-f%C3%A9minin-une-histoire-excitante)
 - Documentaire – Les Branleuses par Frédérique Barravia<br/>[http://monq.biz/article-4993-Documentaire+Les+branleuses+par+Frederique+Barraja.monQ](http://monq.biz/article-4993-Documentaire+Les+branleuses+par+Frederique+Barraja.monQ)
 - Elle est trop sauvage<br/>[https://femmeswomen.wordpress.com/2014/04/07/elle-est-trop-sauvage-she-is-too-wild/](https://femmeswomen.wordpress.com/2014/04/07/elle-est-trop-sauvage-she-is-too-wild/)
 - Enquête: et si on faisait la paix avec notre vagin?<br/>[http://www.femina.ch/societe/sexo/enquete-faire-paix-vagin-esthetique-dysmorphophobie](http://www.femina.ch/societe/sexo/enquete-faire-paix-vagin-esthetique-dysmorphophobie)
@@ -83,7 +83,7 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - Rituels et plantes "Nettoyage des organes génitaux"<br/>[http://lechantdesarbres.over-blog.com/2015/11/ritels-plantes-nettoyage-des-organes-genitaux.html](http://lechantdesarbres.over-blog.com/2015/11/ritels-plantes-nettoyage-des-organes-genitaux.html)
 
 ## Fellation
-- La fellation serait apparement excellente pour la santé... Et voici pourquoi!<br/>[http://www.grandstitres.com/nouvelles-generales/la-fellation-serait-apparemment-excellente-pour-la-sante-et-voici-pourquoi/](http://www.grandstitres.com/nouvelles-generales/la-fellation-serait-apparemment-excellente-pour-la-sante-et-voici-pourquoi/)
+- La fellation serait apparemment excellente pour la santé... Et voici pourquoi!<br/>[http://www.grandstitres.com/nouvelles-generales/la-fellation-serait-apparemment-excellente-pour-la-sante-et-voici-pourquoi/](http://www.grandstitres.com/nouvelles-generales/la-fellation-serait-apparemment-excellente-pour-la-sante-et-voici-pourquoi/)
 
 ## Formation sexualité
 
@@ -95,7 +95,7 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 
 ## Liberté sexuelle
 
-- Désir féminin une histoir excitante<br/>[http://www.hebdo.ch/hebdo/cadrages/detail/d%C3%A9sir-f%C3%A9minin-une-histoire-excitante](http://www.hebdo.ch/hebdo/cadrages/detail/d%C3%A9sir-f%C3%A9minin-une-histoire-excitante)
+- Désir féminin une histoire excitante<br/>[http://www.hebdo.ch/hebdo/cadrages/detail/d%C3%A9sir-f%C3%A9minin-une-histoire-excitante](http://www.hebdo.ch/hebdo/cadrages/detail/d%C3%A9sir-f%C3%A9minin-une-histoire-excitante)
 - Elle propose à son mari un an pour coucher avec qui ils veulent. Résultats ?<br/>[http://www.pausecafein.fr/sexe/offre-mariage-sexe-aventures.html](http://www.pausecafein.fr/sexe/offre-mariage-sexe-aventures.html)
 - Les mythes amoureux (3) La fidélité<br/>[http://www.redpsy.com/infopsy/fidelite.html](http://www.redpsy.com/infopsy/fidelite.html)
 - Liberté sexuelle ou promiscuité sexuelle ?<br/>[http://templeyonimatre.weebly.com/sexualiteacute-sacreacutee/liberte-sexuelle-ou-promiscuite-sexuelle](http://templeyonimatre.weebly.com/sexualiteacute-sacreacutee/liberte-sexuelle-ou-promiscuite-sexuelle)
@@ -120,7 +120,7 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - Les 8 erreurs que les hommes commettent au moment de faire l’amour<br/>[http://amelioretasante.com/les-8-erreurs-que-les-hommes-comettent-au-moment-de-faire-lamour/](http://amelioretasante.com/les-8-erreurs-que-les-hommes-comettent-au-moment-de-faire-lamour/)
 - Masculin sacré, sexualité de l’homme et paroles d’hommes – Patrick Ferrer<br/>[https://www.youtube.com/watch?v=XRNKHYiJonc&feature=youtu.be](https://www.youtube.com/watch?v=XRNKHYiJonc&feature=youtu.be)
 - Si tu veux changer le monde, aime un homme<br/>[https://www.youtube.com/watch?v=xYoHpwiqTvU](https://www.youtube.com/watch?v=xYoHpwiqTvU)
-- Témoignage d'un homme qui ne veux pas faire de cunnilingus<br/>[http://www.slate.fr/story/109435/cunnilingus-pratique-sexuelle](http://www.slate.fr/story/109435/cunnilingus-pratique-sexuelle)
+- Témoignage d’un homme qui ne veut pas faire de cunnilingus<br/>[http://www.slate.fr/story/109435/cunnilingus-pratique-sexuelle](http://www.slate.fr/story/109435/cunnilingus-pratique-sexuelle)
 
 ## Masturbation masculine et féminine
 
@@ -140,7 +140,7 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - Nommer l’orgasme : l’enquête qui va faire du bruit<br/>[http://www.santemagazine.fr/le-blog-sexo-de-marine-nugeron-et-daisy-le-corre/nommer-l-orgasme-l-enquete-qui-va-faire-du-bruit-60952.html](http://www.santemagazine.fr/le-blog-sexo-de-marine-nugeron-et-daisy-le-corre/nommer-l-orgasme-l-enquete-qui-va-faire-du-bruit-60952.html)
 - Odile Buisson : Le point G et l’orgasme féminin<br/>[http://www.dailymotion.com/video/x1ytz7h_odile-buisson-le-point-g-et-l-orgasme-feminin_school](http://www.dailymotion.com/video/x1ytz7h_odile-buisson-le-point-g-et-l-orgasme-feminin_school)
 - Orgasmie du coeur<br/>[http://www.orgasmieducoeur.org/](http://www.orgasmieducoeur.org/)
-- Tout savoir sur l'orgasme nocturne chez les femmes<br/>[http://www.santemagazine.fr/actualite-tout-savoir-sur-l-orgasme-nocturne-chez-les-femmes-73343.html](http://www.santemagazine.fr/actualite-tout-savoir-sur-l-orgasme-nocturne-chez-les-femmes-73343.html)
+- Tout savoir sur l’orgasme nocturne chez les femmes<br/>[http://www.santemagazine.fr/actualite-tout-savoir-sur-l-orgasme-nocturne-chez-les-femmes-73343.html](http://www.santemagazine.fr/actualite-tout-savoir-sur-l-orgasme-nocturne-chez-les-femmes-73343.html)
 
 ## Santé et sexualité
 
@@ -149,7 +149,7 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 
 ## Sexualité dans l’histoire
 
-- À Paris, l'Eglise catholique exploitait 3000 bordels et 40000 prostituée<br/>[http://matricien.org/patriarcat/sociologie/prostitution/bordel-eglise/](http://matricien.org/patriarcat/sociologie/prostitution/bordel-eglise/)
+- À Paris, l’Église catholique exploitait 3000 bordels et 40000 prostituée<br/>[http://matricien.org/patriarcat/sociologie/prostitution/bordel-eglise/](http://matricien.org/patriarcat/sociologie/prostitution/bordel-eglise/)
 - Itinéraires Bretagne : de Kamasutra breton dans nos églises <br/>[http://france3-regions.francetvinfo.fr/bretagne/itineraires-de-bretagne-sexe-art-et-religion-828027.html](http://france3-regions.francetvinfo.fr/bretagne/itineraires-de-bretagne-sexe-art-et-religion-828027.html)
 - Lajja Gauri ou la déesse à la tête de lotus<br/>[http://templeyonimatre.weebly.com/deacuteesses/lajja-gauri-ou-la-desse-tte-de-lotus](http://templeyonimatre.weebly.com/deacuteesses/lajja-gauri-ou-la-desse-tte-de-lotus)
 - Le cul bénit. Amour sacré et passions profanes – Bernard Rio<br/>[https://www.youtube.com/watch?v=dnIqEqy5jGE](https://www.youtube.com/watch?v=dnIqEqy5jGE)
@@ -168,7 +168,7 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 
 - 55\. La conscience sexuelle<br/>[http://www.colling.lu/chapitres_fr/55.pdf](http://www.colling.lu/chapitres_fr/55.pdf)
 - En amour, nos peaux sont plus intelligentes que nos mots...<br/>[http://lespaceducouple.com/2015/07/08/en-amour-nos-peaux-sont-plus-intelligentes-que-nos-mots-2/](http://lespaceducouple.com/2015/07/08/en-amour-nos-peaux-sont-plus-intelligentes-que-nos-mots-2/)
-- Energie sexuelle, trois phases d'expérimentation<br/>[http://therapiequantique.eklablog.com/energie-sexuelle-trois-phases-d-experimentation-a118016592](http://therapiequantique.eklablog.com/energie-sexuelle-trois-phases-d-experimentation-a118016592)
+- Energie sexuelle, trois phases d’expérimentation<br/>[http://therapiequantique.eklablog.com/energie-sexuelle-trois-phases-d-experimentation-a118016592](http://therapiequantique.eklablog.com/energie-sexuelle-trois-phases-d-experimentation-a118016592)
 - Féminin sacré : s’épanouir dans une sexualité sacrée<br/>[http://femininsacre.com/feminin-sacre-spanouir-dans-la-sexualite-sacree/](http://femininsacre.com/feminin-sacre-spanouir-dans-la-sexualite-sacree/)
 - Inspiration naturiennes : Sexualité Naturienne...<br/>[https://www.youtube.com/watch?v=utw2XB1ZeKQ&list=UUWQT49S0h-JQwiXxF0FWXKA](https://www.youtube.com/watch?v=utw2XB1ZeKQ&list=UUWQT49S0h-JQwiXxF0FWXKA)
 - La sexualité Divine (par les Êtres de lumière)<br/>[http://chrysalyda.com/2015/02/03/la-sexualite-divine-par-les-etres-de-lumiere/](http://chrysalyda.com/2015/02/03/la-sexualite-divine-par-les-etres-de-lumiere/)
@@ -190,7 +190,7 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - La sexualité et le tantra<br/>[http://presenceasoi.be/la-sexualite-et-le-tantra/](http://presenceasoi.be/la-sexualite-et-le-tantra/)#
 - Le tantra est l’inverse de la pornographie, comment apprendre à avoir une intimité épanouie<br/>[http://www.espritsciencemetaphysiques.com/le-tantra-est-linverse-de-la-pornographie-comment-apprendre-a-avoir-une-intimite-epanouie.html](http://www.espritsciencemetaphysiques.com/le-tantra-est-linverse-de-la-pornographie-comment-apprendre-a-avoir-une-intimite-epanouie.html)
 - Le tantra et le Rebirth par Danielle<br/>[https://www.youtube.com/watch?v=6ObgbBpHmhg](https://www.youtube.com/watch?v=6ObgbBpHmhg)
-- Le Tantra: une voie de transformation integrale de l'être humain<br/>[http://www.letoucherducoeur.fr/2015/12/le-tantra-une-voie-de-transformation-integrale-de-l-etre-humain.html?utm_source=_ob_share&utm_medium=_ob_facebookpage&utm_campaign=_ob_share_auto](http://www.letoucherducoeur.fr/2015/12/le-tantra-une-voie-de-transformation-integrale-de-l-etre-humain.html?utm_source=_ob_share&utm_medium=_ob_facebookpage&utm_campaign=_ob_share_auto)
+- Le Tantra: une voie de transformation intégrale de l’être humain<br/>[http://www.letoucherducoeur.fr/2015/12/le-tantra-une-voie-de-transformation-integrale-de-l-etre-humain.html?utm_source=_ob_share&utm_medium=_ob_facebookpage&utm_campaign=_ob_share_auto](http://www.letoucherducoeur.fr/2015/12/le-tantra-une-voie-de-transformation-integrale-de-l-etre-humain.html?utm_source=_ob_share&utm_medium=_ob_facebookpage&utm_campaign=_ob_share_auto)
 - Maithune, l’art du sexe sacré<br/>[http://www.le-sidh.org/site/article_319.html](http://www.le-sidh.org/site/article_319.html)
 - Qu’est-ce que le Tantra ?<br/>[http://www.meditationfrance.com/tantra/quoi.htm](http://www.meditationfrance.com/tantra/quoi.htm)
 - Qu’est-ce que le Tao ? Comment se guérir grâce à votre énergie sexuelle ? – Aisha Sieburth<br/>[https://www.youtube.com/watch?v=7DvPeK8GU5w&feature=youtu.be](https://www.youtube.com/watch?v=7DvPeK8GU5w&feature=youtu.be)
@@ -203,7 +203,7 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - Temple Yoni Matre<br/>[http://templeyonimatre.weebly.com/](http://templeyonimatre.weebly.com/)
 	- La vulve sacrée autour du monde<br/>[http://templeyonimatre.weebly.com/culte-du-yoni/la-vulve-sacre-autour-du-monde](http://templeyonimatre.weebly.com/culte-du-yoni/la-vulve-sacre-autour-du-monde)
 	- Le pouvoir sacré du sang menstruel<br/>[http://templeyonimatre.weebly.com/mystegraveres-du-sang-feacuteminin/le-pouvoir-sacr-du-sang-menstruel](http://templeyonimatre.weebly.com/mystegraveres-du-sang-feacuteminin/le-pouvoir-sacr-du-sang-menstruel)
-	- Les 7 Merveilles de l’Uterus : Découvrez les pouvoirs incroyables de l’Uterus<br/>[http://templeyonimatre.weebly.com/mystegraveres-du-sang-feacuteminin](http://templeyonimatre.weebly.com/mystegraveres-du-sang-feacuteminin)
+	- Les 7 Merveilles de l’Utérus : Découvrez les pouvoirs incroyables de l’Uterus<br/>[http://templeyonimatre.weebly.com/mystegraveres-du-sang-feacuteminin](http://templeyonimatre.weebly.com/mystegraveres-du-sang-feacuteminin)
 	- [http://templeyonimatre.weebly.com/mystegraveres-du-sang-feacuteminin/les-7-merveilles-de-luterus-decouvrez-les-pouvoirs-incroyables-de-luterus](http://templeyonimatre.weebly.com/mystegraveres-du-sang-feacuteminin/les-7-merveilles-de-luterus-decouvrez-les-pouvoirs-incroyables-de-luterus)
 	- Les seins : Au-delà de toute comparaison<br/>[http://templeyonimatre.weebly.com/sexualiteacute-sacreacutee](http://templeyonimatre.weebly.com/sexualiteacute-sacreacutee)
 	- Liberté sexuelle ou promiscuité sexuelle ?<br/>[http://templeyonimatre.weebly.com/sexualiteacute-sacreacutee/liberte-sexuelle-ou-promiscuite-sexuelle](http://templeyonimatre.weebly.com/sexualiteacute-sacreacutee/liberte-sexuelle-ou-promiscuite-sexuelle)

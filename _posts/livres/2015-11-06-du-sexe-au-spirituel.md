@@ -7,7 +7,7 @@ exergue      : "Dialogue entre Brigitte Lahaie et Selim Aissel, maître spiritue
 
 Dialogue entre Brigitte Lahaie et Selim Aissel, maître spirituel
 
-Ce livre exceptionnel est la transcription d’un échange entre Brigitte Lahaie, spécialiste de la sexualité et animatrice de longue date d’une émission sur Radio Monte-Carlo, et Selim Aïssel, maître spirituel et fondateur de la Psycho-Antropologie.
+Ce livre exceptionnel est la transcription d’un échange entre Brigitte Lahaie, spécialiste de la sexualité et animatrice de longue date d’une émission sur Radio Monte-Carlo, et Selim Aïssel, maître spirituel et fondateur de la psycho-antropologie.
 
 Selim Aïssel a toujours refusé l’interview journaliste , même des plus connus d’entre eux. Mais il s’est volontiers prêté à cet échange de questions-réponses, et c’est la première fois qu’il accepte de s’exprimer publiquement sur la sexualité, sans en exclure le moindre aspect : désir, jalousie, infidélité, prostitution, homosexualité, pornographie. Ses propos sont surprenants, et toujours inspirants.
 

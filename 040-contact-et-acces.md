@@ -23,7 +23,7 @@ Suisse
 ![](../images/laetitia-stucki-cabinet-vallee-de-joux.jpg)
 
 
-Plan google maps: <https://goo.gl/maps/oyvTC>
+Plan Google Maps: <https://goo.gl/maps/oyvTC>
 
 ![](../images/laetitia-stucki-cabinet-vallee-de-joux-acces.jpg)
 
@@ -36,6 +36,6 @@ CH–1004 Lausanne
 
 <http://www.delaterrealalune.ch>
 
-Plan google maps : <http://bit.ly/1BlnfdQ>
+Plan Google Maps : <http://bit.ly/1BlnfdQ>
 
 ![](../images/laetitia-stucki-cabinet-lausanne.jpg)

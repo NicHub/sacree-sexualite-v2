@@ -13,4 +13,4 @@ Psychanalyste et conteuse, fascinée par les mythes et les légendes, auteur ég
 
 À travers des « fouilles psychoarchéologiques » des ruines de l’inconscient féminin, en faisant appel aux traditions et aux représentations les plus diverses, de la Vierge Marie à vénus, de Barbe-Bleue à la petite marchande d’allumettes, elle ouvre la porte et démontre qu’il ne tient qu’à chacune de retrouver en elle la Femme Sauvage.
 
-Best.Seller aux États-Unis, ce livre exceptionnel est destiné à faire date dans l’évolution contemporaine de l’identité féminine.
+Best-seller aux États-Unis, ce livre exceptionnel est destiné à faire date dans l’évolution contemporaine de l’identité féminine.

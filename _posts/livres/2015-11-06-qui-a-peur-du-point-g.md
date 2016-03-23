@@ -2,10 +2,10 @@
 layout       : livre
 title        : "Qui a peur du point G ?"
 categories   : livres
-exergue      : "Le plaisir feminin, une angoisse masculine"
+exergue      : "Le plaisir féminin, une angoisse masculine"
 ---
 
-Le plaisir feminin, une angoisse masculine
+Le plaisir féminin, une angoisse masculine
 
 Au XXIe siècle, le plaisir féminin reste un sujet tabou. Véritable « continent noir » de la médecine, la sexualité des femmes est très peu étudiée, notamment en France. Comme si l’accès au septième ciel dépendant toujours de la seule qualité d’un amant.
 

@@ -1,8 +1,8 @@
 ---
 layout       : livre
-title        : La femme optimale
+title        : "La femme optimale"
 categories   : livres
-exergue      : Un programme en 28 jours pour découvrir les énergies créatrices du cycle féminin et s’épanouir
+exergue      : "Un programme en 28 jours pour découvrir les énergies créatrices du cycle féminin et s’épanouir"
 ---
 
 Un programme en 28 jours pour découvrir les énergies créatrices du cycle féminin et s’épanouir
