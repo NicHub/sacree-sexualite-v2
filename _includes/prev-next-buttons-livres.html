@@ -16,7 +16,7 @@
 {% assign NextPage = site.categories.["livres"][NextID] %}
 
 		<div class="btn-prev-next text-center">
-			<a class="btn btn-primary bouton-prec" title="{{ PrevPage.title }}" href="{{ site.baseurl }}{{ PrevPage.url }}" role="button"><i class="fa fa-chevron-circle-left"></i></a>
+			<a class="btn btn-primary bouton-prec" title="{{ PrevPage.title }}" href="{{ thisbaseurl }}{{ PrevPage.url }}" role="button"><i class="fa fa-chevron-circle-left"></i></a>
 
 			<span>&nbsp;</span>
 
@@ -26,5 +26,5 @@
 
 			<span>&nbsp;</span>
 
-			<a class="btn btn-primary bouton-suiv" title="{{ NextPage.title }}" href="{{ site.baseurl }}{{ NextPage.url }}" role="button"><i class="fa fa-chevron-circle-right"></i></a>
+			<a class="btn btn-primary bouton-suiv" title="{{ NextPage.title }}" href="{{ thisbaseurl }}{{ NextPage.url }}" role="button"><i class="fa fa-chevron-circle-right"></i></a>
 		</div>
