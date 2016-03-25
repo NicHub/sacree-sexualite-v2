@@ -136,8 +136,12 @@ body#page {
 				$h_vignette: 300px;
 				height: $h_vignette;
 				max-height: $h_vignette;
+				text-align: center;
+				font-size: 10pt;
+				text-transform: uppercase;
+				font-weight: bold;
 				img {
-					$taille-image: 300px;
+					$taille-image: 200px;
 					width: $taille-image;
 					height: $taille-image;
 					margin: 10px auto;
