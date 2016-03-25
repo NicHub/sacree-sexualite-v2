@@ -24,6 +24,7 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 
 ## Contraception
 
+- Ces vies brisées par la pilule[http://www.lemonde.fr/sante/article/2013/01/15/ces-vies-brisees-par-la-pilule_1806522_1651302.html#HopfRtmKZBsWoxHy.99](http://www.lemonde.fr/sante/article/2013/01/15/ces-vies-brisees-par-la-pilule_1806522_1651302.html#HopfRtmKZBsWoxHy.99)
 - La pilule contraceptive est en train de tuer les femmes, mais personne ne dit mot<br/>[http://www.trucsettutos.com/2016/01/la-pilule-contraceptive-est-en-train-de-tuer-les-femmes-mais-personne-ne-dit-mot.html](http://www.trucsettutos.com/2016/01/la-pilule-contraceptive-est-en-train-de-tuer-les-femmes-mais-personne-ne-dit-mot.html)
 - Ovules contraceptives naturelles<br/>[http://lechantdesarbres.over-blog.com/2015/12/ovules-contraceptives-naturelles.html](http://lechantdesarbres.over-blog.com/2015/12/ovules-contraceptives-naturelles.html)
 - Symptothermie<br/>[http://sympto.org/home-main_fr.html](http://sympto.org/home-main_fr.html)
@@ -34,16 +35,23 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - C’est tendance ! - La nouvelle façon de s’aimer sous la couette<br/>[http://www.rts.ch/la-1ere/programmes/le-journal-du-samedi/6484958-le-journal-du-samedi-du-07-02-2015.html#6484943](http://www.rts.ch/la-1ere/programmes/le-journal-du-samedi/6484958-le-journal-du-samedi-du-07-02-2015.html#6484943)
 - Couple : et si vous testiez le slow sex, l’amour en pleine conscience ?<br/>[http://www.lexpress.fr/styles/psycho/slow-sex-faire-l-amour-en-pleine-conscience_1547045.html](http://www.lexpress.fr/styles/psycho/slow-sex-faire-l-amour-en-pleine-conscience_1547045.html)
 - Elle propose à son mari un an pour coucher avec qui ils veulent. Résultats ?<br/>[http://www.pausecafein.fr/sexe/offre-mariage-sexe-aventures.html](http://www.pausecafein.fr/sexe/offre-mariage-sexe-aventures.html)
+- La sexualité de l'homme:entre la Madone et la Putain!<br/>[http://www.psy-luxeuil.fr/2016/01/la-sexualite-de-l-homme-entre-la-madone-et-la-putain.html](http://www.psy-luxeuil.fr/2016/01/la-sexualite-de-l-homme-entre-la-madone-et-la-putain.html)
 - Le couple dans la voie Chamanique - Tantrique<br/>[http://www.conscience-et-eveil-spirituel.com/article-sur-le-nouveau-couple.html](http://www.conscience-et-eveil-spirituel.com/article-sur-le-nouveau-couple.html)
 - Le nouveau couple<br/>[http://chrysalyda.com/2015/05/15/le-nouveau-couple/](http://chrysalyda.com/2015/05/15/le-nouveau-couple/)
+- Lorsque vous tombez amoureux, n'essayez pas de l'expliquer, et laissez vous envahir<br/>[http://nospensees.fr/lorsque-tombez-amoureux-nessayez-de-lexpliquer-laissez-lamour-envahir/?utm_medium=post&utm_source=website&utm_campaign=popular](http://nospensees.fr/lorsque-tombez-amoureux-nessayez-de-lexpliquer-laissez-lamour-envahir/?utm_medium=post&utm_source=website&utm_campaign=popular)
 - Ne confondez pas relation, couple et amour<br/>[http://chemindevie.net/relation-couple-amour/?utm_campaign=shareaholic&utm_medium=facebook&utm_source=socialnetwork](http://chemindevie.net/relation-couple-amour/?utm_campaign=shareaholic&utm_medium=facebook&utm_source=socialnetwork)
 - Quel genre d’infidèle êtes-vous?<br/>[http://sexes.blogs.liberation.fr/2012/11/20/quel-est-votre-genre-dinfidelite-/](http://sexes.blogs.liberation.fr/2012/11/20/quel-est-votre-genre-dinfidelite-/)
 - Tous les couples sont voués à l’échec<br/>[http://blogdudevperso.com/tous-les-couples-sont-voues-a-lechec/](http://blogdudevperso.com/tous-les-couples-sont-voues-a-lechec/)
 - Une rupture amoureuse fait souffrir, mais notre cerveau est fait pour que nous passions à autre chose<br/>[http://www.huffingtonpost.fr/2015/03/30/rupture-amoureuse-cerveau-passer-autre-chose_n_6967252.html?ir=France&ncid=fcbklnkfrhpmg00000001](http://www.huffingtonpost.fr/2015/03/30/rupture-amoureuse-cerveau-passer-autre-chose_n_6967252.html?ir=France&ncid=fcbklnkfrhpmg00000001)
 
+## Cunilingus et massage
+- Massage du yoni dans le cadre du couple<br/>[http://www.massagetantrique.pro/massageYoni.html](http://www.massagetantrique.pro/massageYoni.html)
+
 ## Dédramatiser la sexualité
 
+- Cinquante nuances de Grey<br/>[http://streamcomplet.com/cinquante-nuances-de-grey/](http://streamcomplet.com/cinquante-nuances-de-grey/)
 - Désir féminin, une histoire excitante<br/>[http://www.hebdo.ch/hebdo/cadrages/detail/d%C3%A9sir-f%C3%A9minin-une-histoire-excitante](http://www.hebdo.ch/hebdo/cadrages/detail/d%C3%A9sir-f%C3%A9minin-une-histoire-excitante)
+- Erotic-attitude<br/>[http://erotic-attitude.com/](http://erotic-attitude.com/)
 - Les 400 culs<br/>[http://sexes.blogs.liberation.fr/](http://sexes.blogs.liberation.fr/)
      - Faut-il en finir avec les tabous?<br/>[http://sexes.blogs.liberation.fr/2015/08/30/faut-il-en-finir-avec-les-tabous/](http://sexes.blogs.liberation.fr/2015/08/30/faut-il-en-finir-avec-les-tabous/)
      - Toutes les femmes sont des catins...<br/>[http://sexes.blogs.liberation.fr/2015/09/28/toutes-les-femmes-sont-des-putes/](http://sexes.blogs.liberation.fr/2015/09/28/toutes-les-femmes-sont-des-putes/)
@@ -53,11 +61,12 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
      - Pourquoi nous cachons-nous pour jouir?<br/>[http://sexes.blogs.liberation.fr/2012/11/28/pourquoi-nous-cachons-nous-pour-jouir-/](http://sexes.blogs.liberation.fr/2012/11/28/pourquoi-nous-cachons-nous-pour-jouir-/)
 
 
-## Féminin sacré
+## Féminin sacré et Lunes
 
 - Calendrier Lunaire<br/>[http://www.calendrier-lunaire.net/calendrier-phasesDeLaLune](http://www.calendrier-lunaire.net/calendrier-phasesDeLaLune)
 - Comment et pourquoi je ne me lave plus le vagin et la vulve<br/>[http://moruemoderne.blogspot.ru/2014/12/comment-et-pourquoi-je-ne-me-lave-plus.html](http://moruemoderne.blogspot.ru/2014/12/comment-et-pourquoi-je-ne-me-lave-plus.html)
 - Couvrez ce sein! Les tartuffes sont de retour<br/>[http://tempsreel.nouvelobs.com/edito/20151222.OBS1809/couvrez-ce-sein-les-tartuffe-sont-de-retour.html](http://tempsreel.nouvelobs.com/edito/20151222.OBS1809/couvrez-ce-sein-les-tartuffe-sont-de-retour.html)
+- De la femme blessée à la femme consciente<br/>[http://lapressegalactique.com/2016/01/06/de-la-femme-blessee-a-la-femme-consciente/](http://lapressegalactique.com/2016/01/06/de-la-femme-blessee-a-la-femme-consciente/)
 - Désir féminin une histoire excitante<br/>[http://www.hebdo.ch/hebdo/cadrages/detail/d%C3%A9sir-f%C3%A9minin-une-histoire-excitante](http://www.hebdo.ch/hebdo/cadrages/detail/d%C3%A9sir-f%C3%A9minin-une-histoire-excitante)
 - Documentaire – Les Branleuses par Frédérique Barravia<br/>[http://monq.biz/article-4993-Documentaire+Les+branleuses+par+Frederique+Barraja.monQ](http://monq.biz/article-4993-Documentaire+Les+branleuses+par+Frederique+Barraja.monQ)
 - Elle est trop sauvage<br/>[https://femmeswomen.wordpress.com/2014/04/07/elle-est-trop-sauvage-she-is-too-wild/](https://femmeswomen.wordpress.com/2014/04/07/elle-est-trop-sauvage-she-is-too-wild/)
@@ -76,14 +85,16 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 	- Les règles sans aucune protection : le flux instinctif libre !<br/>[https://www.youtube.com/watch?v=EEk9ViK2-2A](https://www.youtube.com/watch?v=EEk9ViK2-2A)
 	- Offrir le sang de mes Lunes à la Terre<br/>[http://decoeurasoi.free.fr/?p=1061](http://decoeurasoi.free.fr/?p=1061)
 	- Parlons de règles (flux instinctif)<br/>[http://www.dailymotion.com/video/x27ia8u_bienetreaujus-menstru-parlons-de-regles-www-regenere-org_webcam](http://www.dailymotion.com/video/x27ia8u_bienetreaujus-menstru-parlons-de-regles-www-regenere-org_webcam)
+	- Sang menstruel: des cellules-souches 100'000 fois plus rapide que les autres<br/>[http://matricien.org/2013/10/06/sang-menstruel-des-cellules-souches-100-000-fois-plus-rapides-que-les-autres/](http://matricien.org/2013/10/06/sang-menstruel-des-cellules-souches-100-000-fois-plus-rapides-que-les-autres/)
 	- Sang : poème de Shana Grace<br/>[http://templeyonimatre.weebly.com/mystegraveres-du-sang-feacuteminin/previous/3](http://templeyonimatre.weebly.com/mystegraveres-du-sang-feacuteminin/previous/3)
 - Moon Mother – Womb blessing<br/>[http://www.wombblessing.com/french-workshops.html](http://www.wombblessing.com/french-workshops.html)
 - Mesdames, il est temps de brûler vos soutiens-gorges!... La science vous dira la raison!!!<br/>[http://diply.com/catalogue-de-coiffure/article/il-est-temps-de-br-ler-vos-soutiens-gorges](http://diply.com/catalogue-de-coiffure/article/il-est-temps-de-br-ler-vos-soutiens-gorges)
 - Pourquoi tant de femmes vivent-elles encore dans une « misère » sexuelle ?<br/>[http://www.levif.be/actualite/sante/pourquoi-tant-de-femmes-vivent-elles-encore-dans-une-misere-sexuelle/article-normal-427877.html?utm_source=facebook&utm_medium=social&utm_campaign=vif](http://www.levif.be/actualite/sante/pourquoi-tant-de-femmes-vivent-elles-encore-dans-une-misere-sexuelle/article-normal-427877.html?utm_source=facebook&utm_medium=social&utm_campaign=vif)
 - Rituels et plantes "Nettoyage des organes génitaux"<br/>[http://lechantdesarbres.over-blog.com/2015/11/ritels-plantes-nettoyage-des-organes-genitaux.html](http://lechantdesarbres.over-blog.com/2015/11/ritels-plantes-nettoyage-des-organes-genitaux.html)
 
-## Fellation
+## Fellation et massage
 - La fellation serait apparemment excellente pour la santé... Et voici pourquoi!<br/>[http://www.grandstitres.com/nouvelles-generales/la-fellation-serait-apparemment-excellente-pour-la-sante-et-voici-pourquoi/](http://www.grandstitres.com/nouvelles-generales/la-fellation-serait-apparemment-excellente-pour-la-sante-et-voici-pourquoi/)
+- Massage du Lingam<br/>[http://www.le-sidh.org/site/article_574.html](http://www.le-sidh.org/site/article_574.html)
 
 ## Formation sexualité
 
@@ -121,6 +132,7 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - Masculin sacré, sexualité de l’homme et paroles d’hommes – Patrick Ferrer<br/>[https://www.youtube.com/watch?v=XRNKHYiJonc&feature=youtu.be](https://www.youtube.com/watch?v=XRNKHYiJonc&feature=youtu.be)
 - Si tu veux changer le monde, aime un homme<br/>[https://www.youtube.com/watch?v=xYoHpwiqTvU](https://www.youtube.com/watch?v=xYoHpwiqTvU)
 - Témoignage d’un homme qui ne veut pas faire de cunnilingus<br/>[http://www.slate.fr/story/109435/cunnilingus-pratique-sexuelle](http://www.slate.fr/story/109435/cunnilingus-pratique-sexuelle)
+- Vers une sexualité saine et rayonnante, l'homme divin<br/>[http://evolutionsexuelle.simplesite.com/420404672?b=CCA7D6DA42E4B587D132C2935DCC24BF1588B4F](http://evolutionsexuelle.simplesite.com/420404672?b=CCA7D6DA42E4B587D132C2935DCC24BF1588B4F)
 
 ## Masturbation masculine et féminine
 
@@ -140,6 +152,7 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - Nommer l’orgasme : l’enquête qui va faire du bruit<br/>[http://www.santemagazine.fr/le-blog-sexo-de-marine-nugeron-et-daisy-le-corre/nommer-l-orgasme-l-enquete-qui-va-faire-du-bruit-60952.html](http://www.santemagazine.fr/le-blog-sexo-de-marine-nugeron-et-daisy-le-corre/nommer-l-orgasme-l-enquete-qui-va-faire-du-bruit-60952.html)
 - Odile Buisson : Le point G et l’orgasme féminin<br/>[http://www.dailymotion.com/video/x1ytz7h_odile-buisson-le-point-g-et-l-orgasme-feminin_school](http://www.dailymotion.com/video/x1ytz7h_odile-buisson-le-point-g-et-l-orgasme-feminin_school)
 - Orgasmie du coeur<br/>[http://www.orgasmieducoeur.org/](http://www.orgasmieducoeur.org/)
+- Similitudes des organes, similitudes des orgasmes<br/>[http://secondsexe.com/magazine/Similitudes-des-organes.html](http://secondsexe.com/magazine/Similitudes-des-organes.html)
 - Tout savoir sur l’orgasme nocturne chez les femmes<br/>[http://www.santemagazine.fr/actualite-tout-savoir-sur-l-orgasme-nocturne-chez-les-femmes-73343.html](http://www.santemagazine.fr/actualite-tout-savoir-sur-l-orgasme-nocturne-chez-les-femmes-73343.html)
 
 ## Santé et sexualité

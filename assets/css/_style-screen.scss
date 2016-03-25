@@ -72,10 +72,8 @@ body#page {
 			margin: 0;
 			padding: 0;
 			&.header {
-				// background-color: rgba( 255,255,255,0.5 );
 				margin-top: -450px;
 				div.titre-principal {
-					// background-color: rgba( 255,255,255,0.7 );
 					border-radius: 20px;
 					padding: 40px 0 0;
 					text-align: center;
@@ -155,7 +153,6 @@ body#page {
 			height: $h_vignette;
 			max-height: $h_vignette;
 			img {
-				// border: 1px solid red;
 				$taille-image: 300px;
 				width: $taille-image;
 				height: $taille-image;
@@ -194,8 +191,6 @@ footer {
 		height: $footer-height;
 		font-size: 10.5pt;
 		:link {
-			// $brand-primary: #337ab7;
-			// color: lighten( $brand-primary, 20% ); // = #77acd9
 			color: #77acd9;
 		}
 	}
@@ -206,9 +201,10 @@ footer {
 // formulaire
 form {
 	margin: 10px auto;
+	display: table;
+	width: 100%;
 	input, textarea, button, p {
 		margin: 10px auto;
-		display: block;
 	}
 	textarea {
 		resize: vertical;
@@ -218,4 +214,3 @@ form {
 		text-align: center;
 	}
 }
-

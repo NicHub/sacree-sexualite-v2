@@ -7,6 +7,7 @@ published: true
 
 # Contact et accès
 
+
 Je vous offre la possibilité de venir à mes consultations soit à la Vallée de Joux, soit à Lausanne :
 
 Laetitia Stucki
@@ -16,6 +17,8 @@ Suisse
 
 <mailto:laetitia.stucki@gmail.com>
 <i class="fa fa-mobile"></i> +41 79 326 30 64
+
+{% include formspree.md %}
 
 
 ## Vallée de Joux
@@ -39,3 +42,5 @@ CH–1004 Lausanne
 Plan Google Maps : <http://bit.ly/1BlnfdQ>
 
 ![](../images/laetitia-stucki-cabinet-lausanne.jpg)
+
+vous pouvez également me contacter par message perso sur [ma page Facebook « sacrée sexualité »](https://www.facebook.com/sacre.sex/).
