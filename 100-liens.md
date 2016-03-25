@@ -19,8 +19,8 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 
 - La taille du clitoris a-t-elle son importance pour l’orgasme?<br/>[http://www.santemagazine.fr/le-blog-sexo-de-marine-nugeron-et-daisy-le-corre/la-taille-du-clitoris-en-quoi-ca-compte-61925.html](http://www.santemagazine.fr/le-blog-sexo-de-marine-nugeron-et-daisy-le-corre/la-taille-du-clitoris-en-quoi-ca-compte-61925.html)
 - Le clitoris au fil des siècles, de sa découverte à sa mauvaise réputation<br/>[http://www.racontemoilhistoire.com/2015/04/27/clitoris-au-fil-siecles-decouverte-mauvaise-reputation/](http://www.racontemoilhistoire.com/2015/04/27/clitoris-au-fil-siecles-decouverte-mauvaise-reputation/)
+- Ode au clitoris<br/>[http://pouletrotique.com/2016/03/16/ode-au-clitoris/](http://pouletrotique.com/2016/03/16/ode-au-clitoris/)
 - Odile Buisson : Le point G et l’orgasme féminin<br/>[http://www.dailymotion.com/video/x1ytz7h_odile-buisson-le-point-g-et-l-orgasme-feminin_school](http://www.dailymotion.com/video/x1ytz7h_odile-buisson-le-point-g-et-l-orgasme-feminin_school)
-- Témoignage d’un homme qui ne veut pas faire de cunnilingus<br/>[http://www.slate.fr/story/109435/cunnilingus-pratique-sexuelle](http://www.slate.fr/story/109435/cunnilingus-pratique-sexuelle)
 
 ## Contraception
 
@@ -38,6 +38,7 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - La sexualité de l'homme:entre la Madone et la Putain!<br/>[http://www.psy-luxeuil.fr/2016/01/la-sexualite-de-l-homme-entre-la-madone-et-la-putain.html](http://www.psy-luxeuil.fr/2016/01/la-sexualite-de-l-homme-entre-la-madone-et-la-putain.html)
 - Le couple dans la voie Chamanique - Tantrique<br/>[http://www.conscience-et-eveil-spirituel.com/article-sur-le-nouveau-couple.html](http://www.conscience-et-eveil-spirituel.com/article-sur-le-nouveau-couple.html)
 - Le nouveau couple<br/>[http://chrysalyda.com/2015/05/15/le-nouveau-couple/](http://chrysalyda.com/2015/05/15/le-nouveau-couple/)
+- Les Français avouent rester en couple pour l'argent<br/>[http://www.rtl.fr/actu/societe-faits-divers/les-francais-avouent-rester-en-couple-pour-l-argent-7781790407](http://www.rtl.fr/actu/societe-faits-divers/les-francais-avouent-rester-en-couple-pour-l-argent-7781790407)
 - Lorsque vous tombez amoureux, n'essayez pas de l'expliquer, et laissez vous envahir<br/>[http://nospensees.fr/lorsque-tombez-amoureux-nessayez-de-lexpliquer-laissez-lamour-envahir/?utm_medium=post&utm_source=website&utm_campaign=popular](http://nospensees.fr/lorsque-tombez-amoureux-nessayez-de-lexpliquer-laissez-lamour-envahir/?utm_medium=post&utm_source=website&utm_campaign=popular)
 - Ne confondez pas relation, couple et amour<br/>[http://chemindevie.net/relation-couple-amour/?utm_campaign=shareaholic&utm_medium=facebook&utm_source=socialnetwork](http://chemindevie.net/relation-couple-amour/?utm_campaign=shareaholic&utm_medium=facebook&utm_source=socialnetwork)
 - Quel genre d’infidèle êtes-vous?<br/>[http://sexes.blogs.liberation.fr/2012/11/20/quel-est-votre-genre-dinfidelite-/](http://sexes.blogs.liberation.fr/2012/11/20/quel-est-votre-genre-dinfidelite-/)
@@ -46,9 +47,12 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 
 ## Cunilingus et massage
 - Massage du yoni dans le cadre du couple<br/>[http://www.massagetantrique.pro/massageYoni.html](http://www.massagetantrique.pro/massageYoni.html)
+- Témoignage d’un homme qui ne veut pas faire de cunnilingus<br/>[http://www.slate.fr/story/109435/cunnilingus-pratique-sexuelle](http://www.slate.fr/story/109435/cunnilingus-pratique-sexuelle)
+
 
 ## Dédramatiser la sexualité
 
+- À corps et ä cris, chuchottement, halètements<br/>[http://www.lemonde.fr/m-le-mag/article/2016/03/13/a-corps-et-a-cris-chuchotements-haletements_4881905_4500055.html#erGdiQSI2hDsy1kL.99](http://www.lemonde.fr/m-le-mag/article/2016/03/13/a-corps-et-a-cris-chuchotements-haletements_4881905_4500055.html#erGdiQSI2hDsy1kL.99)
 - Cinquante nuances de Grey<br/>[http://streamcomplet.com/cinquante-nuances-de-grey/](http://streamcomplet.com/cinquante-nuances-de-grey/)
 - Désir féminin, une histoire excitante<br/>[http://www.hebdo.ch/hebdo/cadrages/detail/d%C3%A9sir-f%C3%A9minin-une-histoire-excitante](http://www.hebdo.ch/hebdo/cadrages/detail/d%C3%A9sir-f%C3%A9minin-une-histoire-excitante)
 - Erotic-attitude<br/>[http://erotic-attitude.com/](http://erotic-attitude.com/)
@@ -59,6 +63,12 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
      - Dressez la liste de vos désirs et faites la circuler<br/>[http://sexes.blogs.liberation.fr/2014/08/25/comment-deviner-les-desirs-de-lautre-/](http://sexes.blogs.liberation.fr/2014/08/25/comment-deviner-les-desirs-de-lautre-/)
      - Le Tantra vous tente-t-il?<br/>[http://sexes.blogs.liberation.fr/2012/12/13/le-tantra-vous-tente-t-il/](http://sexes.blogs.liberation.fr/2012/12/13/le-tantra-vous-tente-t-il/)
      - Pourquoi nous cachons-nous pour jouir?<br/>[http://sexes.blogs.liberation.fr/2012/11/28/pourquoi-nous-cachons-nous-pour-jouir-/](http://sexes.blogs.liberation.fr/2012/11/28/pourquoi-nous-cachons-nous-pour-jouir-/)
+- Les corps nus, bruts et sans retouches de Patrick Gomme<br/>[http://www.roomantic.fr/actualites/1178/photographie-les-corps-nus-bruts-et-sans-retouches-de-patrick-gomme/](http://www.roomantic.fr/actualites/1178/photographie-les-corps-nus-bruts-et-sans-retouches-de-patrick-gomme/)
+- Plante rare: Fallopia multiflora, une plante à racine antropomorphe<br/>[http://www.alsagarden.com/blog/plante-rare-fallopia-multiflora-une-plante-a-racine-anthropomorphe/](http://www.alsagarden.com/blog/plante-rare-fallopia-multiflora-une-plante-a-racine-anthropomorphe/)
+- Quand les femmes avaient nettement plus besoin de sexe que les hommes.<br/>[https://lesfessesdelacremiere.wordpress.com/2013/04/07/quand-les-femmes-partie-1/](https://lesfessesdelacremiere.wordpress.com/2013/04/07/quand-les-femmes-partie-1/)
+- Rencontre avec l'auteur d'oeuvre érotiques qui apporte une touche psychédélique aus plaisirs de la chair sur Instagram<br/>[http://www.huffingtonpost.fr/2016/03/03/auteur-art-erotique-alphachanneling-instagram-photos_n_9375502.html?utm_hp_ref=france](http://www.huffingtonpost.fr/2016/03/03/auteur-art-erotique-alphachanneling-instagram-photos_n_9375502.html?utm_hp_ref=france) 
+- THE NU PROJECT: femmes du monde au naturel.<br/>[http://www.allaroundthegirl.com/2015/02/04/the-nu-project-femmes-nues-projet-photo-matt-blum/](http://www.allaroundthegirl.com/2015/02/04/the-nu-project-femmes-nues-projet-photo-matt-blum/)
+- Une immense frustration sexuelle à la base des violences de cologne<br/>[http://www.levif.be/actualite/international/une-immense-frustration-sexuelle-a-la-base-des-violences-de-cologne/article-opinion-448753.html](http://www.levif.be/actualite/international/une-immense-frustration-sexuelle-a-la-base-des-violences-de-cologne/article-opinion-448753.html)
 
 
 ## Féminin sacré et Lunes
@@ -80,6 +90,7 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - La quête du féminin, par Pierre Rabhi<br/>[http://chemindevie.net/la-quete-du-feminin/](http://chemindevie.net/la-quete-du-feminin/)
 - La source des femmes<br/>[http://www.streamcomplet.eu/streaming-la-source-des-femmes.php](http://www.streamcomplet.eu/streaming-la-source-des-femmes.php)
 - Les mystères de la femme<br/>[http://www.cgjung.net/publications/harding.htm](http://www.cgjung.net/publications/harding.htm)
+- lorsque cette photographe a retouché la photo de cette femme pour la rendre "plus sexy" elle savait que sa vision des choses allait radicalement changer...<br/>[http://www.demotivateur.fr/article-buzz/lorsque-sa-femme-lui-a-offert-un-album-de-photos-sexy-ce-mari-a-envoye-une-reponse-memorable--3665](http://www.demotivateur.fr/article-buzz/lorsque-sa-femme-lui-a-offert-un-album-de-photos-sexy-ce-mari-a-envoye-une-reponse-memorable--3665)
 - Lunes :
 	- Le pouvoir alchimique du sang menstruel et de l’union sexuelle<br/>[http://www.spirit-science.fr/doc_humain/sexualitealchimique.html](http://www.spirit-science.fr/doc_humain/sexualitealchimique.html)
 	- Les règles sans aucune protection : le flux instinctif libre !<br/>[https://www.youtube.com/watch?v=EEk9ViK2-2A](https://www.youtube.com/watch?v=EEk9ViK2-2A)
@@ -108,8 +119,10 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 
 - Désir féminin une histoire excitante<br/>[http://www.hebdo.ch/hebdo/cadrages/detail/d%C3%A9sir-f%C3%A9minin-une-histoire-excitante](http://www.hebdo.ch/hebdo/cadrages/detail/d%C3%A9sir-f%C3%A9minin-une-histoire-excitante)
 - Elle propose à son mari un an pour coucher avec qui ils veulent. Résultats ?<br/>[http://www.pausecafein.fr/sexe/offre-mariage-sexe-aventures.html](http://www.pausecafein.fr/sexe/offre-mariage-sexe-aventures.html)
+- Fidélité oui infidélité: qui trahit qui?<br/>[http://erotic-attitude.com/fidelite-ou-infidelite-qui-trahit-qui/](http://erotic-attitude.com/fidelite-ou-infidelite-qui-trahit-qui/)
 - Les mythes amoureux (3) La fidélité<br/>[http://www.redpsy.com/infopsy/fidelite.html](http://www.redpsy.com/infopsy/fidelite.html)
 - Liberté sexuelle ou promiscuité sexuelle ?<br/>[http://templeyonimatre.weebly.com/sexualiteacute-sacreacutee/liberte-sexuelle-ou-promiscuite-sexuelle](http://templeyonimatre.weebly.com/sexualiteacute-sacreacutee/liberte-sexuelle-ou-promiscuite-sexuelle)
+- Pourquoi on ne peut pas s'empêcher de tomber amoureux au travail<br/>[http://www.letemps.ch/economie/2016/02/19/on-ne-s-empecher-tomber-amoureux-travail](http://www.letemps.ch/economie/2016/02/19/on-ne-s-empecher-tomber-amoureux-travail)
 
 ## Lilou
 
@@ -120,6 +133,7 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 ## Lingam
 
 - L’adoration du Lingam<br/>[https://www.kaosphorus.net/2605/de-l-adoration-du-lingam/](https://www.kaosphorus.net/2605/de-l-adoration-du-lingam/)
+- Le prépuce est "l'unité sensorielle principale su pénis"<br/>[http://www.droitaucorps.com/anatomie-prepuce-sequelle-circoncision](http://www.droitaucorps.com/anatomie-prepuce-sequelle-circoncision)
 
 ## Masculin sacré
 
@@ -146,6 +160,7 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 
 - Comment atteindre un plus grand orgasme (homme et femme) – José Toiran<br/>[https://www.youtube.com/watch?v=FGRdByya-Po&feature=youtu.be](https://www.youtube.com/watch?v=FGRdByya-Po&feature=youtu.be)
 - Comment jouissent les femmes<br/>[http://www.lemonde.fr/societe/article/2014/12/17/comment-jouissent-les-femmes-selon-l-ifop_4542157_3224.html](http://www.lemonde.fr/societe/article/2014/12/17/comment-jouissent-les-femmes-selon-l-ifop_4542157_3224.html)
+- Conçue pour jouir<br/>[https://www.youtube.com/watch?v=dMCpLaIvYoQ](https://www.youtube.com/watch?v=dMCpLaIvYoQ)
 - Énergie sexuelle, orgasme et oeuf de jade – José Toiran<br/>[https://www.youtube.com/watch?v=7IxWbQcu4Ew&feature=youtu.be](https://www.youtube.com/watch?v=7IxWbQcu4Ew&feature=youtu.be)
 - La peau : un organe à orgasme<br/>[http://sexes.blogs.liberation.fr/2015/08/05/la-peau-un-organe-orgasmer/](http://sexes.blogs.liberation.fr/2015/08/05/la-peau-un-organe-orgasmer/)
 - Libérez votre énergie sexuelle avec la méditation orgasmique !<br/>[http://www.consoglobe.com/meditation-orgasmique-cg](http://www.consoglobe.com/meditation-orgasmique-cg)
@@ -154,11 +169,8 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - Orgasmie du coeur<br/>[http://www.orgasmieducoeur.org/](http://www.orgasmieducoeur.org/)
 - Similitudes des organes, similitudes des orgasmes<br/>[http://secondsexe.com/magazine/Similitudes-des-organes.html](http://secondsexe.com/magazine/Similitudes-des-organes.html)
 - Tout savoir sur l’orgasme nocturne chez les femmes<br/>[http://www.santemagazine.fr/actualite-tout-savoir-sur-l-orgasme-nocturne-chez-les-femmes-73343.html](http://www.santemagazine.fr/actualite-tout-savoir-sur-l-orgasme-nocturne-chez-les-femmes-73343.html)
+- Voulez-vous être multi-orgasmique?<br/>[http://erotic-attitude.com/voulez-vous-etre-multi-orgasmique/](http://erotic-attitude.com/voulez-vous-etre-multi-orgasmique/)
 
-## Santé et sexualité
-
-- L’approche sexo corporelle, un modèle de santé sexuelle.<br/>[http://leveilsecret.jimdo.com/2015/08/15/l-approche-sexo-corporelle-un-mod%C3%A8le-de-sant%C3%A9-sexuelle/](http://leveilsecret.jimdo.com/2015/08/15/l-approche-sexo-corporelle-un-modèle-de-santé-sexuelle/)
-- La sexualité comme médecine<br/>[http://www.arcturius.org/chroniques/la-sexualite-comme-medecine/](http://www.arcturius.org/chroniques/la-sexualite-comme-medecine/)
 
 ## Sexualité dans l’histoire
 
@@ -169,11 +181,20 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - L’église et les audaces érotiques en terre bretonne<br/>[http://m.culturebox.francetvinfo.fr/tendances/leglise-et-les-audaces-erotiques-en-terre-bretonne-229155#xtref=http://m.facebook.com](http://m.culturebox.francetvinfo.fr/tendances/leglise-et-les-audaces-erotiques-en-terre-bretonne-229155#xtref=http://m.facebook.com)
 - Le manuscrit de Marie-Madeleine : Magie Sexuelle d’Isis<br/>[http://devantsoi.forumgratuit.org/t756-manuscrit-de-marie-madeleine-magie-sexuelle-d-isis](http://devantsoi.forumgratuit.org/t756-manuscrit-de-marie-madeleine-magie-sexuelle-d-isis)
 - Le pénitentiel de Worms, pour une approche décomplexée de la sexualité au Moyen-Âge<br/>[https://savoirsdhistoire.wordpress.com/2015/06/27/le-penitentiel-de-worms-pour-une-approche-decomplexee-de-la-sexualite-au-moyen-age/](https://savoirsdhistoire.wordpress.com/2015/06/27/le-penitentiel-de-worms-pour-une-approche-decomplexee-de-la-sexualite-au-moyen-age/)
+- Le sexe dans la Grèce antique<br/>[https://www.youtube.com/watch?v=kzvTnd02cZI](https://www.youtube.com/watch?v=kzvTnd02cZI)
+- Le sexe dans l'Egypte Ancienne.(1.3)<br/>[https://www.youtube.com/watch?v=-UN5IoBpVsY](https://www.youtube.com/watch?v=-UN5IoBpVsY)
+- Le sexe dans l'Egypte Ancienne.(2.3)<br/>[https://www.youtube.com/watch?v=LvCl1j2uZ0k](https://www.youtube.com/watch?v=LvCl1j2uZ0k)
+- Le sexe dans l'Egypte Ancienne.(3.3)<br/>[https://www.youtube.com/watch?v=8G8XltL2ANA](https://www.youtube.com/watch?v=8G8XltL2ANA)
+- Le sexe, un tabou indien<br/>[http://www.rts.ch/emissions/temps-present/5962145-le-sexe-un-tabou-indien.html](http://www.rts.ch/emissions/temps-present/5962145-le-sexe-un-tabou-indien.html)
+- Les Romains, le sexe, et nous-Veni Vidi Sensi<br/>[https://www.youtube.com/watch?v=NJEI51FepIk](https://www.youtube.com/watch?v=NJEI51FepIk)
+- Les Amants de Ain Sakhri<br/>[https://fr.wikipedia.org/wiki/Les_Amants_de_Ain_Sakhri](https://fr.wikipedia.org/wiki/Les_Amants_de_Ain_Sakhri)
 - Matriarcat :
+	- Matriarcat berbère Maure Beydane face à l'islam: plus tu as de maris, plus t'es respectable<br/>[http://metatv.org/matriarcat-berbere-maure-beydane-face-a-lislam-plus-tu-as-de-maris-plus-tu-es-respectable](http://metatv.org/matriarcat-berbere-maure-beydane-face-a-lislam-plus-tu-as-de-maris-plus-tu-es-respectable)
 	- Matriarcat Trobriandais (Mélanésie) : la liberté sexuelle des habitants des îles de l’Amour<br/>[http://matricien.org/geo-hist-matriarcat/oceanie/trobriandais/](http://matricien.org/geo-hist-matriarcat/oceanie/trobriandais/)
 	- Moso<br/>[https://www.youtube.com/watch?v=aIDGpZ3PVWM](https://www.youtube.com/watch?v=aIDGpZ3PVWM)
 	- Malinowski et la liberté sexuelle des Triobriandais<br/>[http://lhomme.revues.org/216?file=1](http://lhomme.revues.org/216?file=1)
 	- Essais inédits d’Agnès, chercheuse en anthropologie culturelle sur l’ère matristique<br/>[http://matricien.org/essais/echene/](http://matricien.org/essais/echene/)
+- Quand les femmes avaient nettement plus besoin de sexe que les hommes<br/>[https://lesfessesdelacremiere.wordpress.com/2013/04/07/quand-les-femmes-partie-1/](https://lesfessesdelacremiere.wordpress.com/2013/04/07/quand-les-femmes-partie-1/)
 - Qui est Lilith ?<br/>[http://www.letresordelilith.com/qui-est-lilith/](http://www.letresordelilith.com/qui-est-lilith/)
 - Sur le sexe en Bretagne on vous dit tout, ou presque !<br/>[http://france3-regions.francetvinfo.fr/bretagne/itineraires-bretagne-sexe-et-legendes-827835.html](http://france3-regions.francetvinfo.fr/bretagne/itineraires-bretagne-sexe-et-legendes-827835.html)
 
@@ -187,8 +208,10 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - La sexualité Divine (par les Êtres de lumière)<br/>[http://chrysalyda.com/2015/02/03/la-sexualite-divine-par-les-etres-de-lumiere/](http://chrysalyda.com/2015/02/03/la-sexualite-divine-par-les-etres-de-lumiere/)
 - La sexualité sacrée, une ouverture vers l’amour inconditionnel<br/>[http://www.inrees.com/articles/La-sexualite-sacree-ouverture-amour-inconditionnel/](http://www.inrees.com/articles/La-sexualite-sacree-ouverture-amour-inconditionnel/)
 - La sexualité sacrée selon Marie-Madeleine<br/>[http://femmes-sacrees.blogspot.fr/2013/11/la-sexualite-sacre-selon-marie-madeleine.html](http://femmes-sacrees.blogspot.fr/2013/11/la-sexualite-sacre-selon-marie-madeleine.html)
+- L'échec de la sexualité humaine<br/>[http://www.mariepaulross.com/lechec-de-la-sexualite-humaine/](http://www.mariepaulross.com/lechec-de-la-sexualite-humaine/)
 - Sexualité essentielle et sexualité sacrée<br/>[http://www.spirit-science.fr/doc_psycho/sexualite.html](http://www.spirit-science.fr/doc_psycho/sexualite.html)
 - Sexualité essentielle et sexualité sacrée PDF<br/>[http://www.academia.edu/8666414/Sexualité_essentielle_et_sexualité_sacrée](http://www.academia.edu/8666414/Sexualité_essentielle_et_sexualité_sacrée)
+- Sexualité et énergie de l'aura<br/>[http://www.espritsciencemetaphysiques.com/sexualite-et-energie-de-laura.html](http://www.espritsciencemetaphysiques.com/sexualite-et-energie-de-laura.html)
 - Michael Brown :
 	- Aimer c’est Évoluer<br/>[https://www.youtube.com/watch?v=4dI7rMePWI8](https://www.youtube.com/watch?v=4dI7rMePWI8)
 	- Intimité et Sexualité – Part 1<br/>[https://www.youtube.com/watch?v=vUkQiIR52LA](https://www.youtube.com/watch?v=vUkQiIR52LA)
@@ -222,6 +245,12 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 	- Liberté sexuelle ou promiscuité sexuelle ?<br/>[http://templeyonimatre.weebly.com/sexualiteacute-sacreacutee/liberte-sexuelle-ou-promiscuite-sexuelle](http://templeyonimatre.weebly.com/sexualiteacute-sacreacutee/liberte-sexuelle-ou-promiscuite-sexuelle)
 	- Sang : poème de Shana Grace<br/>[http://templeyonimatre.weebly.com/mystegraveres-du-sang-feacuteminin/previous/3](http://templeyonimatre.weebly.com/mystegraveres-du-sang-feacuteminin/previous/3)
 	- Yoni : Triangle Sacré<br/>[http://templeyonimatre.weebly.com/culte-du-yoni](http://templeyonimatre.weebly.com/culte-du-yoni)
+
+## Utilisation de la sexualité et de l'énergie sexuelle pour la santé et le bien-être
+
+- L’approche sexo corporelle, un modèle de santé sexuelle.<br/>[http://leveilsecret.jimdo.com/2015/08/15/l-approche-sexo-corporelle-un-mod%C3%A8le-de-sant%C3%A9-sexuelle/](http://leveilsecret.jimdo.com/2015/08/15/l-approche-sexo-corporelle-un-modèle-de-santé-sexuelle/)
+- La sexualité comme médecine<br/>[http://www.arcturius.org/chroniques/la-sexualite-comme-medecine/](http://www.arcturius.org/chroniques/la-sexualite-comme-medecine/)
+- Utilisez l'énergie sexuelle pour atteindre l'excellence<br/>[http://www.profilgagnant.fr/developpement-personnel/utilisez-lenergie-sexuelle-pour-atteindre-lexcellence/](http://www.profilgagnant.fr/developpement-personnel/utilisez-lenergie-sexuelle-pour-atteindre-lexcellence/)
 
 ## Yoni
 
