@@ -24,7 +24,7 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 
 ## Contraception
 
-- Ces vies brisées par la pilule[http://www.lemonde.fr/sante/article/2013/01/15/ces-vies-brisees-par-la-pilule_1806522_1651302.html#HopfRtmKZBsWoxHy.99](http://www.lemonde.fr/sante/article/2013/01/15/ces-vies-brisees-par-la-pilule_1806522_1651302.html#HopfRtmKZBsWoxHy.99)
+- Ces vies brisées par la pilule<br/>[http://www.lemonde.fr/sante/article/2013/01/15/ces-vies-brisees-par-la-pilule_1806522_1651302.html#HopfRtmKZBsWoxHy.99](http://www.lemonde.fr/sante/article/2013/01/15/ces-vies-brisees-par-la-pilule_1806522_1651302.html#HopfRtmKZBsWoxHy.99)
 - La pilule contraceptive est en train de tuer les femmes, mais personne ne dit mot<br/>[http://www.trucsettutos.com/2016/01/la-pilule-contraceptive-est-en-train-de-tuer-les-femmes-mais-personne-ne-dit-mot.html](http://www.trucsettutos.com/2016/01/la-pilule-contraceptive-est-en-train-de-tuer-les-femmes-mais-personne-ne-dit-mot.html)
 - Ovules contraceptives naturelles<br/>[http://lechantdesarbres.over-blog.com/2015/12/ovules-contraceptives-naturelles.html](http://lechantdesarbres.over-blog.com/2015/12/ovules-contraceptives-naturelles.html)
 - Symptothermie<br/>[http://sympto.org/home-main_fr.html](http://sympto.org/home-main_fr.html)
@@ -46,6 +46,7 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - Une rupture amoureuse fait souffrir, mais notre cerveau est fait pour que nous passions à autre chose<br/>[http://www.huffingtonpost.fr/2015/03/30/rupture-amoureuse-cerveau-passer-autre-chose_n_6967252.html?ir=France&ncid=fcbklnkfrhpmg00000001](http://www.huffingtonpost.fr/2015/03/30/rupture-amoureuse-cerveau-passer-autre-chose_n_6967252.html?ir=France&ncid=fcbklnkfrhpmg00000001)
 
 ## Cunilingus et massage
+- Faire un cunnilingus parfait, techniques et astuces dans cet article!<br/>[http://www.artdusexe.com/comment-guide-cunnilingus-parfait/](http://www.artdusexe.com/comment-guide-cunnilingus-parfait/)
 - Massage du yoni dans le cadre du couple<br/>[http://www.massagetantrique.pro/massageYoni.html](http://www.massagetantrique.pro/massageYoni.html)
 - Témoignage d’un homme qui ne veut pas faire de cunnilingus<br/>[http://www.slate.fr/story/109435/cunnilingus-pratique-sexuelle](http://www.slate.fr/story/109435/cunnilingus-pratique-sexuelle)
 
@@ -104,6 +105,7 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - Rituels et plantes "Nettoyage des organes génitaux"<br/>[http://lechantdesarbres.over-blog.com/2015/11/ritels-plantes-nettoyage-des-organes-genitaux.html](http://lechantdesarbres.over-blog.com/2015/11/ritels-plantes-nettoyage-des-organes-genitaux.html)
 
 ## Fellation et massage
+- Fellation parfaite: toutes les meilleures techniques et astuces!<br/>[http://www.artdusexe.com/comment-maitriser-fellation-parfaite/](http://www.artdusexe.com/comment-maitriser-fellation-parfaite/)
 - La fellation serait apparemment excellente pour la santé... Et voici pourquoi!<br/>[http://www.grandstitres.com/nouvelles-generales/la-fellation-serait-apparemment-excellente-pour-la-sante-et-voici-pourquoi/](http://www.grandstitres.com/nouvelles-generales/la-fellation-serait-apparemment-excellente-pour-la-sante-et-voici-pourquoi/)
 - Massage du Lingam<br/>[http://www.le-sidh.org/site/article_574.html](http://www.le-sidh.org/site/article_574.html)
 
