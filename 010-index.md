@@ -5,7 +5,7 @@ layout: page
 published: true
 ---
 
-![Lætitia Stucki](./images/photos-site-low-res/laetitia-stucki.jpg)
+![Lætitia Stucki](./images/laetitia-stucki.jpg)
 
 {: .align-center }
 ❧

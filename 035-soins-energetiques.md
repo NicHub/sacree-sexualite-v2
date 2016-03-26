@@ -1,6 +1,6 @@
 ---
 title: Soins énergétiques
-permalink: soins-energetiques
+permalink: soins-energetiques/
 layout: page
 published: true
 ---
