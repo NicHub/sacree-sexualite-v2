@@ -1,6 +1,5 @@
-# Contactez-moi
-
 <form id="contact-form" action="https://formspree.io/{{ site.data.infos.email-obfuscation }}" method="POST">
+	<h2>Contactez-moi</h2>
 	<fieldset class="form-group col-xs-12 col-sm-8 col-sm-offset-2">
 		<input id="form-email" type="email" name="_replyto" class="form-control" placeholder="Votre email*" />
 		<input id="form-nom" type="text" name="Nom" class="form-control" placeholder="Votre nom*" />

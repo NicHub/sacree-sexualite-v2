@@ -7,14 +7,16 @@ published: true
 
 # Contact et accès
 
-
+{: .align-center }
 Je vous offre la possibilité de venir à mes consultations soit à la Vallée de Joux, soit à Lausanne :
 
-Lætitia Stucki
+{: .align-center }
+*Lætitia Stucki*
 Grand-Rue 26
 CH–1345 Le Lieu
 Suisse
 
+{: .align-center }
 <mailto:laetitia.stucki@gmail.com>
 <i class="fa fa-mobile"></i> +41 79 326 30 64
 
@@ -25,22 +27,27 @@ Suisse
 
 ![](../images/laetitia-stucki-cabinet-vallee-de-joux.jpg)
 
+{: .align-center }
+Plan Google Maps
+<https://goo.gl/maps/oyvTC>
 
-Plan Google Maps: <https://goo.gl/maps/oyvTC>
-
+{: .align-center }
 ![](../images/laetitia-stucki-cabinet-vallee-de-joux-acces.jpg)
 
 ## Lausanne
 
+{: .align-center }
 Centre de Soins et Thérapies alternatives
 « Anama »
 Rue de la Tour 33
 CH–1004 Lausanne
 
+{: .align-center }
 <http://www.delaterrealalune.ch>
 
-Plan Google Maps : <http://bit.ly/1BlnfdQ>
+{: .align-center }
+Plan Google Maps
+<http://bit.ly/1BlnfdQ>
 
 ![](../images/laetitia-stucki-cabinet-lausanne.jpg)
 
-vous pouvez également me contacter par message perso sur [ma page Facebook « sacrée sexualité »](https://www.facebook.com/sacre.sex/).
