@@ -2,7 +2,7 @@
 layout: pretty-print-basic
 ---
 <html lang="{{ site.locale }}">
-{% include head.html %}
+{% include head.liquid %}
 {% if false %}
 {% comment %}image grande taille{% endcomment %}
 	{% assign couverture_path = page.path | split: '/' | last | split: '.' | first | append: ".jpg" %}
@@ -26,9 +26,9 @@ layout: pretty-print-basic
 
 
 	<body id="page">
-{% include analyticstracking.html %}
+{% include analyticstracking.liquid %}
 
-{% include menu-top.html %}
+{% include menu-top.liquid %}
 
 <div class="jumbotron">
 </div>
@@ -38,7 +38,7 @@ layout: pretty-print-basic
 		<div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 col-lg-8 col-lg-offset-2 titre-principal">
 			<h1 class="animated pulse">{{ site.data.infos.slogan }}</h1>
 
-			{% include prev-next-buttons-livres.html %}
+			{% include prev-next-buttons-livres.liquid %}
 
 		</div>
 	</div>
@@ -54,12 +54,12 @@ layout: pretty-print-basic
 	</div>
 	<div class="row">
 
-		{% include prev-next-buttons-livres.html %}
+		{% include prev-next-buttons-livres.liquid %}
 
 	</div>
 </div>
 
-{% include footer.html %}
+{% include footer.liquid %}
 
 	</body>
 </html>

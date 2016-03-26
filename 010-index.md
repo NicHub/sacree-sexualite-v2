@@ -10,4 +10,4 @@ published: true
 {: .align-center }
 ❧
 
-{% include formspree.md %}
+{% include formspree.liquid %}
