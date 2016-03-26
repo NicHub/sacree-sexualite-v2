@@ -13,6 +13,6 @@ Après une présentation générale du sujet, les auteurs examinent les différe
 
 Cet ouvrage désormais classique offre donc une approche privilégiée de l’une des plus anciennes méthodes du monde visant à développer la conscience créatrice en soi.
 
-Ajit Mookerjee / Madhu Khanna
+Ajit Mookerjee & Madhu Khanna
 Ajit Mookerjee a consacré de nombreuses années à l’étude et à l’interprétation des principes tantriques ; sa connaissance conjointe de l’Orient et de l’Occident fait de cet ouvrage une introduction pratique et complète aux attitudes et aux méthodes du Tantra.
 Madhu Khanna est spécialiste des philosophies orientales et occidentales.

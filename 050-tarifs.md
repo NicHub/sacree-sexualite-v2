@@ -15,11 +15,11 @@ Faites plaisir à vos proches : offrez un bon cadeau.
 | ---                                                | ---:         |
 | Séance d’hypnosexologie                            | 120&nbsp;CHF |
 
-## Hypno-Coaching amour / sexualité
+## Hypnocoaching amour & sexualité
 
 {: .table .table-condensed .table-responsive }
 | ---                                                | ---:         |
-| Séance d’Hypno-Coaching                            | 120&nbsp;CHF |
+| Séance d’Hypnocoaching                            | 120&nbsp;CHF |
 
 ## Moon Mother avancé
 
