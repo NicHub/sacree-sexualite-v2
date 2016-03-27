@@ -25,10 +25,15 @@ $( document ).ready( function() {
   // gauche-droite du clavier.
   ( function() {
     Mousetrap.bind( 'left',  function(e) { navigate_prev_page(); });
+    Mousetrap.bind( 'esc',   function(e) { navigate_home_page(); });
     Mousetrap.bind( 'right', function(e) { navigate_next_page(); });
     function navigate_next_page() {
        var next_page = $( ".bouton-suiv" ).first().attr( "href" );
        window.location.href = next_page;
+    }
+    function navigate_home_page() {
+       var prev_page = $( ".bouton-accueil" ).first().attr( "href" );
+       window.location.href = prev_page;
     }
     function navigate_prev_page() {
        var prev_page = $( ".bouton-prec" ).first().attr( "href" );

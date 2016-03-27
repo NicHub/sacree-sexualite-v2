@@ -1,11 +1,15 @@
-{% assign page_level = page.url | append: "-" | split: '/' | size | minus: 2 %}
-{% if page_level < 1 %}
-	{% assign thisbaseurl = "." %}
+{% if page.url == "/404.html" %}
+	{% assign thisbaseurl = "" %}
 {% else %}
-	{% assign thisbaseurl = ".." %}
-	{% for index in (2..page_level) %}
-		{% assign thisbaseurl = thisbaseurl | append: "/.." %}
-	{% endfor %}
+	{% assign page_level = page.url | append: "-" | split: '/' | size | minus: 2 %}
+	{% if page_level < 1 %}
+		{% assign thisbaseurl = "." %}
+	{% else %}
+		{% assign thisbaseurl = ".." %}
+		{% for index in (2..page_level) %}
+			{% assign thisbaseurl = thisbaseurl | append: "/.." %}
+		{% endfor %}
+	{% endif %}
 {% endif %}
 	<head>
 		<meta charset="utf-8" />
