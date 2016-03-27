@@ -1,5 +1,5 @@
 ---
-title: accueil
+title: Accueil
 permalink: /
 layout: page
 published: true
