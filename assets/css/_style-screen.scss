@@ -202,8 +202,6 @@ footer {
 	}
 }
 
-
-
 // formulaire
 form {
 	margin: 60px auto;
@@ -221,7 +219,11 @@ form {
 	}
 }
 
-
 .hidden-screen {
 	display: none;
+}
+
+div.fb-wrapper {
+	text-align: center;
+	margin: 20px 0;
 }
