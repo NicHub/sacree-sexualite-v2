@@ -36,7 +36,10 @@ Pour se sentir bien dans sa sexualité, il est important :
 
 Ce sont quelques-uns des ingrédients essentiels au bien-être. Les questions que je ne peux m’empêcher de me poser sont : peut-être que ce travail sur soi devrait s’effectuer en premier lieu à la base ? Dans la source de notre vie, soit dans l’acte sexuel lui-même, pour pouvoir ensuite se répercuter sur les autres aspects de notre vie personnelle et de manière plus large de la vie de chaque être humain ?
 
+Texte de Laetitia Stucki
+
 {% comment %}
+Importance de la Communication dans les raport sexuel
 Ne me touche pas ! Amour ??? même avant naissance
 De nombreuses études (mettre un lien) démontrent à quel point le contact physique donné avec amour est primordial pour le bon développement du bébé et de l’enfant. Hors, bien souvent, plus nous grandissons moins nous avons accès au contact physique simple et amical. Nos conditionnements nous limitent dans la simple expression d’un contact physique amical tels qu’un hug, une caresse, un bisou, qui sont trop souvent associés à un désir sexuel ou simplement relégué aux oubliettes pour des raisons de pudeur.
 Mets un bout de livre de biologie de l’amour.
