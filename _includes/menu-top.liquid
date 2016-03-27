@@ -32,7 +32,7 @@
 				{% assign permalink = thisbaseurl | append: sous-menu-2.permalink %}
 				{% assign asterix = "" %}
 			{% endif %}
-			<li><a href="{{ permalink }}">{{ sous-menu-2.titre }}{{ asterix }}</a></li>
+			<li><a href="{{ permalink }}">{{ sous-menu-2.titre | escape }}{{ asterix }}</a></li>
 		{% endif %}
 	{% endfor %}
 	</ul>
