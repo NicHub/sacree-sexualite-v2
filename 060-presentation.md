@@ -6,13 +6,9 @@ published: true
 ---
 
 
-# Bienvenue sur le site « Sacrée Sexualité.org » !
+# Bienvenue sur la partie découverte de « Sacrée Sexualité.org » !
 
-J’ai créé ce site pour 2 raisons :
-
-La première : vous présenter mes activités thérapeutiques dans les domaines de la sexualité et de l’amour. Je pratique[L’hypnose, les soins énergétiques et Moon Mother](http://laetitia-stucki.ch/) depuis 2010.
-
-La deuxième : donner un nouveau souffle à notre perception actuelle globale de la sexualité. Nous sommes, dans notre société, victime de beaucoup de conditionnement, de honte, de culpabilité et particulièrement dans le domaine de la sexualité. Et tous ces conditionnements nous limitent grandement dans l’épanouissement de notre sexualité, et de ce fait, de manière plus large, nous limitent dans l’épanouissement de notre vie. Par le biais de ce site, je souhaite dédramatiser la sexualité, je désire l’associer aux jeux, au plaisir, à la diversité, au divin, à la découverte, à la guérison, à l’énergie vitale, à l’essentiel, etc.
+J’ai créé cette partie pour donner un nouveau souffle à notre perception actuelle globale de la sexualité. Nous sommes, dans notre société, victime de beaucoup de conditionnement, de honte, de culpabilité et particulièrement dans le domaine de la sexualité. Et tous ces conditionnements nous limitent grandement dans l’épanouissement de notre sexualité, et de ce fait, de manière plus large, nous limitent dans l’épanouissement de notre vie. Par le biais de ce site, je souhaite dédramatiser la sexualité, je désire l’associer aux jeux, au plaisir, à la diversité, au divin, à la découverte, à la guérison, à l’énergie vitale, à l’essentiel, etc.
 
 C’est pourquoi j’ai décidé d’appeler ce site « Sacrée Sexualité » et non « Sexualité Sacrée ». Car bien que la sexualité soit sacrée elle contient de l’animalité, du jeu, de l’innocence et comme le disent les Indiens Hoppi  « En ces temps-ci de l’histoire, nous ne devons rien prendre trop au sérieux. Et encore moins nous-mêmes. Car au moment où nous le faisons, notre croissance spirituelle et notre voyage s’arrêtent. » Et « .org » parce que ce sont les trois premières lettres d’un mot très agréable :-) !
 
