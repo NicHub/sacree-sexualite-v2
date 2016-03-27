@@ -11,7 +11,7 @@ and put their indexes in idArray.
 
 {% for thispage in site.pages %}
 	{% if thispage.title %}
-		{% unless thispage.layout == "index" %}
+		{% unless thispage.not_in_prev_next %}
 			{% assign NbPages = NbPages | plus: 1 %}
 			{% assign idStringArray = idStringArray | append:pageID | append:"," %}
 		{% endunless %}
