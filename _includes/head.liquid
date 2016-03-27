@@ -37,9 +37,9 @@
 {% assign $background-image-url-2 = 'url( "' | append: thisbaseurl | append: '/images/symphony-transparent-4.png" )' %}
 
 {% if page.images.banniere %}
-	{% assign $background-image-url-1 = 'url( "' | append: thisbaseurl | append: page.images.banniere | append: '" )' %}
+	{% assign $background-image-url-1 = 'url( "' | append: thisbaseurl | append: "/" | append: page.images.banniere | append: '" )' %}
 {% else %}
-	{% assign $background-image-url-1 = 'url( "' | append: thisbaseurl | append: site.data.infos.images.banniere | append: '" )' %}
+	{% assign $background-image-url-1 = 'url( "' | append: thisbaseurl | append: "/" | append: site.data.infos.images.banniere | append: '" )' %}
 {% endif %}
 <style type="text/css" media="screen">
 	body, html {
