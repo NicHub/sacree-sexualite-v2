@@ -9,6 +9,8 @@ published: true
 
 [L’hypnose](http://laetitia-stucki.ch/hypnose/) est particulièrement adaptée pour vous aider à trouver votre épanouissement dans la sexualité. L’hypnose est un état élargit de conscience qui donne accès à  l’entier de votre potentiel physique et psychique permettant un travail adapté et sur mesure et trouver ainsi un équilibre en soi et avec l’autre. La sexualité est un domaine important de la vie de chacun car nous en sommes tous issus elle peut apporter la vie, le plaisir, l’amour, le développement personnel et spirituel. C’est pourquoi prendre soin de notre sexualité et se sentir bien avec elle est essentiel à notre bien-être.
 
+![...](../images/laetitia-stucki-hypnosexo.jpg)
+
 Voici certaines des applications en hypnosexologie, cette liste n’est pas exhaustive étant donné que chaque situation et personne sont unique, mais elle vous donnera un bon aperçu des possibilités qui s’offrent à vous !
 
 - Vous débarrasser de vos schémas et conditionnements limitants
