@@ -10,4 +10,3 @@ published: true
 {: .align-center }
 ![](./images/logo-laetitia-stucki-anthracite.svg){: height="90px" width="90px" }
 
-{% include formspree.liquid %}
