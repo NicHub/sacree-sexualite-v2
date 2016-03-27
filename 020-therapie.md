@@ -7,7 +7,7 @@ published: true
 
 # Thérapie
 
-![...](../images/coupe-yoni-lingam.png)
+![...](../images/coupe-yoni-lingam.jpg)
 
 [L’hypnose, les soins énergétiques](http://laetitia-stucki.ch/)[ et Moon Mother](http://sacree-sexualite.org/moon-mother/). sont des outils de choix pour un travail spécifique sur la sexualité.  Qu’il s’agisse de se libérer de troubles sexuels ou tout simplement de s’épanouir sexuellement.
 

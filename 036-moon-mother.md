@@ -7,7 +7,7 @@ published: true
 
 # Moon Mother
 
-![...](../images/laetitia-stucki-moon-mother-001.png)
+![...](../images/laetitia-stucki-moon-mother-001.jpg)
 
 Moon Mother Avancée initiée par Miranda Gray, je pratique :
 

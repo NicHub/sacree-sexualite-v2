@@ -7,7 +7,7 @@ published: true
 
 # Soins énergétiques
 
-![...](../images/IMG_lithoenergetique.JPG)
+![...](../images/laetitia-stucki-lithotherapie-003.jpg)
 
 Je vous propose également de bénéficier de séances de soins énergétiques par le magnétisme associé à un équilibrage énergétique par les pierres semi-précieuses. L’énergie cristalline des pierres couplées au magnétisme et parfois au chant et au tambour chamanique permet une harmonisation de vos énergies et de vos corps subtils, une libération de vos blocages qu’ils soient physiques ou psychiques. Cette thérapie vous permet de vous connecter à votre être essentiel, votre nature profonde, votre énergie de vie ou sexuelle et à votre cœur pour créer, transformer, réaliser votre sexualité en accord profond avec vous-même.
 
