@@ -1,13 +1,13 @@
 {% if page.url == "/404.html" %}
-	{% assign thisbaseurl = "" %}
+	{% assign thisbaseurl = "/" %}
 {% else %}
 	{% assign page_level = page.url | append: "-" | split: '/' | size | minus: 2 %}
 	{% if page_level < 1 %}
-		{% assign thisbaseurl = "." %}
+		{% assign thisbaseurl = "./" %}
 	{% else %}
-		{% assign thisbaseurl = ".." %}
+		{% assign thisbaseurl = "../" %}
 		{% for index in (2..page_level) %}
-			{% assign thisbaseurl = thisbaseurl | append: "/.." %}
+			{% assign thisbaseurl = thisbaseurl | append: "../" %}
 		{% endfor %}
 	{% endif %}
 {% endif %}
@@ -20,7 +20,7 @@
 		<meta name="keywords"    content="{{ site.keywords | escape }}" />
 		<meta name="author"      content="{{ site.author | escape }}" />
 		<meta name="date"        content="{{ site.time | date_to_xmlschema }}" />
-		<link rel="shortcut icon" type="image/x-icon" href="{{ thisbaseurl }}/images/favicon.ico" />
+		<link rel="shortcut icon" type="image/x-icon" href="{{ thisbaseurl }}images/favicon.ico" />
 		<meta property="og:url"           content="{{ site.url }}{{ site.baseurl }}{{ page.permalink }}" />
 		<meta property="og:type"          content="website" />
 		<meta property="og:title"         content="{{ site.title | escape }}" />
@@ -33,13 +33,13 @@
 
 {% assign $background-color = "255,250,240" %}
 {% assign $background-color = "255,253,249" %}
-{% assign $background-image-url-2 = 'url( "' | append: thisbaseurl | append: '/images/bg-pattern.png" )' %}
-{% assign $background-image-url-2 = 'url( "' | append: thisbaseurl | append: '/images/symphony-transparent-4.png" )' %}
+{% assign $background-image-url-2 = 'url( "' | append: thisbaseurl | append: 'images/bg-pattern.png" )' %}
+{% assign $background-image-url-2 = 'url( "' | append: thisbaseurl | append: 'images/symphony-transparent-4.png" )' %}
 
 {% if page.images.banniere %}
-	{% assign $background-image-url-1 = 'url( "' | append: thisbaseurl | append: "/" | append: page.images.banniere | append: '" )' %}
+	{% assign $background-image-url-1 = 'url( "' | append: thisbaseurl | append: page.images.banniere | append: '" )' %}
 {% else %}
-	{% assign $background-image-url-1 = 'url( "' | append: thisbaseurl | append: "/" | append: site.data.infos.images.banniere | append: '" )' %}
+	{% assign $background-image-url-1 = 'url( "' | append: thisbaseurl | append: site.data.infos.images.banniere | append: '" )' %}
 {% endif %}
 <style type="text/css" media="screen">
 	body, html {
@@ -71,6 +71,6 @@
 			cover;
 	}
 </style>
-<link property="stylesheet" rel="stylesheet" type="text/css" href="{{ thisbaseurl }}/assets/css/style.css" />
+<link property="stylesheet" rel="stylesheet" type="text/css" href="{{ thisbaseurl }}assets/css/style.css" />
 {% include analyticstracking.liquid %}
 	</head>

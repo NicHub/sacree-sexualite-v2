@@ -53,19 +53,18 @@ Find the index of the current page in idArray.
 {% assign NextPageID = idArray[NextPageID] | plus: 0  %}
 
 {% assign PrevPage = site.pages[PrevPageID] %}
-{% assign ThisPage = site.pages[PageID] %}
+{% assign ThisPage = site.pages[PageID]     %}
 {% assign NextPage = site.pages[NextPageID] %}
-
 		<div class="btn-prev-next text-center">
-			<a class="btn btn-primary bouton-prec" title="{{ PrevPage.title }}" href="{{ thisbaseurl }}{{ PrevPage.url }}" role="button"><i class="fa fa-chevron-circle-left"></i></a>
+			<a class="btn btn-primary bouton-prec" title="{{ PrevPage.title }}" href="{{ thisbaseurl }}{{ PrevPage.url | remove_first: '/' }}" role="button"><i class="fa fa-chevron-circle-left"></i></a>
 
 			<span>&nbsp;</span>
 
-			<a class="btn btn-primary bouton-accueil" title="Retour à l’accueil" href="{{ thisbaseurl }}/" role="button">
-				<img src="{{ thisbaseurl }}/{{ site.data.infos.images.logo }}" alt="..." />
+			<a class="btn btn-primary bouton-accueil" title="Retour à l’accueil" href="{{ thisbaseurl }}" role="button">
+				<img src="{{ thisbaseurl }}{{ site.data.infos.images.logo }}" alt="..." />
 			</a>
 
 			<span>&nbsp;</span>
 
-			<a class="btn btn-primary bouton-suiv" title="{{ NextPage.title }}" href="{{ thisbaseurl }}{{ NextPage.url }}" role="button"><i class="fa fa-chevron-circle-right"></i></a>
+			<a class="btn btn-primary bouton-suiv" title="{{ NextPage.title }}" href="{{ thisbaseurl }}{{ NextPage.url | remove_first: '/' }}" role="button"><i class="fa fa-chevron-circle-right"></i></a>
 		</div>
