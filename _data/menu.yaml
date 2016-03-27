@@ -16,6 +16,11 @@
 
     - titre: Soins énergétiques
       permalink: soins-energetiques/
+	  
+	- separator: Moon Mother
+
+    - titre: Moon Mother
+      permalink: moon-mother/
 
     - separator: Infos
 
