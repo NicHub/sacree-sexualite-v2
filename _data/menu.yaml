@@ -1,5 +1,5 @@
 
-- titre: Thérapie & coaching
+- titre: Thérapie &amp; coaching
   menu:
 
     - titre: Thérapie
@@ -9,7 +9,7 @@
 
     - titre: Hypnosexologie
       permalink: hypnosexologie/
-    - titre: Hypnocoaching amour & sexualité
+    - titre: Hypnocoaching amour &amp; sexualité
       permalink: hypnocoaching-amour-sexualite/
 
     - separator: Soins énergétiques
@@ -24,11 +24,12 @@
 
     - separator: Infos
 
-    - titre: Contact & accès
+    - titre: Contact &amp; accès
       permalink: contact-et-acces/
     - titre: Tarifs
       permalink: tarifs/
-
+    - titre: <i class="fa fa-facebook-square"></i> Facebook
+      permalink: https://www.facebook.com/sacre.sex/
 
 
 - titre: Découverte
