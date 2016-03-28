@@ -15,7 +15,7 @@ Faites plaisir à vos proches : offrez un bon cadeau.
 | ---                                                | ---:         |
 | Séance d’hypnosexologie                            | 120&nbsp;CHF |
 
-## Hypnocoaching amour & sexualité
+## Hypnocoaching amour & sexualité
 
 {: .table .table-condensed .table-responsive }
 | ---                                                | ---:         |

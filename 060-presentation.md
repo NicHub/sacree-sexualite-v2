@@ -6,7 +6,7 @@ published: true
 ---
 
 
-# Bienvenue sur la partie découverte de « Sacrée Sexualité.org » !
+# Bienvenue sur la partie découverte de<br/>*sacree-sexualite.org* !
 
 J’ai créé cette partie pour donner un nouveau souffle à notre perception actuelle globale de la sexualité. Nous sommes, dans notre société, victime de beaucoup de conditionnement, de honte, de culpabilité et particulièrement dans le domaine de la sexualité. Et tous ces conditionnements nous limitent grandement dans l’épanouissement de notre sexualité, et de ce fait, de manière plus large, nous limitent dans l’épanouissement de notre vie. Par le biais de ce site, je souhaite dédramatiser la sexualité, je désire l’associer aux jeux, au plaisir, à la diversité, au divin, à la découverte, à la guérison, à l’énergie vitale, à l’essentiel, etc.
 
