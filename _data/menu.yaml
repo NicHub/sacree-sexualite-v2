@@ -22,14 +22,6 @@
     - titre: Moon Mother
       permalink: moon-mother/
 
-    - separator: Infos
-
-    - titre: Contact &amp; accès
-      permalink: contact-et-acces/
-    - titre: Tarifs
-      permalink: tarifs/
-    - titre: <i class="fa fa-facebook-square"></i> Facebook
-      permalink: https://www.facebook.com/sacre.sex/
 
 
 - titre: Découverte
@@ -45,6 +37,17 @@
       permalink: citations/
     - titre: Liens
       permalink: liens/
+
+
+- titre: Infos
+  menu:
+
+    - titre: Contact &amp; accès
+      permalink: contact-et-acces/
+    - titre: Tarifs
+      permalink: tarifs/
+    - titre: <i class="fa fa-facebook-square"></i> Facebook
+      permalink: https://www.facebook.com/sacre.sex/
 
 
 - titre: Lætitia Stucki
