@@ -129,6 +129,7 @@ The next paragraph contains a link and some text.
 - [Épilation intégrale, chirurgie de la vulve : des fléaux. Mes patientes mutilent leur corps](http://leplus.nouvelobs.com/contribution/1390404-epilation-integrale-chirurgie-de-la-vulve-des-fleaux-les-femmes-mutilent-leur-corps.html)
 - [Esprit de femme – Miranda Gray](http://www.espritdefemme.ch/index.php/miranda-gray)
 - [Excitée ? Moi, jamais !](http://sexes.blogs.liberation.fr/2015/01/21/excitee-moi-jamais-/)
+- [La culotte peut-elle être chaude et la tête froide ?](http://sexes.blogs.liberation.fr/2015/01/26/la-culotte-peut-elle-etre-chaude-et-la-tete-froide-/)
 - [Féminaissance: une association, un festival, un salon.](http://feminaissance.com/lesprit-du-salon/)
 - [La femme lunaire. Les forces du cycle féminin](https://cercledeesse.files.wordpress.com/2007/06/la-femme-lunaire-miranda-gray.pdf)
 - [La prophétie de la femme médecine – Hernan Huarache Mamani](https://www.youtube.com/watch?v=ZIQ1cd9ICps)
