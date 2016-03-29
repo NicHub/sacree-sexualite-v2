@@ -13,9 +13,7 @@ Je les ai classés par thème et mis dans l’ordre alphabétique pour qu’il v
 
 Il est possible qu’une erreur se soit glissée dans ces lignes (par ex. lien plus valable), je vous invite à m’en faire part.
 
-Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos pérégrinations internet :-) !
-
-The next paragraph contains a link and some text.
+Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos pérégrinations internet <i class="fa fa-smile-o"></i> !
 
 
 # Catégories
