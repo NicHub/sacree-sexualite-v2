@@ -15,6 +15,35 @@ Il est possible qu’une erreur se soit glissée dans ces lignes (par ex. lien p
 
 Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos pérégrinations internet :-) !
 
+The next paragraph contains a link and some text.
+
+
+# Catégories
+
+{: .align-center }
+[Clitoris](#id-1)
+[Contraception](#id-2)
+[Couple](#id-3)
+[Cunilingus et massage](#id-4)
+[Dédramatiser la sexualité](#id-5)
+[Féminin sacré et Lunes](#id-6)
+[Fellation et massage](#id-7)
+[Formation sexualité](#id-8)
+[Liberté sexuelle](#id-9)
+[Lilou](#id-10)
+[Lingam](#id-11)
+[Masculin sacré](#id-12)
+[Masturbation masculine et féminine](#id-13)
+[Orgasme](#id-14)
+[Sexualité dans l’histoire](#id-15)
+[Sexualité sacrée](#id-16)
+[Tantra](#id-17)
+[Utilisation de la sexualité et de l’énergie sexuelle pour la santé et le bien-être](#id-18)
+[Yoni](#id-19)
+
+
+<div id="id-1" class="link-target"></div>
+
 ## Clitoris
 
 - La taille du clitoris a-t-elle son importance pour l’orgasme?<br/>[http://www.santemagazine.fr/le-blog-sexo-de-marine-nugeron-et-daisy-le-corre/la-taille-du-clitoris-en-quoi-ca-compte-61925.html](http://www.santemagazine.fr/le-blog-sexo-de-marine-nugeron-et-daisy-le-corre/la-taille-du-clitoris-en-quoi-ca-compte-61925.html)
@@ -22,12 +51,18 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - Ode au clitoris<br/>[http://pouletrotique.com/2016/03/16/ode-au-clitoris/](http://pouletrotique.com/2016/03/16/ode-au-clitoris/)
 - Odile Buisson : Le point G et l’orgasme féminin<br/>[http://www.dailymotion.com/video/x1ytz7h_odile-buisson-le-point-g-et-l-orgasme-feminin_school](http://www.dailymotion.com/video/x1ytz7h_odile-buisson-le-point-g-et-l-orgasme-feminin_school)
 
+
+<div id="id-2" class="link-target"></div>
+
 ## Contraception
 
 - Ces vies brisées par la pilule<br/>[http://www.lemonde.fr/sante/article/2013/01/15/ces-vies-brisees-par-la-pilule_1806522_1651302.html#HopfRtmKZBsWoxHy.99](http://www.lemonde.fr/sante/article/2013/01/15/ces-vies-brisees-par-la-pilule_1806522_1651302.html#HopfRtmKZBsWoxHy.99)
 - La pilule contraceptive est en train de tuer les femmes, mais personne ne dit mot<br/>[http://www.trucsettutos.com/2016/01/la-pilule-contraceptive-est-en-train-de-tuer-les-femmes-mais-personne-ne-dit-mot.html](http://www.trucsettutos.com/2016/01/la-pilule-contraceptive-est-en-train-de-tuer-les-femmes-mais-personne-ne-dit-mot.html)
 - Ovules contraceptives naturelles<br/>[http://lechantdesarbres.over-blog.com/2015/12/ovules-contraceptives-naturelles.html](http://lechantdesarbres.over-blog.com/2015/12/ovules-contraceptives-naturelles.html)
 - Symptothermie<br/>[http://sympto.org/home-main_fr.html](http://sympto.org/home-main_fr.html)
+
+
+<div id="id-3" class="link-target"></div>
 
 ## Couple
 
@@ -46,11 +81,16 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - Tous les couples sont voués à l’échec<br/>[http://blogdudevperso.com/tous-les-couples-sont-voues-a-lechec/](http://blogdudevperso.com/tous-les-couples-sont-voues-a-lechec/)
 - Une rupture amoureuse fait souffrir, mais notre cerveau est fait pour que nous passions à autre chose<br/>[http://www.huffingtonpost.fr/2015/03/30/rupture-amoureuse-cerveau-passer-autre-chose_n_6967252.html?ir=France&ncid=fcbklnkfrhpmg00000001](http://www.huffingtonpost.fr/2015/03/30/rupture-amoureuse-cerveau-passer-autre-chose_n_6967252.html?ir=France&ncid=fcbklnkfrhpmg00000001)
 
+
+<div id="id-4" class="link-target"></div>
+
 ## Cunilingus et massage
 - Faire un cunnilingus parfait, techniques et astuces dans cet article!<br/>[http://www.artdusexe.com/comment-guide-cunnilingus-parfait/](http://www.artdusexe.com/comment-guide-cunnilingus-parfait/)
 - Massage du yoni dans le cadre du couple<br/>[http://www.massagetantrique.pro/massageYoni.html](http://www.massagetantrique.pro/massageYoni.html)
 - Témoignage d’un homme qui ne veut pas faire de cunnilingus<br/>[http://www.slate.fr/story/109435/cunnilingus-pratique-sexuelle](http://www.slate.fr/story/109435/cunnilingus-pratique-sexuelle)
 
+
+<div id="id-5" class="link-target"></div>
 
 ## Dédramatiser la sexualité
 
@@ -72,6 +112,8 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - THE NU PROJECT: femmes du monde au naturel.<br/>[http://www.allaroundthegirl.com/2015/02/04/the-nu-project-femmes-nues-projet-photo-matt-blum/](http://www.allaroundthegirl.com/2015/02/04/the-nu-project-femmes-nues-projet-photo-matt-blum/)
 - Une immense frustration sexuelle à la base des violences de cologne<br/>[http://www.levif.be/actualite/international/une-immense-frustration-sexuelle-a-la-base-des-violences-de-cologne/article-opinion-448753.html](http://www.levif.be/actualite/international/une-immense-frustration-sexuelle-a-la-base-des-violences-de-cologne/article-opinion-448753.html)
 
+
+<div id="id-6" class="link-target"></div>
 
 ## Féminin sacré et Lunes
 
@@ -105,10 +147,17 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - Pourquoi tant de femmes vivent-elles encore dans une « misère » sexuelle ?<br/>[http://www.levif.be/actualite/sante/pourquoi-tant-de-femmes-vivent-elles-encore-dans-une-misere-sexuelle/article-normal-427877.html?utm_source=facebook&utm_medium=social&utm_campaign=vif](http://www.levif.be/actualite/sante/pourquoi-tant-de-femmes-vivent-elles-encore-dans-une-misere-sexuelle/article-normal-427877.html?utm_source=facebook&utm_medium=social&utm_campaign=vif)
 - Rituels et plantes “Nettoyage des organes génitaux”<br/>[http://lechantdesarbres.over-blog.com/2015/11/ritels-plantes-nettoyage-des-organes-genitaux.html](http://lechantdesarbres.over-blog.com/2015/11/ritels-plantes-nettoyage-des-organes-genitaux.html)
 
+
+<div id="id-7" class="link-target"></div>
+
 ## Fellation et massage
+
 - Fellation parfaite: toutes les meilleures techniques et astuces!<br/>[http://www.artdusexe.com/comment-maitriser-fellation-parfaite/](http://www.artdusexe.com/comment-maitriser-fellation-parfaite/)
 - La fellation serait apparemment excellente pour la santé... Et voici pourquoi!<br/>[http://www.grandstitres.com/nouvelles-generales/la-fellation-serait-apparemment-excellente-pour-la-sante-et-voici-pourquoi/](http://www.grandstitres.com/nouvelles-generales/la-fellation-serait-apparemment-excellente-pour-la-sante-et-voici-pourquoi/)
 - Massage du Lingam<br/>[http://www.le-sidh.org/site/article_574.html](http://www.le-sidh.org/site/article_574.html)
+
+
+<div id="id-8" class="link-target"></div>
 
 ## Formation sexualité
 
@@ -117,6 +166,9 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - Institut suisse de Sexologie Clinique « Cafés Sexos »<br/>[http://www.sexologieclinique.ch/page23.php](http://www.sexologieclinique.ch/page23.php)
 - Orientation.ch « Sexologue »<br/>[http://www.berufsberatung.ch/dyn/1109.aspx?id=848](http://www.berufsberatung.ch/dyn/1109.aspx?id=848)#
 - Université de Genève CAS -Sexologie clinique<br/>[http://www.unige.ch/formcont/sexologieclinique/](http://www.unige.ch/formcont/sexologieclinique/)
+
+
+<div id="id-9" class="link-target"></div>
 
 ## Liberté sexuelle
 
@@ -127,16 +179,25 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - Liberté sexuelle ou promiscuité sexuelle ?<br/>[http://templeyonimatre.weebly.com/sexualiteacute-sacreacutee/liberte-sexuelle-ou-promiscuite-sexuelle](http://templeyonimatre.weebly.com/sexualiteacute-sacreacutee/liberte-sexuelle-ou-promiscuite-sexuelle)
 - Pourquoi on ne peut pas s’empêcher de tomber amoureux au travail<br/>[http://www.letemps.ch/economie/2016/02/19/on-ne-s-empecher-tomber-amoureux-travail](http://www.letemps.ch/economie/2016/02/19/on-ne-s-empecher-tomber-amoureux-travail)
 
+
+<div id="id-10" class="link-target"></div>
+
 ## Lilou
 
 - Comment atteindre un plus grand orgasme (homme et femme) – José Toiran<br/>[https://www.youtube.com/watch?v=FGRdByya-Po&feature=youtu.be](https://www.youtube.com/watch?v=FGRdByya-Po&feature=youtu.be)
 - Énergie sexuelle, orgasme et oeuf de jade – José Toiran<br/>[https://www.youtube.com/watch?v=7IxWbQcu4Ew&feature=youtu.be](https://www.youtube.com/watch?v=7IxWbQcu4Ew&feature=youtu.be)
 - Masculin sacré, sexualité de l’homme et paroles d’hommes – Patrick Ferrer<br/>[https://www.youtube.com/watch?v=XRNKHYiJonc&feature=youtu.be](https://www.youtube.com/watch?v=XRNKHYiJonc&feature=youtu.be)
 
+
+<div id="id-11" class="link-target"></div>
+
 ## Lingam
 
 - L’adoration du Lingam<br/>[https://www.kaosphorus.net/2605/de-l-adoration-du-lingam/](https://www.kaosphorus.net/2605/de-l-adoration-du-lingam/)
 - Le prépuce est “l’unité sensorielle principale du pénis”<br/>[http://www.droitaucorps.com/anatomie-prepuce-sequelle-circoncision](http://www.droitaucorps.com/anatomie-prepuce-sequelle-circoncision)
+
+
+<div id="id-12" class="link-target"></div>
 
 ## Masculin sacré
 
@@ -151,6 +212,9 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - Témoignage d’un homme qui ne veut pas faire de cunnilingus<br/>[http://www.slate.fr/story/109435/cunnilingus-pratique-sexuelle](http://www.slate.fr/story/109435/cunnilingus-pratique-sexuelle)
 - Vers une sexualité saine et rayonnante, l’homme divin<br/>[http://evolutionsexuelle.simplesite.com/420404672?b=CCA7D6DA42E4B587D132C2935DCC24BF1588B4F](http://evolutionsexuelle.simplesite.com/420404672?b=CCA7D6DA42E4B587D132C2935DCC24BF1588B4F)
 
+
+<div id="id-13" class="link-target"></div>
+
 ## Masturbation masculine et féminine
 
 - Documentaire – Les Branleuses par Frédérique Barravia<br/>[http://monq.biz/article-4993-Documentaire+Les+branleuses+par+Frederique+Barraja.monQ](http://monq.biz/article-4993-Documentaire+Les+branleuses+par+Frederique+Barraja.monQ)
@@ -158,6 +222,9 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - Masturbation et santé<br/>[http://www.sexoconseil.com/pratiques-sexuelles/masturbation/sante](http://www.sexoconseil.com/pratiques-sexuelles/masturbation/sante)
 - Masturbation féminine : 13 bonnes raisons de s’y adonner fréquemment<br/>[http://www.huffingtonpost.fr/2015/01/19/masturbation-feminine-bonnes-raisons-adonner-frequemment_n_6499222.html?ir=France&ncid=fcbklnkfrhpmg00000001](http://www.huffingtonpost.fr/2015/01/19/masturbation-feminine-bonnes-raisons-adonner-frequemment_n_6499222.html?ir=France&ncid=fcbklnkfrhpmg00000001)
 - Se masturber c’est bon pour la santé des femmes<br/>[http://www.neobienetre.fr/se-masturber-cest-bon-pour-la-sante-des-femmes/](http://www.neobienetre.fr/se-masturber-cest-bon-pour-la-sante-des-femmes/)
+
+
+<div id="id-14" class="link-target"></div>
 
 ## Orgasme
 
@@ -174,6 +241,8 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - Tout savoir sur l’orgasme nocturne chez les femmes<br/>[http://www.santemagazine.fr/actualite-tout-savoir-sur-l-orgasme-nocturne-chez-les-femmes-73343.html](http://www.santemagazine.fr/actualite-tout-savoir-sur-l-orgasme-nocturne-chez-les-femmes-73343.html)
 - Voulez-vous être multi-orgasmique?<br/>[http://erotic-attitude.com/voulez-vous-etre-multi-orgasmique/](http://erotic-attitude.com/voulez-vous-etre-multi-orgasmique/)
 
+
+<div id="id-15" class="link-target"></div>
 
 ## Sexualité dans l’histoire
 
@@ -201,6 +270,9 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - Qui est Lilith ?<br/>[http://www.letresordelilith.com/qui-est-lilith/](http://www.letresordelilith.com/qui-est-lilith/)
 - Sur le sexe en Bretagne on vous dit tout, ou presque !<br/>[http://france3-regions.francetvinfo.fr/bretagne/itineraires-bretagne-sexe-et-legendes-827835.html](http://france3-regions.francetvinfo.fr/bretagne/itineraires-bretagne-sexe-et-legendes-827835.html)
 
+
+<div id="id-16" class="link-target"></div>
+
 ## Sexualité sacrée
 
 - 55\. La conscience sexuelle<br/>[http://www.colling.lu/chapitres_fr/55.pdf](http://www.colling.lu/chapitres_fr/55.pdf)
@@ -220,6 +292,9 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 	- Intimité et Sexualité – Part 1<br/>[https://www.youtube.com/watch?v=vUkQiIR52LA](https://www.youtube.com/watch?v=vUkQiIR52LA)
 - Spiritualité et sexualité : deux états complètement compatibles.<br/>[http://stephanie-et-nadia.com/spiritualite-et-sexualite/](http://stephanie-et-nadia.com/spiritualite-et-sexualite/)
 - La Tyrannie du Coït !<br/>[http://secretdefontaine.blogspot.fr/2014/05/la-tyrannie-du-coit.html](http://secretdefontaine.blogspot.fr/2014/05/la-tyrannie-du-coit.html)
+
+
+<div id="id-17" class="link-target"></div>
 
 ## Tantra
 
@@ -249,11 +324,17 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 	- Sang : poème de Shana Grace<br/>[http://templeyonimatre.weebly.com/mystegraveres-du-sang-feacuteminin/previous/3](http://templeyonimatre.weebly.com/mystegraveres-du-sang-feacuteminin/previous/3)
 	- Yoni : Triangle Sacré<br/>[http://templeyonimatre.weebly.com/culte-du-yoni](http://templeyonimatre.weebly.com/culte-du-yoni)
 
+
+<div id="id-18" class="link-target"></div>
+
 ## Utilisation de la sexualité et de l’énergie sexuelle pour la santé et le bien-être
 
 - L’approche sexo corporelle, un modèle de santé sexuelle.<br/>[http://leveilsecret.jimdo.com/2015/08/15/l-approche-sexo-corporelle-un-mod%C3%A8le-de-sant%C3%A9-sexuelle/](http://leveilsecret.jimdo.com/2015/08/15/l-approche-sexo-corporelle-un-modèle-de-santé-sexuelle/)
 - La sexualité comme médecine<br/>[http://www.arcturius.org/chroniques/la-sexualite-comme-medecine/](http://www.arcturius.org/chroniques/la-sexualite-comme-medecine/)
 - Utilisez l’énergie sexuelle pour atteindre l’excellence<br/>[http://www.profilgagnant.fr/developpement-personnel/utilisez-lenergie-sexuelle-pour-atteindre-lexcellence/](http://www.profilgagnant.fr/developpement-personnel/utilisez-lenergie-sexuelle-pour-atteindre-lexcellence/)
+
+
+<div id="id-19" class="link-target"></div>
 
 ## Yoni
 
