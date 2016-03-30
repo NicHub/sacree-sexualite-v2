@@ -7,15 +7,13 @@ published: true
 
 # Liens
 
-Vous trouverez ci-dessous beaucoup de liens sur le thème de la sexualité. J’ai récolté ces liens au fil de mes recherches et trouvailles sur internet. Certains liens et sites internet sont de vraies petites perles et d’autres... un peu moins :-)... Mais je tiens à partager tous ces liens, car ils témoignent des différentes attitudes et courants de pensée sexuelle.
+Vous trouverez ci-dessous beaucoup de liens sur le thème de la sexualité. J’ai récolté ces liens au fil de mes recherches et trouvailles sur internet. Certains liens et sites internet sont de vraies petites perles et d’autres... un peu moins <i class="fa fa-smile-o"></i>... Mais je tiens à les partager, car ils témoignent des différentes attitudes et courants de pensées sexuelles.
 
-Je les ai classés par thème et mis dans l’ordre alphabétique pour qu’il vous soit plus simple de trouver ou retrouver quelque chose.
+Je les ai classés par thèmes et mis dans l’ordre alphabétique pour qu’il vous soit plus simple de trouver ou retrouver quelque chose.
 
 Il est possible qu’une erreur se soit glissée dans ces lignes (par ex. lien plus valable), je vous invite à m’en faire part.
 
-Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos pérégrinations internet :-) !
-
-The next paragraph contains a link and some text.
+Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos pérégrinations internet <i class="fa fa-smile-o"></i> !
 
 
 # Catégories
