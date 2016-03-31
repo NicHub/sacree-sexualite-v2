@@ -22,25 +22,35 @@ $( document ).ready( function() {
 
 
   // Navigation page suivante ou précédente avec les flèches
-  // gauche-droite du clavier (mousetrap-1.5.3.min.js)
-  // et le balayage gauche-droite de l’écran (jquery.mobile.custom.min.js).
+  // gauche-droite du clavier (Mousetrap, https://craig.is/killing/mice)
+  // et le balayage gauche-droite de l’écran (jQuery Mobile, https://jquerymobile.com/).
   ( function() {
-    $( "body" ).on( "swiperight", function( e ) { navigate_prev_page(); });
-    $( "body" ).on( "swipeleft",  function( e ) { navigate_next_page(); });
-    Mousetrap.bind( 'left',  function( e ) { navigate_prev_page(); });
-    Mousetrap.bind( 'esc',   function( e ) { navigate_home_page(); });
-    Mousetrap.bind( 'right', function( e ) { navigate_next_page(); });
-    function navigate_next_page() {
-      var next_page = $( ".bouton-suiv" ).first().attr( "href" );
-      window.location.href = next_page;
+    Mousetrap.bind( 'left',       function( e ) { navigate_prev_page( e ); });
+    Mousetrap.bind( 'esc',        function( e ) { navigate_home_page( e ); });
+    Mousetrap.bind( 'right',      function( e ) { navigate_next_page( e ); });
+
+    $( 'body' ).on( 'mousedown',  function( e ) { disable_swipe( e ); });
+    $( 'body' ).on( 'touchstart', function( e ) { enable_swipe( e );  });
+
+    function disable_swipe( e ) {
+      $( 'body' ).off( 'swiperight' );
+      $( 'body' ).off( 'swipeleft'  );
     }
-    function navigate_home_page() {
-      var prev_page = $( ".bouton-accueil" ).first().attr( "href" );
-      window.location.href = prev_page;
+    function enable_swipe( e ) {
+      $( 'body' ).on( 'swiperight', function( e ) { navigate_prev_page( e ); });
+      $( 'body' ).on( 'swipeleft',  function( e ) { navigate_next_page( e ); });
     }
-    function navigate_prev_page() {
-      var prev_page = $( ".bouton-prec" ).first().attr( "href" );
-      window.location.href = prev_page;
+    function navigate_next_page( e ) {
+      var target_page = $( '.bouton-suiv' ).first().attr( 'href' );
+      window.location.href = target_page;
+    }
+    function navigate_home_page( e ) {
+      var target_page = $( '.bouton-accueil' ).first().attr( 'href' );
+      window.location.href = target_page;
+    }
+    function navigate_prev_page( e ) {
+      var target_page = $( '.bouton-prec' ).first().attr( 'href' );
+      window.location.href = target_page;
     }
   })();
 
