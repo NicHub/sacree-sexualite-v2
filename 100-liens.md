@@ -138,7 +138,7 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - Lunes :
 	- [Le pouvoir alchimique du sang menstruel et de l’union sexuelle](http://www.spirit-science.fr/doc_humain/sexualitealchimique.html)
 	- [Les règles sans aucune protection : le flux instinctif libre !](https://www.youtube.com/watch?v=EEk9ViK2-2A)
-	- [Offrir le sang de mes Lunes à la Terre](http://decoeurasoi.free.fr/?p=1061)
+	- [Offrir le sang de mes Lunes à la Terre](http://decoeurasoi.fr/offrir-le-sang-de-mes-lunes-a-la-terre/)
 	- [Parlons de règles (flux instinctif)](http://www.dailymotion.com/video/x27ia8u_bienetreaujus-menstru-parlons-de-regles-www-regenere-org_webcam)
 	- [Sang menstruel: des cellules-souches 100’000 fois plus rapide que les autres](http://matricien.org/2013/10/06/sang-menstruel-des-cellules-souches-100-000-fois-plus-rapides-que-les-autres/)
 	- [Sang : poème de Shana Grace](http://templeyonimatre.weebly.com/mystegraveres-du-sang-feacuteminin/previous/3)
