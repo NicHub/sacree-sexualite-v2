@@ -15,7 +15,7 @@ Voici certaines des applications en hypnosexologie, cette liste n’est pas exha
 
 - Vous débarrasser de vos schémas et conditionnements limitants
 - Renouer avec votre corps et vos sensations
-- Apprendre à gérer vos sensations physiques et vos émotions
+- Apprendre à gérer et connaître vos sensations physiques et vos émotions pour un plaisir plus grand et plus long
 - Découvrir ou redécouvrir le plaisir sexuel
 - Apprendre le lâcher-prise essentiel au plaisir
 - Vous libérer de vos blocages
