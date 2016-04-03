@@ -5,7 +5,7 @@ layout: page
 published: true
 ---
 
-# Article
+# Article - Le privilège de la sexualité
 
 En matière de sexualité chaque pays a ses coutumes, ses habitudes et ses codes qui ont été modelés au fil du temps par les interactions entre les personnes, les régions, les pays, les religions, les sociétés... Mais il en faut parfois peu pour chambouler un équilibre...
 
