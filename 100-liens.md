@@ -35,7 +35,7 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 [Orgasme](#id-14)
 [Sexualité dans l’histoire](#id-15)
 [Sexualité sacrée](#id-16)
-[Tantra](#id-17)
+[Tantra et Tao](#id-17)
 [Utilisation de la sexualité et de l’énergie sexuelle pour la santé et le bien-être](#id-18)
 [Yoni](#id-19)
 
@@ -45,6 +45,7 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 
 ## Clitoris
 
+- [Club clitoris: l'instagram qui te décoince de la vulve](http://www.desculottees.com/2016/04/club-clitoris-instagram-de-la-vulve/)
 - [La taille du clitoris a-t-elle son importance pour l’orgasme?](http://www.santemagazine.fr/le-blog-sexo-de-marine-nugeron-et-daisy-le-corre/la-taille-du-clitoris-en-quoi-ca-compte-61925.html)
 - [Le clitoris au fil des siècles, de sa découverte à sa mauvaise réputation](http://www.racontemoilhistoire.com/2015/04/27/clitoris-au-fil-siecles-decouverte-mauvaise-reputation/)
 - [Ode au clitoris](http://pouletrotique.com/2016/03/16/ode-au-clitoris/)
@@ -56,6 +57,8 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 ## Contraception
 
 - [Ces vies brisées par la pilule](http://www.lemonde.fr/sante/article/2013/01/15/ces-vies-brisees-par-la-pilule_1806522_1651302.html#HopfRtmKZBsWoxHy.99)
+- [Diaphragme](http://www.contraception-diaphragme.com/diaphragme-taille-unique-definition-647_r)
+- [La pilule, camisole chimique](http://www.passeportsante.net/fr/Communaute/Blogue/Fiche.aspx?doc=la-pilule-camisole-chimique-)
 - [La pilule contraceptive est en train de tuer les femmes, mais personne ne dit mot](http://www.trucsettutos.com/2016/01/la-pilule-contraceptive-est-en-train-de-tuer-les-femmes-mais-personne-ne-dit-mot.html)
 - [Ovules contraceptives naturelles](http://lechantdesarbres.over-blog.com/2015/12/ovules-contraceptives-naturelles.html)
 - [Symptothermie](http://sympto.org/home-main_fr.html)
@@ -70,7 +73,10 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - [Couple : et si vous testiez le slow sex, l’amour en pleine conscience ?](http://www.lexpress.fr/styles/psycho/slow-sex-faire-l-amour-en-pleine-conscience_1547045.html)
 - [Éducation sensuelle, pour les jeunes... et les moins jeunes :-)](http://www.educationsensuelle.com/#.VudPow1Ke7g.facebook)
 - [Elle propose à son mari un an pour coucher avec qui ils veulent. Résultats ?](http://www.pausecafein.fr/sexe/offre-mariage-sexe-aventures.html)
+- [Infidélité: comment gérer la double ration de sentiments?](http://www.lemonde.fr/m-perso/article/2016/06/26/infidelite-comment-gerer-la-double-ration-de-sentiments_4958319_4497916.html)
+- ["Je veux être célibataire à deux avec toi...": cette vision du couple va vous émouvoir](http://www.demotivateur.fr/article/une-blogueuse-publie-sa-vision-du-couple-dans-un-texte-vraiment-touchant-et-bourre-de-verite--4870)
 - [La sexualité de l’homme:entre la Madone et la Putain!](http://www.psy-luxeuil.fr/2016/01/la-sexualite-de-l-homme-entre-la-madone-et-la-putain.html)
+- [L'intimité, être vulnérable pour une vie de couple authentique](http://union-tantrique.fr/intime-vulnerable/)
 - [Le couple dans la voie Chamanique - Tantrique](http://www.conscience-et-eveil-spirituel.com/article-sur-le-nouveau-couple.html)
 - [Le nouveau couple](http://chrysalyda.com/2015/05/15/le-nouveau-couple/)
 - [Les Français avouent rester en couple pour l’argent](http://www.rtl.fr/actu/societe-faits-divers/les-francais-avouent-rester-en-couple-pour-l-argent-7781790407)
@@ -95,6 +101,7 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 
 - [À corps et ä cris, chuchottement, halètements](http://www.lemonde.fr/m-le-mag/article/2016/03/13/a-corps-et-a-cris-chuchotements-haletements_4881905_4500055.html#erGdiQSI2hDsy1kL.99)
 - [Cinquante nuances de Grey](http://streamcomplet.com/cinquante-nuances-de-grey/)
+- [Club clitoris: l'instagram qui te décoince de la vulve](http://www.desculottees.com/2016/04/club-clitoris-instagram-de-la-vulve/)
 - [Désir féminin, une histoire excitante](http://www.hebdo.ch/hebdo/cadrages/detail/d%C3%A9sir-f%C3%A9minin-une-histoire-excitante)
 - [Erotic-attitude](http://erotic-attitude.com/)
 - [Les 400 culs](http://sexes.blogs.liberation.fr/)
@@ -108,6 +115,7 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - [Plante rare: Fallopia multiflora, une plante à racine antropomorphe](http://www.alsagarden.com/blog/plante-rare-fallopia-multiflora-une-plante-a-racine-anthropomorphe/)
 - [Quand les femmes avaient nettement plus besoin de sexe que les hommes.](https://lesfessesdelacremiere.wordpress.com/2013/04/07/quand-les-femmes-partie-1/)
 - [Rencontre avec l’auteur d’oeuvre érotiques qui apporte une touche psychédélique aus plaisirs de la chair sur Instagram](http://www.huffingtonpost.fr/2016/03/03/auteur-art-erotique-alphachanneling-instagram-photos_n_9375502.html?utm_hp_ref=france)
+- [Sexe: oser un peu de sauvagerie](http://www.psychologies.com/Couple/Sexualite/Pratiques-sexuelles/Articles-et-Dossiers/Sexe-oser-un-peu-de-sauvagerie#xtor=CS2-6-[02-06-2016]-[20:30]-[Sexe-bestial)
 - [THE NU PROJECT: femmes du monde au naturel.](http://www.allaroundthegirl.com/2015/02/04/the-nu-project-femmes-nues-projet-photo-matt-blum/)
 - [Une immense frustration sexuelle à la base des violences de cologne](http://www.levif.be/actualite/international/une-immense-frustration-sexuelle-a-la-base-des-violences-de-cologne/article-opinion-448753.html)
 
@@ -129,13 +137,16 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - [Excitée ? Moi, jamais !](http://sexes.blogs.liberation.fr/2015/01/21/excitee-moi-jamais-/)
 - [La culotte peut-elle être chaude et la tête froide ?](http://sexes.blogs.liberation.fr/2015/01/26/la-culotte-peut-elle-etre-chaude-et-la-tete-froide-/)
 - [Féminaissance: une association, un festival, un salon.](http://feminaissance.com/lesprit-du-salon/)
+- [La femme, initiatrice spirituelle de l'homme](http://www.elishean.fr/la-femme-initiatrice-spirituelle-de-lhomme/)
 - [La femme lunaire. Les forces du cycle féminin](https://cercledeesse.files.wordpress.com/2007/06/la-femme-lunaire-miranda-gray.pdf)
 - [La prophétie de la femme médecine – Hernan Huarache Mamani](https://www.youtube.com/watch?v=ZIQ1cd9ICps)
 - [La quête du féminin, par Pierre Rabhi](http://chemindevie.net/la-quete-du-feminin/)
 - [La source des femmes](http://www.streamcomplet.eu/streaming-la-source-des-femmes.php)
 - [Les mystères de la femme](http://www.cgjung.net/publications/harding.htm)
 - [lorsque cette photographe a retouché la photo de cette femme pour la rendre “plus sexy” elle savait que sa vision des choses allait radicalement changer...](http://www.demotivateur.fr/article-buzz/lorsque-sa-femme-lui-a-offert-un-album-de-photos-sexy-ce-mari-a-envoye-une-reponse-memorable--3665)
+- [S'armer jusqu'aux lèvres!](https://infokiosques.net/lire.php?id_article=1318)
 - Lunes :
+	- [Asynchronie des cycles menstruel et lunaire:Qu'est-ce que la terre-Mère attend de nous?](http://templeyonimatre.weebly.com/mystegraveres-du-sang-feacuteminin/asynchronie-des-cycles-menstruel-et-lunaire-quest-ce-que-la-terre-mre-attend-de-nous)
 	- [Le pouvoir alchimique du sang menstruel et de l’union sexuelle](http://www.spirit-science.fr/doc_humain/sexualitealchimique.html)
 	- [Les règles sans aucune protection : le flux instinctif libre !](https://www.youtube.com/watch?v=EEk9ViK2-2A)
 	- [Offrir le sang de mes Lunes à la Terre](http://decoeurasoi.fr/offrir-le-sang-de-mes-lunes-a-la-terre/)
@@ -170,13 +181,17 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 
 <div id="id-9" class="link-target"></div>
 
-## Liberté sexuelle
+## Liberté sexuelle et polyamour
 
 - [Désir féminin une histoire excitante](http://www.hebdo.ch/hebdo/cadrages/detail/d%C3%A9sir-f%C3%A9minin-une-histoire-excitante)
 - [Elle propose à son mari un an pour coucher avec qui ils veulent. Résultats ?](http://www.pausecafein.fr/sexe/offre-mariage-sexe-aventures.html)
 - [Fidélité oui infidélité: qui trahit qui?](http://erotic-attitude.com/fidelite-ou-infidelite-qui-trahit-qui/)
+- [La salope éthique](http://cabinetsdecuriosites.fr/au-fond-des-choses/culture-q/chroniques-litteraires/la-salope-ethique/)
+- [L'encouplement et le libre amour - Vincent Cespedes 2 eme partie](https://www.youtube.com/watch?v=AwF_dG2ZXNA&feature=share)
 - [Les mythes amoureux (3) La fidélité](http://www.redpsy.com/infopsy/fidelite.html)
 - [Liberté sexuelle ou promiscuité sexuelle ?](http://templeyonimatre.weebly.com/sexualiteacute-sacreacutee/liberte-sexuelle-ou-promiscuite-sexuelle)
+- [L'illusoire libérté sexuelle des adolescents](http://www.letemps.ch/societe/2016/04/05/illusoire-liberte-sexuelle-adolescents)
+- [Infidélité: comment gérer la double ration de sentiments?](http://www.lemonde.fr/m-perso/article/2016/06/26/infidelite-comment-gerer-la-double-ration-de-sentiments_4958319_4497916.html)
 - [Pourquoi on ne peut pas s’empêcher de tomber amoureux au travail](http://www.letemps.ch/economie/2016/02/19/on-ne-s-empecher-tomber-amoureux-travail)
 
 
@@ -186,6 +201,7 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 
 - [Comment atteindre un plus grand orgasme<br/>(homme et femme) – José Toiran](https://www.youtube.com/watch?v=FGRdByya-Po&feature=youtu.be)
 - [Énergie sexuelle, orgasme et oeuf de jade – José Toiran](https://www.youtube.com/watch?v=7IxWbQcu4Ew&feature=youtu.be)
+- [L'encouplement et le libre amour - Vincent Cespedes 2 eme partie](https://www.youtube.com/watch?v=AwF_dG2ZXNA&feature=share)
 - [Masculin sacré, sexualité de l’homme et paroles d’hommes – Patrick Ferrer](https://www.youtube.com/watch?v=XRNKHYiJonc&feature=youtu.be)
 
 
@@ -228,6 +244,7 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 
 ## Orgasme
 
+- [ARTE Désir et plaisir les secrets de la libido](https://www.youtube.com/watch?v=S4pHAlnXAhU)
 - [Comment atteindre un plus grand orgasme (homme et femme) – José Toiran](https://www.youtube.com/watch?v=FGRdByya-Po&feature=youtu.be)
 - [Comment jouissent les femmes](http://www.lemonde.fr/societe/article/2014/12/17/comment-jouissent-les-femmes-selon-l-ifop_4542157_3224.html)
 - [Conçue pour jouir](https://www.youtube.com/watch?v=dMCpLaIvYoQ)
@@ -247,6 +264,7 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 ## Sexualité dans l’histoire
 
 - [À Paris, l’Église catholique exploitait 3000 bordels et 40000 prostituée](http://matricien.org/patriarcat/sociologie/prostitution/bordel-eglise/)
+- [Des gargouilles érotiques photographiées par un Charentais](http://france3-regions.francetvinfo.fr/poitou-charentes/charente/des-gargouilles-erotiques-photographiees-par-un-charentais-967725.html)
 - [Itinéraires Bretagne : de Kamasutra breton dans nos églises ](http://france3-regions.francetvinfo.fr/bretagne/itineraires-de-bretagne-sexe-art-et-religion-828027.html)
 - [Lajja Gauri ou la déesse à la tête de lotus](http://templeyonimatre.weebly.com/deacuteesses/lajja-gauri-ou-la-desse-tte-de-lotus)
 - [Le cul bénit. Amour sacré et passions profanes – Bernard Rio](https://www.youtube.com/watch?v=dnIqEqy5jGE)
@@ -276,6 +294,8 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 ## Sexualité sacrée
 
 - [55\. La conscience sexuelle](http://www.colling.lu/chapitres_fr/55.pdf)
+- [Découvrez les 7 règles d'une sexualité de rêve](http://www.planifiezvosreves.com/decouvrez-les-7-regles-dune-sexualite-de-reve/)
+- [Des applications pour la santé sexuelle](http://journalmetro.com/opinions/sexe-dans-la-ville/936026/des-applications-pour-la-sante-sexuelle/)
 - [En amour, nos peaux sont plus intelligentes que nos mots...](http://lespaceducouple.com/2015/07/08/en-amour-nos-peaux-sont-plus-intelligentes-que-nos-mots-2/)
 - [Energie sexuelle, trois phases d’expérimentation](http://therapiequantique.eklablog.com/energie-sexuelle-trois-phases-d-experimentation-a118016592)
 - [Féminin sacré : s’épanouir dans une sexualité sacrée](http://femininsacre.com/feminin-sacre-spanouir-dans-la-sexualite-sacree/)
@@ -284,6 +304,8 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - [La sexualité sacrée, une ouverture vers l’amour inconditionnel](http://www.inrees.com/articles/La-sexualite-sacree-ouverture-amour-inconditionnel/)
 - [La sexualité sacrée selon Marie-Madeleine](http://femmes-sacrees.blogspot.fr/2013/11/la-sexualite-sacre-selon-marie-madeleine.html)
 - [L’échec de la sexualité humaine](http://www.mariepaulross.com/lechec-de-la-sexualite-humaine/)
+- [Le consentement sexuel expliqué par une tasse de thé](http://www.madmoizelle.com/consentement-sexuel-tasse-the-365301)
+- [Les limites dans la sexualité](http://presenceasoi.be/les-limites-dans-la-sexualite/)
 - [Sexualité essentielle et sexualité sacrée](http://www.spirit-science.fr/doc_psycho/sexualite.html)
 - [Sexualité essentielle et sexualité sacrée PDF](http://www.academia.edu/8666414/Sexualité_essentielle_et_sexualité_sacrée)
 - [Sexualité et énergie de l’aura](http://www.espritsciencemetaphysiques.com/sexualite-et-energie-de-laura.html)
@@ -296,12 +318,15 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 
 <div id="id-17" class="link-target"></div>
 
-## Tantra
+## Tantra et Tao
 
+- [Conseils pourle sexe tatrique](http://kundalinisexualitesacree.e-monsite.com/blog/le-sexe-tantrique.html)
 - [Découvrez le tantra de la tradition shakta : le Para tan](http://cathymaillard.unblog.fr/2015/01/08/decouvrez-le-tantra-de-tradition-shakta-le-para-tan/)
 - [La Bhagavad Gita](http://www.gita.be/french.htm)
 - [La guérison sexuelle par le Tantra](http://chrysalyda.com/2015/09/24/la-guerison-sexuelle-par-le-tantra/)
 - [La sexualité et le tantra](http://presenceasoi.be/la-sexualite-et-le-tantra/)
+- [Le Kung Fu sexuel de la femme](http://www.daojia.fr/philosophie/le-kung-fu-sexuel-de-la-femme)
+- [Le Kung Fu sexuel de l'Homme](http://www.daojia.fr/philosophie/le-kung-fu-sexuel-de-lhomme)
 - [Le tantra est l’inverse de la pornographie,<br/>comment apprendre à avoir une intimité épanouie](http://www.espritsciencemetaphysiques.com/le-tantra-est-linverse-de-la-pornographie-comment-apprendre-a-avoir-une-intimite-epanouie.html)
 - [Le tantra et le Rebirth par Danielle](https://www.youtube.com/watch?v=6ObgbBpHmhg)
 - [Le Tantra: une voie de transformation intégrale de l’être humain](http://www.letoucherducoeur.fr/2015/12/le-tantra-une-voie-de-transformation-integrale-de-l-etre-humain.html?utm_source=_ob_share&utm_medium=_ob_facebookpage&utm_campaign=_ob_share_auto)
