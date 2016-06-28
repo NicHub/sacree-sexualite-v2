@@ -341,3 +341,5 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - [La vulve sacrée autour du monde](http://templeyonimatre.weebly.com/culte-du-yoni/la-vulve-sacre-autour-du-monde)
 - [Les 7 Merveilles de l’Utérus : Découvrez les pouvoirs incroyables de l’Utérus](http://templeyonimatre.weebly.com/mystegraveres-du-sang-feacuteminin)
 - [Yoni : Triangle Sacré](http://templeyonimatre.weebly.com/culte-du-yoni)
+
+---
