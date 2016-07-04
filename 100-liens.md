@@ -18,30 +18,14 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 
 # Catégories
 
-{: .align-center }
-[Clitoris](#id-1)
-[Contraception](#id-2)
-[Couple](#id-3)
-[Cunilingus et massage](#id-4)
-[Dédramatiser la sexualité](#id-5)
-[Féminin sacré et Lunes](#id-6)
-[Fellation et massage](#id-7)
-[Formation sexualité](#id-8)
-[Liberté sexuelle](#id-9)
-[Lilou](#id-10)
-[Lingam](#id-11)
-[Masculin sacré](#id-12)
-[Masturbation masculine et féminine](#id-13)
-[Orgasme](#id-14)
-[Sexualité dans l’histoire](#id-15)
-[Sexualité sacrée](#id-16)
-[Tantra et Tao](#id-17)
-[Utilisation de la sexualité et de l’énergie sexuelle pour la santé et le bien-être](#id-18)
-[Yoni](#id-19)
-[Premiers pas dans la sexualité](#id-20)
+<div id="categories" class="align-center">{% comment %}
+<!--
+La liste des catégories sera affichée automatiquement ici sur le site web en ligne.
+-->
+{% endcomment %}</div>
 
 
-<div id="id-1" class="link-target"></div>
+
 
 ## Clitoris
 
@@ -52,7 +36,7 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - [Odile Buisson : Le point G et l’orgasme féminin](http://www.dailymotion.com/video/x1ytz7h_odile-buisson-le-point-g-et-l-orgasme-feminin_school)
 
 
-<div id="id-2" class="link-target"></div>
+
 
 ## Contraception
 
@@ -64,7 +48,7 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - [Symptothermie](http://sympto.org/home-main_fr.html)
 
 
-<div id="id-3" class="link-target"></div>
+
 
 ## Couple
 
@@ -89,7 +73,7 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - [Une rupture amoureuse fait souffrir, mais notre cerveau est fait pour que nous passions à autre chose](http://www.huffingtonpost.fr/2015/03/30/rupture-amoureuse-cerveau-passer-autre-chose_n_6967252.html?ir=France&ncid=fcbklnkfrhpmg00000001)
 
 
-<div id="id-4" class="link-target"></div>
+
 
 ## Cunilingus et massage
 - [Faire un cunnilingus parfait, techniques et astuces dans cet article!](http://www.artdusexe.com/comment-guide-cunnilingus-parfait/)
@@ -97,7 +81,7 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - [Témoignage d’un homme qui ne veut pas faire de cunnilingus](http://www.slate.fr/story/109435/cunnilingus-pratique-sexuelle)
 
 
-<div id="id-5" class="link-target"></div>
+
 
 ## Dédramatiser la sexualité
 
@@ -123,7 +107,7 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - [Une immense frustration sexuelle à la base des violences de cologne](http://www.levif.be/actualite/international/une-immense-frustration-sexuelle-a-la-base-des-violences-de-cologne/article-opinion-448753.html)
 
 
-<div id="id-6" class="link-target"></div>
+
 
 ## Féminin sacré et Lunes
 
@@ -167,7 +151,7 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - [Rituels et plantes “Nettoyage des organes génitaux”](http://lechantdesarbres.over-blog.com/2015/11/ritels-plantes-nettoyage-des-organes-genitaux.html)
 
 
-<div id="id-7" class="link-target"></div>
+
 
 ## Fellation et massage
 
@@ -176,7 +160,7 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - [Massage du Lingam](http://www.le-sidh.org/site/article_574.html)
 
 
-<div id="id-8" class="link-target"></div>
+
 
 ## Formation sexualité
 
@@ -187,7 +171,7 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - [Université de Genève CAS -Sexologie clinique](http://www.unige.ch/formcont/sexologieclinique/)
 
 
-<div id="id-9" class="link-target"></div>
+
 
 ## Liberté sexuelle et polyamour
 
@@ -203,7 +187,7 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - [Pourquoi on ne peut pas s’empêcher de tomber amoureux au travail](http://www.letemps.ch/economie/2016/02/19/on-ne-s-empecher-tomber-amoureux-travail)
 
 
-<div id="id-10" class="link-target"></div>
+
 
 ## Lilou
 
@@ -213,7 +197,7 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - [Masculin sacré, sexualité de l’homme et paroles d’hommes – Patrick Ferrer](https://www.youtube.com/watch?v=XRNKHYiJonc&feature=youtu.be)
 
 
-<div id="id-11" class="link-target"></div>
+
 
 ## Lingam
 
@@ -221,7 +205,7 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - [Le prépuce est “l’unité sensorielle principale du pénis”](http://www.droitaucorps.com/anatomie-prepuce-sequelle-circoncision)
 
 
-<div id="id-12" class="link-target"></div>
+
 
 ## Masculin sacré
 
@@ -237,7 +221,7 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - [Vers une sexualité saine et rayonnante, l’homme divin](http://evolutionsexuelle.simplesite.com/420404672?b=CCA7D6DA42E4B587D132C2935DCC24BF1588B4F)
 
 
-<div id="id-13" class="link-target"></div>
+
 
 ## Masturbation masculine et féminine
 
@@ -248,7 +232,7 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - [Se masturber c’est bon pour la santé des femmes](http://www.neobienetre.fr/se-masturber-cest-bon-pour-la-sante-des-femmes/)
 
 
-<div id="id-14" class="link-target"></div>
+
 
 ## Orgasme
 
@@ -268,7 +252,14 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - [Voulez-vous être multi-orgasmique?](http://erotic-attitude.com/voulez-vous-etre-multi-orgasmique/)
 
 
-<div id="id-15" class="link-target"></div>
+
+
+## Premiers pas dans la sexualité
+
+- [Comment et pourquoi je ne me lave plus le vagin et la vulve](http://moruemoderne.blogspot.ru/2014/12/comment-et-pourquoi-je-ne-me-lave-plus.html)
+
+
+
 
 ## Sexualité dans l’histoire
 
@@ -298,7 +289,7 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - [Sur le sexe en Bretagne on vous dit tout, ou presque !](http://france3-regions.francetvinfo.fr/bretagne/itineraires-bretagne-sexe-et-legendes-827835.html)
 
 
-<div id="id-16" class="link-target"></div>
+
 
 ## Sexualité sacrée
 
@@ -327,7 +318,7 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - [La Tyrannie du Coït !](http://secretdefontaine.blogspot.fr/2014/05/la-tyrannie-du-coit.html)
 
 
-<div id="id-17" class="link-target"></div>
+
 
 ## Tantra et Tao
 
@@ -361,7 +352,7 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 	- [Yoni : Triangle Sacré](http://templeyonimatre.weebly.com/culte-du-yoni)
 
 
-<div id="id-18" class="link-target"></div>
+
 
 ## Utilisation de la sexualité et de l’énergie sexuelle pour la santé et le bien-être
 
@@ -370,7 +361,7 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - [Utilisez l’énergie sexuelle pour atteindre l’excellence](http://www.profilgagnant.fr/developpement-personnel/utilisez-lenergie-sexuelle-pour-atteindre-lexcellence/)
 
 
-<div id="id-19" class="link-target"></div>
+
 
 ## Yoni
 
@@ -380,8 +371,5 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - [Yoni : Triangle Sacré](http://templeyonimatre.weebly.com/culte-du-yoni)
 
 
-<div id="id-20" class="link-target"></div>
 
-## Premiers pas dans la sexualité
 
-- [Comment et pourquoi je ne me lave plus le vagin et la vulve](http://moruemoderne.blogspot.ru/2014/12/comment-et-pourquoi-je-ne-me-lave-plus.html)
