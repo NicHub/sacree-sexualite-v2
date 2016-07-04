@@ -38,7 +38,7 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 [Tantra et Tao](#id-17)
 [Utilisation de la sexualité et de l’énergie sexuelle pour la santé et le bien-être](#id-18)
 [Yoni](#id-19)
-
+[Premiers pas dans la sexualité](#id-20)
 
 
 <div id="id-1" class="link-target"></div>
@@ -379,3 +379,9 @@ Je vous souhaite de magnifiques découvertes et apprentis-sages au gré de vos p
 - [Les 7 Merveilles de l’Utérus : Découvrez les pouvoirs incroyables de l’Utérus](http://templeyonimatre.weebly.com/mystegraveres-du-sang-feacuteminin)
 - [Yoni : Triangle Sacré](http://templeyonimatre.weebly.com/culte-du-yoni)
 
+
+<div id="id-20" class="link-target"></div>
+
+## Premiers pas dans la sexualité
+
+- [Comment et pourquoi je ne me lave plus le vagin et la vulve](http://moruemoderne.blogspot.ru/2014/12/comment-et-pourquoi-je-ne-me-lave-plus.html)
