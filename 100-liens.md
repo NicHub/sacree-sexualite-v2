@@ -173,7 +173,7 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 
 
 
-## Liberté sexuelle et polyamour
+## Liberté sexuelle et polyamour
 
 - [Désir féminin une histoire excitante](http://www.hebdo.ch/hebdo/cadrages/detail/d%C3%A9sir-f%C3%A9minin-une-histoire-excitante)
 - [Elle propose à son mari un an pour coucher avec qui ils veulent. Résultats ?](http://www.pausecafein.fr/sexe/offre-mariage-sexe-aventures.html)
@@ -223,7 +223,7 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 
 
 
-## Masturbation masculine et féminine
+## Masturbation masculine et féminine
 
 - [Documentaire – Les Branleuses par Frédérique Barravia](http://monq.biz/article-4993-Documentaire+Les+branleuses+par+Frederique+Barraja.monQ)
 - [La masturbation, des bienfaits pour la santé](http://www.medisite.fr/pratiques-sexuelles-la-masturbation-des-bienfaits-pour-sante.1511.80.html)
@@ -254,7 +254,7 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 
 
 
-## Premiers pas dans la sexualité
+## Premiers pas dans la sexualité
 
 - [Comment et pourquoi je ne me lave plus le vagin et la vulve](http://moruemoderne.blogspot.ru/2014/12/comment-et-pourquoi-je-ne-me-lave-plus.html)
 
@@ -354,7 +354,7 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 
 
 
-## Utilisation de la sexualité et de l’énergie sexuelle pour la santé et le bien-être
+## Utilisation de la sexualité et de l’énergie sexuelle pour la santé et le bien-être
 
 - [L’approche sexo corporelle, un modèle de santé sexuelle.](http://leveilsecret.jimdo.com/2015/08/15/l-approche-sexo-corporelle-un-modèle-de-santé-sexuelle/)
 - [La sexualité comme médecine](http://www.arcturius.org/chroniques/la-sexualite-comme-medecine/)
