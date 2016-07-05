@@ -131,6 +131,7 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 - [La source des femmes](http://www.streamcomplet.eu/streaming-la-source-des-femmes.php)
 - [Les mystères de la femme](http://www.cgjung.net/publications/harding.htm)
 - [lorsque cette photographe a retouché la photo de cette femme pour la rendre “plus sexy” elle savait que sa vision des choses allait radicalement changer...](http://www.demotivateur.fr/article-buzz/lorsque-sa-femme-lui-a-offert-un-album-de-photos-sexy-ce-mari-a-envoye-une-reponse-memorable--3665)
+- [Moon Mother Avancée Laetitia Stucki](http://sacree-sexualite.org/moon-mother/)
 - [Nourir son Yin](http://lechantdesarbres.over-blog.com/2016/06/nourrir-son-yin.html)
 - [Oeuf de Jade - Sexualité féminine - Oeuf de Yoni](https://www.youtube.com/watch?v=NS6HUAGTPos)
 - [Préparation à l'exercice de oeuf de Jade avec Karine Nivon](https://www.youtube.com/watch?v=rU4xjiLO07c&feature=player_embedded)
@@ -256,7 +257,8 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 
 ## Premiers pas dans la sexualité
 
-- [Comment et pourquoi je ne me lave plus le vagin et la vulve](http://moruemoderne.blogspot.ru/2014/12/comment-et-pourquoi-je-ne-me-lave-plus.html)
+- [Éducation sensuelle, pour les jeunes... et les moins jeunes :-)](http://www.educationsensuelle.com/#.VudPow1Ke7g.facebook)
+- [Le consentement sexuel expliqué par une tasse de thé](http://www.madmoizelle.com/consentement-sexuel-tasse-the-365301)
 
 
 
@@ -299,6 +301,8 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 - [En amour, nos peaux sont plus intelligentes que nos mots...](http://lespaceducouple.com/2015/07/08/en-amour-nos-peaux-sont-plus-intelligentes-que-nos-mots-2/)
 - [Energie sexuelle, trois phases d’expérimentation](http://therapiequantique.eklablog.com/energie-sexuelle-trois-phases-d-experimentation-a118016592)
 - [Féminin sacré : s’épanouir dans une sexualité sacrée](http://femininsacre.com/feminin-sacre-spanouir-dans-la-sexualite-sacree/)
+- [Hypnocoaching amour et sexualité](http://sacree-sexualite.org/hypnocoaching-amour-sexualite/)
+- [Hypnosexologie](http://sacree-sexualite.org/hypnosexologie/)
 - [Inspiration naturiennes : Sexualité Naturienne...](https://www.youtube.com/watch?v=utw2XB1ZeKQ&list=UUWQT49S0h-JQwiXxF0FWXKA)
 - [La sexualité Divine (par les Êtres de lumière)](http://chrysalyda.com/2015/02/03/la-sexualite-divine-par-les-etres-de-lumiere/)
 - [La sexualité est-elle bien enseignée?](http://www.liberation.fr/france/2016/06/15/la-sexualite-est-elle-bien-enseignee_1459313)
@@ -308,14 +312,17 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 - [L’échec de la sexualité humaine](http://www.mariepaulross.com/lechec-de-la-sexualite-humaine/)
 - [Le consentement sexuel expliqué par une tasse de thé](http://www.madmoizelle.com/consentement-sexuel-tasse-the-365301)
 - [Les limites dans la sexualité](http://presenceasoi.be/les-limites-dans-la-sexualite/)
+- [Sacrée Sexualité](http://sacree-sexualite.org/)
 - [Sexualité essentielle et sexualité sacrée](http://www.spirit-science.fr/doc_psycho/sexualite.html)
 - [Sexualité essentielle et sexualité sacrée PDF](http://www.academia.edu/8666414/Sexualité_essentielle_et_sexualité_sacrée)
 - [Sexualité et énergie de l’aura](http://www.espritsciencemetaphysiques.com/sexualite-et-energie-de-laura.html)
 - Michael Brown :
 	- [Aimer c’est Évoluer](https://www.youtube.com/watch?v=4dI7rMePWI8)
 	- [Intimité et Sexualité – Part 1](https://www.youtube.com/watch?v=vUkQiIR52LA)
+
+- [Soins énergétiques au service de la sexualité](http://sacree-sexualite.org/soins-energetiques/)
 - [Spiritualité et sexualité : deux états complètement compatibles.](http://stephanie-et-nadia.com/spiritualite-et-sexualite/)
-- [La Tyrannie du Coït !](http://secretdefontaine.blogspot.fr/2014/05/la-tyrannie-du-coit.html)
+- [Thérapie](http://sacree-sexualite.org/therapie/)
 
 
 
@@ -358,6 +365,8 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 
 - [L’approche sexo corporelle, un modèle de santé sexuelle.](http://leveilsecret.jimdo.com/2015/08/15/l-approche-sexo-corporelle-un-modèle-de-santé-sexuelle/)
 - [La sexualité comme médecine](http://www.arcturius.org/chroniques/la-sexualite-comme-medecine/)
+- [Le Kung Fu sexuel de la femme](http://www.daojia.fr/philosophie/le-kung-fu-sexuel-de-la-femme)
+- [Le Kung Fu sexuel de l'Homme](http://www.daojia.fr/philosophie/le-kung-fu-sexuel-de-lhomme)
 - [Utilisez l’énergie sexuelle pour atteindre l’excellence](http://www.profilgagnant.fr/developpement-personnel/utilisez-lenergie-sexuelle-pour-atteindre-lexcellence/)
 
 
