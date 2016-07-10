@@ -34,6 +34,12 @@ published: true
 | ---                                                | ---:         |
 | Séance de lithothérapie et soins énergétiques <br/><small class="brun"><em>Il est également possible de coupler l’hypnose à un soin énergétique, auquel cas le tarif reste à 120 CHF la séance.</em></small> | 120&nbsp;CHF |
 
+## Les ateliers
+
+{: .table .table-condensed .table-responsive }
+| ---                                                | ---:         |
+| Ateliers d'autohypnose, durée 1h30, sur rendez-vous: 1 pers. 100&nbsp;CHF, 2 pers. 80&nbsp;CHF/pp, 3 pers. 70&nbsp;CHF/pp, 4 pers 60&nbsp;CHF/pp |
+
 {: .align-center }
 ***<i class="fa fa-gift"></i> Faites plaisir à vos proches : offrez un bon cadeau !***
 
