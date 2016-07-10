@@ -6,9 +6,9 @@ published: true
 ---
 
 
-## Des nouveautés pour vous :-)
+# Des nouveautés pour vous :-)
 
-Il me tient  particulièrement à coeur de  transmettre des techniques et méthodes simples d’autohypnose que chacun puisse utiliser facilement par soi même et pour son mieux-être. J’ai donc mis sur pied divers ateliers de 1h30 sur les thèmes suivants :
+Il me tient  particulièrement à coeur de  transmettre des techniques et méthodes simples d’autohypnose que vous puissiez utiliser facilement par vous-même et pour votre mieux-être. J’ai donc mis sur pied divers ateliers de 1h30 sur les thèmes suivants :
 
 - Autohypnose « augmentez votre plaisir sexuel »
 - Autohypnose « confiance en soi »
