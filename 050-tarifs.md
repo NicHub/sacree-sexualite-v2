@@ -39,7 +39,7 @@ published: true
 {: .table .table-condensed .table-responsive }
 | ---                                                | ---:         |
 | Ateliers d'autohypnose, durée 1h30, sur rendez-vous 
-| 90&nbsp;CHF |
+| 120&nbsp;CHF |
 
 {: .align-center }
 ***<i class="fa fa-gift"></i> Faites plaisir à vos proches : offrez un bon cadeau !***
