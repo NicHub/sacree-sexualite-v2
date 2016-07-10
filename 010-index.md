@@ -32,7 +32,7 @@ Au plaisir de vous y rencontrer !
 {: .text-center }
 <mailto:laetitia.stucki@gmail.com>
 <i class="fa fa-mobile"></i> +41 79 326 30 64
-[Tarifs](http://laetitia-stucki.ch/tarifs/)
+[Tarifs](http://sacree-sexualite.org/tarifs/)
 
 
 {: .align-center .margin-top-50 }
