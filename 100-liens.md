@@ -247,7 +247,7 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 - [L'orgasme féminin expliqué aux mecs](http://erotic-attitude.com/lorgasme-feminin-explique-aux-mecs/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost)
 - [Nommer l’orgasme : l’enquête qui va faire du bruit](http://www.santemagazine.fr/le-blog-sexo-de-marine-nugeron-et-daisy-le-corre/nommer-l-orgasme-l-enquete-qui-va-faire-du-bruit-60952.html)
 - [Odile Buisson : Le point G et l’orgasme féminin](http://www.dailymotion.com/video/x1ytz7h_odile-buisson-le-point-g-et-l-orgasme-feminin_school)
-- [Orgasmie du coeur](http://www.orgasmieducoeur.org/)
+- [Orgasmie du cœur](http://www.orgasmieducoeur.org/)
 - [Similitudes des organes, similitudes des orgasmes](http://secondsexe.com/magazine/Similitudes-des-organes.html)
 - [Tout savoir sur l’orgasme nocturne chez les femmes](http://www.santemagazine.fr/actualite-tout-savoir-sur-l-orgasme-nocturne-chez-les-femmes-73343.html)
 - [Voulez-vous être multi-orgasmique?](http://erotic-attitude.com/voulez-vous-etre-multi-orgasmique/)

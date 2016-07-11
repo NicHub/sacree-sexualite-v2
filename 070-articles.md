@@ -5,7 +5,7 @@ layout: page
 published: true
 ---
 
-# Article - Le privilège de la sexualité
+# Article<br/><br/>*Le privilège de la sexualité*
 
 En matière de sexualité chaque pays a ses coutumes, ses habitudes et ses codes qui ont été modelés au fil du temps par les interactions entre les personnes, les régions, les pays, les religions, les sociétés... Mais il en faut parfois peu pour chambouler un équilibre...
 
@@ -21,7 +21,7 @@ Dans notre société actuelle (je vis en Suisse) et malgré la révolution sexue
 
 Cependant, du fait d’une plus grande liberté à ce niveau que dans une grande partie des pays du monde, nous avons le privilège de vivre dans une société où, homme comme femme, avons la possibilité s’il le souhaite de vivre et expérimenter une sexualité épanouie. Nous avons la possibilité de redonner à la sexualité sa vraie place. Je ne sais pas si le monde est le résultat d’un acte sexuel entre les Dieux, mais nous sommes tous (ou presque) le fruit d’une union sexuelle, nous sommes tous issus de l’union d’un homme et d’une femme. Aurions-nous tous été créés dans le péché infâme et sale de la sexualité ? Non ! Peut être que ces nombreux siècles de sexualité réprimée ont eu un effet négatif et malsain, pour certaines personnes, sur nos fonctionnements sexuels, mais ce résultat n’est en aucun cas dû à la sexualité elle-même, mais au conditionnement inculqué depuis si longtemps...
 
-Nous avons l’immense privilège de vivre dans une société plutôt libre sexuellement. Peut-être pouvons-nous imaginer découvrir ou redécouvrir une sexualité respectueuse et épanouie juste pour le plaisir sans honte ni tabou ? Peut-être pouvons-nous désirer nous libérer de ces schémas limitants ?  Peut-être pouvons-nous apprendre à utiliser la sexualité pour notre développement personnel et spirituel ?
+Nous avons l’immense privilège de vivre dans une société plutôt libre sexuellement. Peut-être pouvons-nous imaginer découvrir ou redécouvrir une sexualité respectueuse et épanouie juste pour le plaisir sans honte ni tabou ? Peut-être pouvons-nous désirer nous libérer de ces schémas limitants ? Peut-être pouvons-nous apprendre à utiliser la sexualité pour notre développement personnel et spirituel ?
 
 Selon moi la sexualité est un reflet de notre société... Ou plutôt la société est un reflet de notre sexualité, alors peut-être n’est-il pas utopique de se dire qu’une sexualité épanouie est une des composantes essentielles à un monde meilleur ?
 
@@ -36,7 +36,7 @@ Pour se sentir bien dans sa sexualité, il est important :
 
 Ce sont quelques-uns des ingrédients essentiels au bien-être. La question que je ne peux m’empêcher de me poser est : Est-ce que ce travail sur soi devrait s’effectuer en premier lieu, à la racine ? Dans la source de notre vie, soit dans l’acte sexuel lui-même? Et pouvoir ensuite se répercuter sur les autres aspects de notre vie personnelle et de manière plus large de la vie de chaque être humain.
 
-Laetitia Stucki
+*Lætitia Stucki*
 
 {% comment %}
 Ne me touche pas ! Amour ??? même avant naissance
