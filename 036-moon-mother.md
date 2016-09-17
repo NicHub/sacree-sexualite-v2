@@ -7,7 +7,7 @@ published: true
 
 # Moon Mother
 
-![...](../images/laetitia-stucki-moon-mother-001.jpg)
+![Illustration Moon Mother](../images/laetitia-stucki-moon-mother-001.jpg)
 
 Moon Mother Avancée initiée par Miranda Gray, je pratique :
 
@@ -19,7 +19,7 @@ Moon Mother Avancée initiée par Miranda Gray, je pratique :
 
 Chaque bénédiction et soin de l’utérus augmente notre vibration et apporte à notre féminité une puissante guérison sur les plans physique, émotionnel, mental et spirituel. Elle remplit le centre de notre utérus, en lui rendant sa sacralité. C’est une prière physique qui nous connecte à notre divin féminin, nous enveloppant d’amour. En ouvrant notre cœur, c’est une thérapie qui permet le changement de nos modèles, de nos perceptions en nous permettant de vivre, d’agir en accord avec notre énergie féminine. Peu importe notre âge, la bénédiction de l’utérus nous aide à lâcher nos pensées restrictives, les conduites apprises, et à dissoudre notre stress et notre culpabilité. Nous voici de retour dans notre liberté naturelle! C’est un support de transformation pour nos vies. Une merveilleuse voie pour la jeune fille, un chemin magique pour la femme mature puis ménopausée. La bénédiction de l’utérus est aussi une aide de connaissance et d’acceptation lors de pertes et de changements douloureux: un chemin d’amour et de soutien pour être en phase avec le cycle de la vie.La bénédiction de l’utérus est un éveil, une célébration de tous les aspects de notre féminin: nous sommes belles, puissantes, créatives, intelligentes, dignes, des femmes magiques et sensuelles, quels que soient notre âge, notre aspect et nos expériences de vie.
 
-![...](../images/laetitia-stucki-moon-mother-002.jpg)
+![Séance de bénédiction de l’utérus avec Lætitia Stucki](../images/laetitia-stucki-moon-mother-002.jpg)
 
 ## Par le biais de ces soins, vous pourrez
 
@@ -73,7 +73,7 @@ Chaque bénédiction et soin de l’utérus augmente notre vibration et apporte 
 - Autres rites de passage
 - Etc.
 
-![...](../images/laetitia-stucki-moon-mother-003.jpg)
+![Séance de bénédiction Moon Mother avec Lætitia Stucki](../images/laetitia-stucki-moon-mother-003.jpg)
 
 > « Les Moon Mothers sont des femmes qui ont suivi la formation par Miranda Gray et ont reçu l’initiation de Moon Mothers . Elles détiennent les hautes vibrations de l’énergie de Moon Mothers et sont capables de transmettre l’initiation de la Bénédiction de l’Utérus en personne, en faisant à chaque fois monter le taux vibratoire d’une femme, apportant la transformation et le Sacré. Elles sont aussi capables d’offrir des Soins de guérison de l’Utérus en pratiquant l’imposition des mains, tout en douceur et en réconfort et soutiennent les femmes intéressées à participer à la Bénédiction Mondiale de l’Utérus. »
 >
