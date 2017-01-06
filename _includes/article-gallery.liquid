@@ -1,0 +1,28 @@
+<div class="row gallerie">
+{% for item in site.categories.["articles"] %}
+	{% assign vignette_url = item.path | split: '/' | last | split: '.' | first | append: "-300x300.jpg" %}
+	{% assign vignette_path =  '/images-articles/' | append: vignette_url %}
+	{% assign vignette_found =  false %}
+{% comment %}
+	{% for static_file in site.static_files %}
+		{% if static_file.path == vignette_path %}
+			{% assign vignette_found =  true %}
+			{% break %}
+		{% endif %}
+	{% endfor %}
+{% endcomment %}
+	{% if vignette_found %}
+		{% assign vignette_url = "../images-articles/" | append: vignette_url %}
+	{% else %}
+		{% assign vignette_url = "../images-articles/logo_300x300.png" %}
+	{% endif %}
+	<div class="col-sm-4 col-xs-6">
+		<div class="panel panel-default vignette">
+			<div class="panel-thumbnail"><a href="..{{ item.url }}" title="Renovations"><img alt="..." src="{{ vignette_url }}" class="img-responsive" style="height:auto;"></a></div>
+			<div class="panel-body">
+				<p>{{ item.title }}</p>
+			</div>
+		</div><!--/panel-->
+	</div><!--/col-->
+{% endfor %}
+</div>

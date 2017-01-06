@@ -1,0 +1,30 @@
+
+{% assign IDArticle =  0 %}
+{% for monlivre in site.categories.["articles"] %}
+	{% if monlivre.url == page.url %}
+		{% break %}
+	{% else %}
+		{% assign IDArticle =  IDArticle | plus: 1 %}
+	{% endif %}
+{% endfor %}
+
+{% assign NbPages =  site.categories.["articles"] | size %}
+{% assign PrevID = IDArticle | minus: 1 | modulo: NbPages %}
+{% assign NextID = IDArticle | plus:  1 | modulo: NbPages %}
+
+{% assign PrevPage = site.categories.["articles"][PrevID] %}
+{% assign NextPage = site.categories.["articles"][NextID] %}
+
+		<div class="btn-prev-next text-center">
+			<a class="btn btn-primary bouton-prec" title="{{ PrevPage.title }}" href="{{ thisbaseurl }}{{ PrevPage.url | remove_first: '/' }}" role="button"><i class="fa fa-chevron-circle-left"></i></a>
+
+			<span>&nbsp;</span>
+
+			<a class="btn btn-primary bouton-accueil" title="Retour aux articles" href="{{ thisbaseurl }}/articles/" role="button">
+				<img src="{{ thisbaseurl }}{{ site.data.infos.images.logo }}" alt="..." />
+			</a>
+
+			<span>&nbsp;</span>
+
+			<a class="btn btn-primary bouton-suiv" title="{{ NextPage.title }}" href="{{ thisbaseurl }}{{ NextPage.url | remove_first: '/' }}" role="button"><i class="fa fa-chevron-circle-right"></i></a>
+		</div>
