@@ -2,10 +2,12 @@
 layout       : article
 title        : "Apprendre à faire l’Amour"
 categories   : articles
-exergue      : "11 conseils pour vous épanouir dans votre sexualité."
+exergue      : "11 conseils pour vous épanouir dans&nbsp;votre sexualité"
 ---
 
 # Apprendre à faire l’Amour
+
+## 11 conseils pour vous épanouir dans&nbsp;votre sexualité
 
 Lors de [mes consultations en hypnosexologie](/), je constate régulièrement qu’une partie des difficultés sexuelles viennent simplement d’une méconnaissance de soi-même et de notre corps, malgré [l’ouverture sexuelle dont nous bénéficions en occident](/articles/2016/07/11/le-privilege-de-la-sexualite.html). Mais comment se fait-il que nous en sachions si peu sur nous-mêmes ?
 

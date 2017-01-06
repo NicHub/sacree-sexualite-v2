@@ -2,10 +2,12 @@
 layout       : article
 title        : "Le privilège de la sexualité"
 categories   : articles
-exergue      : "Coutumes &amp; habitudes sexuelles à travers le monde."
+exergue      : "Coutumes &amp; habitudes sexuelles à&nbsp;travers le monde"
 ---
 
 # Le privilège de la sexualité
+
+## Coutumes &amp; habitudes sexuelles à&nbsp;travers le monde
 
 En matière de sexualité chaque pays a ses coutumes, ses habitudes et ses codes qui ont été modelés au fil du temps par les interactions entre les personnes, les régions, les pays, les religions, les sociétés... Mais il en faut parfois peu pour chambouler un équilibre...
 

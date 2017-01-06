@@ -245,3 +245,19 @@ div.fb-wrapper {
 .link-target {
 	padding-top: 82px;
 }
+
+
+.vignette
+{
+	.panel-body
+	{
+		margin-top: 0 !important;
+		padding-top: 0;
+		p {
+			margin: 0 !important;
+		}
+		.exergue {
+			color: #777;
+		}
+	}
+}
