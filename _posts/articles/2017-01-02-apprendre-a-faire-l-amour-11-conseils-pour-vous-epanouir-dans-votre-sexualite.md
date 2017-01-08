@@ -78,11 +78,13 @@ Lâchez-prise ! Plus facile à dire qu’à faire me répondront certains ! É
 
 *Lætitia Stucki*
 
-## A lire également
+## À lire également
 
 - <sup>1</sup> [Consultation en hypnosexologie][1]
+- <sup>2</sup> <a href="http://sacree-sexualite.org/livres/" target="_blank">http://sacree-sexualite.org/livres/</a>
 
 
-[1]: http://sacree-sexualite.org/
+[1]: <a href="http://sacree-sexualite.org/livres/" target="_blank">http://sacree-sexualite.org/livres/</a>
 [2]: http://sacree-sexualite.org/livres/
 [3]: http://sacree-sexualite.org/articles/2016/07/11/le-privilege-de-la-sexualite.html
+j... http://sacree-sexualite.org/
