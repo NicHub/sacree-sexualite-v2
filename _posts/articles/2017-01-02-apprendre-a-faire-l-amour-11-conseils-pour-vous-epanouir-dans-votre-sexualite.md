@@ -83,6 +83,9 @@ Lâchez-prise ! Plus facile à dire qu’à faire me répondront certains ! É
 -[Consultation en hypnosexologie](<href="http://sacree-sexualite.org/livres/" target="_blank">)
 - <sup>2</sup> <a href="http://sacree-sexualite.org/livres/" target="_blank">http://sacree-sexualite.org/livres/</a>
 
+-- <sup>1</sup> <a href="http://sacree-sexualite.org/"target="_blank">Consultation en hypnosexologie</a>
+- <sup>2</sup> <a href="http://sacree-sexualite.org/livres/"target="_blank">Livres</a>
+
 
 [1]: <a href="http://sacree-sexualite.org/livres/" target="_blank">http://sacree-sexualite.org/livres/</a>
 [2]: http://sacree-sexualite.org/livres/
