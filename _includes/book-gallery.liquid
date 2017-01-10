@@ -14,13 +14,17 @@
 	{% else %}
 		{% assign vignette_url = "../images-livres/point-interrogation.png" %}
 	{% endif %}
-	<div class="col-sm-4 col-xs-6">
-		<div class="panel panel-default vignette">
-			<div class="panel-thumbnail"><a href="..{{ item.url }}" title="Renovations"><img alt="..." src="{{ vignette_url }}" class="img-responsive" style="height:auto;"></a></div>
-			<div class="panel-body">
-				<p>{{ item.title }}</p>
-			</div>
-		</div><!--/panel-->
+	<div class="col-sm-4 col-xs-6 vignette">
+		<a href="..{{ item.url }}" title="{{ item.title }}">
+			<div class="panel panel-default">
+				<div class="panel-thumbnail">
+					<img alt="..." src="{{ vignette_url }}" class="img-responsive" style="height:auto;">
+				</div>
+				<div class="panel-body">
+					<p>{{ item.title }}</p>
+				</div>
+			</div><!--/panel-->
+		</a>
 	</div><!--/col-->
 {% endfor %}
 </div>
