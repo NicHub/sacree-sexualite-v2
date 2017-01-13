@@ -37,7 +37,7 @@ Seul ou à 2... ou à plus :-), vous avez le droit de vous toucher, de vous exp
 
 ## 3. Informez-vous !
 
-Évitez de vous limiter aux pornos pour vous instruire ! Il existe une multitude de façons de s’informer efficacement pour une sexualité plus épanouie : <a href="http://http://sacree-sexualite.org/liens/" target="_blank">internet</a>, <a href="http://http://sacree-sexualite.org/livres/" target="_blank">lire des livres</a>, <a href="http://sacree-sexualite.org/hypnosexologie/" target="_blank">suivre des cours</a>[suivre des cours][1], par <a href="http://http://sacree-sexualite.org/hypnocoaching-amour-sexualite/" target="_blank">le coaching </a>, ou la <a href="http://sacree-sexualite.org/hypnosexologie/" target="_blank">thérapie</a>[le coaching ou la thérapie].
+Évitez de vous limiter aux pornos pour vous instruire ! Il existe une multitude de façons de s’informer efficacement pour une sexualité plus épanouie : <a href="http://http://sacree-sexualite.org/liens/" target="_blank">internet</a>, <a href="http://http://sacree-sexualite.org/livres/" target="_blank">lire des livres</a>, <a href="http://sacree-sexualite.org/hypnosexologie/" target="_blank">suivre des cours</a>[suivre des cours][1], par <a href="http://http://sacree-sexualite.org/hypnocoaching-amour-sexualite/" target="_blank">le coaching </a>, ou la <a href="http://sacree-sexualite.org/hypnosexologie/" target="_blank">thérapie</a>.
 
 ## 4. N’attendez rien et savourez juste l’instant !
 
