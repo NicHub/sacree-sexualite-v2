@@ -17,13 +17,13 @@ Et en grandissant les possibilités, d’en apprendre davantage sur notre corps 
 
 Le plus souvent, les patients hommes viennent me voir pour des problèmes d’éjaculation précoce et les femmes, car elles ne ressentent que peu ou pas de plaisir. Hors mis les causes telles que les abus et autres traumatismes ainsi que les troubles physiques ou psychiques (angoisses par ex.), bien souvent, ce qui génère le problème est une méconnaissance de soi-même liée au conditionnement sexuel que nous ont inculqué nos parents, professeurs, média, etc.
 
-Prenez l’exemple de l’éjaculation précoce. Bien souvent quand un homme se masturbe il est un peu stressé de peur qu’on le voie (ou qu’il se fasse attaquer par un prédateur pour remonter à nos ancêtres vivant dans la nature), du coup ces moments intimes sont souvent faits rapidement pour « jouir vite ». Puis, quand l’homme se retrouve face à une femme avec en plus toutes les stimulations érotiques supplémentaires que cela comporte et bien le réflexe « jouir vite » s’active !
+Prenez l’exemple de l’éjaculation précoce. Bien souvent quand un homme se masturbe il est un peu stressé de peur qu’on le voie (ou qu’il se fasse attaquer par un prédateur pour, remonter à nos ancêtres vivant dans la nature), du coup ces moments intimes sont souvent faits rapidement pour « jouir vite ». Puis, quand l’homme se retrouve face à une femme avec en plus toutes les stimulations érotiques supplémentaires que cela comporte et bien le réflexe « jouir vite » s’active !
 
 Et pour les femmes, le tabou de la masturbation ainsi que la méconnaissance de leur corps et de leur sexe sont tout aussi puissants si ce n’est davantage. Beaucoup de femmes n’ont pas idée de ce qui leur fait vraiment plaisir. De plus, du fait de certains vieux conditionnements ou vieilles mémoires, les femmes peuvent avoir énormément de culpabilité à ressentir du désir sexuel du fait d’avoir été bridées dans leur sexualité pendant si longtemps et sur plusieurs générations.  Le fait d’avoir envie de faire l’amour hors procréation peut être, pour certaines femmes (et hommes, également), totalement immoral et sale et parfois sans qu’elles en aient totalement conscience. L’idée que quelqu’un puisse penser : « Celle-ci ne se respecte pas ! »  « Quelle salope celle-là ! »... peut être très difficile à vivre. Avec cette peur et cette culpabilité, se laisser aller à ce plaisir « sale et malsain » est limitant pour le plaisir sexuel et la découverte de soi.
 
 Parfois pour savoir où sont nos limites, ce que nous aimons ou non, ce qui nous est bénéfique ou non, il faut tester, expérimenter en étant, bien sûr, à l’écoute de soi. Parfois, c’est un peu décevant, voir carrément nul et parfois tellement bon...
 
-Entre les difficultés des hommes et celles des femmes, il est souvent difficile de s’épanouir dans sa sexualité. D’où l’importance d’apprendre à faire l’amour par le biais de la masturbation, de la communication dans la relation sexuelle, de l’expérimentation, du jeu, du plaisir, sans attente, et d’apprendre à faire l’amour, s’informer et en parler autour de soi..
+Entre les difficultés des hommes et celles des femmes, il est souvent difficile de s’épanouir dans sa sexualité. D’où l’importance d’apprendre à faire l’amour par le biais de la masturbation, de la communication dans la relation sexuelle, de l’expérimentation, du jeu, du plaisir, sans attente, s’informer et en parler autour de soi..
 
 Dans le but de vous y aider, voici 11 conseils tout simples pour les hommes et les femmes affins d’améliorer vos relations sexuelles :
 
@@ -62,11 +62,11 @@ N’attendez pas de l’autre qu’il vous apporte ce que vous souhaitez ! Vous
 
 ## 8. Acceptez votre animalité !
 
-Oui nous sommes des bêtes, les pulsions sexuelles font partie intégrante de notre être alors exprimez cette part de vous ! Plongez dans votre volcan intérieur ! Votre désir sexuel !Votre puissance intérieure ! Bougez, respirez, haletez ! Ouvrez la bouche ! Ouvrez les yeux ! Frottez vos corps ! Regardez ! Mordez ! Gémissez ! Touchez ! Sentez ! Goûtez ! Criez ! Rugissez ! ...
+Oui nous sommes des bêtes, les pulsions sexuelles font partie intégrante de notre être alors exprimez cette part de vous ! Plongez dans votre volcan intérieur ! Votre désir sexuel ! Votre puissance intérieure ! Bougez, respirez, haletez ! Ouvrez la bouche ! Ouvrez les yeux ! Frottez vos corps ! Regardez ! Mordez ! Gémissez ! Touchez ! Sentez ! Goûtez ! Criez ! Rugissez ! ...
 
 ## 9. Accédez à ce qu’il y a de sacré dans l’acte sexuel !
 
-Oui, nous sommes des animaux et cela s’associe magnifiquement bien avec le sacré qui fait tout autant partie de nous que l’animalité ! Et pour accéder à ce « sacré » Vous pouvez d’une part utiliser les voie du Tantra ou du Tao ou juste simplement comme je vous le dis plus haut avec des offrandes (parfums, fleurs, ensens), méditation, conscience spirituelle, musique douce, rituel...
+Oui, nous sommes des animaux et cela s’associe magnifiquement bien avec le sacré qui fait tout autant partie de nous que l’animalité ! Et pour accéder à ce « sacré » Vous pouvez d’une part utiliser les voie du Tantra ou du Tao ou simplement comme je vous le dis plus haut avec des offrandes (parfums, fleurs, ensens), méditation, conscience spirituelle, musique douce, rituel...
 
 ## 10. Faites l’amour !
 
