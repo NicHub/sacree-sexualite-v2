@@ -1,23 +1,24 @@
 ---
-title: Hypnocoaching amour & sexualité
-permalink: hypnocoaching-amour-sexualite/
+title: Atelier augmentez votre plaisir sexuel
+permalink: atelier-augmentez-votre-plaisir-sexuel/
 layout: page
 published: true
 ---
 
-# Hypnocoaching<br/>amour & sexualité
+Il me tient particulièrement à cœur de transmettre des techniques et méthodes simples d’autohypnose que vous pourrez utiliser facilement par vous-même et pour votre mieux-être. J’ai donc mis sur pieds un atelier de 1 h 30 sur le thème suivant :
 
-Vous désirez :
 
-- Retrouver – augmenter – diminuer votre libido ?
-- Vous libérer de dysfonctionnements sexuels ?
-- Vous libérer de certains conditionnements ou croyances sexuelles ?
-- Améliorer votre relation de couple ?
-- Vous épanouir dans votre sexualité ?
-- Trouver la personne qui vous convient ?
-- Entrer en contact avec une personne qui vous plaît ?
-- Apprendre à utiliser votre énergie sexuelle ou énergie de vie pour atteindre vos objectifs?
-- Transformer toutes autres choses en lien avec l’amour et la sexualité ?
-- Etc.
 
-Par l’autohypnose, l’utilisation et l’apprentissage de techniques hypnotiques ainsi qu’un coaching adapté et sur mesure vous pouvez acquérir les compétences nécessaires à une bonne compréhension de vous-même et de l’autre et savourez ainsi, plus facilement, le plaisir des relations humaines, sexuelles et affectives !
+# Augmentez votre plaisir sexuel
+
+
+
+Cet atelier est composé :
+•D’une explication de ce qu’est l’état d’hypnose
+•De l’apprentissage d’une technique pour entrer en autohypnose
+•De l’apprentissage d’un protocole vous permettant de travailler de manière ciblée sur le sujet de l’atelier
+•D’un support de cours
+
+Cet atelier se déroule sur rendez-vous à l’une de mes salles de soins, en individuel et jusqu’à 4 personnes.
+
+Au plaisir de vous y rencontrer !
