@@ -19,12 +19,6 @@ published: true
 | ---                                                | ---:         |
 | Séance d’hypnocoaching                             | 120&nbsp;CHF |
 
-## Atelier " Augmentez votre plaisir sexuel"
-
-{: .table .table-condensed .table-responsive }
-| ---                                                | ---:         |
-| Atelier de 1h30                                    | 120&nbsp;CHF |
-
 
 ## Moon Mother<br/>avancé
 
