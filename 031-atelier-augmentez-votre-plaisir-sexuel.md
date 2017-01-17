@@ -5,13 +5,9 @@ layout: page
 published: true
 ---
 
-Il me tient particulièrement à cœur de transmettre des techniques et méthodes simples d’autohypnose que vous pourrez utiliser facilement par vous-même et pour votre mieux-être. J’ai donc mis sur pieds un atelier de 1 h 30 sur le thème suivant :
+# Atelier "Augmentez votre plaisir sexuel"
 
-
-
-# Augmentez votre plaisir sexuel
-
-
+Il me tient particulièrement à cœur de transmettre des techniques et méthodes simples d’autohypnose que vous pourrez utiliser facilement par vous-même et pour votre mieux-être. J’ai donc mis sur pieds cet atelier de 1 h 30.
 
 Cet atelier est composé :
 •D’une explication de ce qu’est l’état d’hypnose
