@@ -50,7 +50,7 @@ Communiquez pendant que vous faites l’amour par la parole et également en gui
 
 Parlez-en également dans votre couple en dehors des relations sexuelles, il est parfois plus simple de s’exprimer quand (on a pas la bouche pleine... :-D) nous ne sommes plus en train de faire l’amour. Expliquez à votre amant ce que vous désirez, ce que vous aimez ou pas, que ce soit avant, pendant ou après l’acte.
 
-Parlez-en également avec votre entourage, vos amis, collègues, etc., c’est un excellent moyen de passer un bon moment entre amis et en plus ce genre de discussions est toujours extrêmement riche en informations et en apprentissages... Et en éclats de rires ! Et le fait d’en parler autour de soi diminue le tabou, la censure qu’il y a autour de la sexualité...  <!-- (lien futur article sur biais cognitif censure sexualité) -->
+Parlez-en également avec votre entourage, vos amis, collègues, etc., c’est un excellent moyen de passer un bon moment entre amis et en plus ce genre de discussions est toujours extrêmement riche en informations en apprentissages... Et en éclats de rires ! Et le fait d’en parler autour de soi diminue le tabou, la censure qu’il y a autour de la sexualité...  <!-- (lien futur article sur biais cognitif censure sexualité) -->
 
 ## 6. Amusez-vous !
 
