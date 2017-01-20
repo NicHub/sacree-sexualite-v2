@@ -1,8 +1,7 @@
-# Site wide configuration
-
-url: http://localhost:4002
+url: http://192.168.1.124:8000
+host: 192.168.1.124
+port: 8000
 baseurl: ""
-port: 4002
 
 sass:
-  style: no-compressed
+  style: normal
