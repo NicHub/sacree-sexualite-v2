@@ -44,6 +44,7 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 - [Diaphragme](http://www.contraception-diaphragme.com/diaphragme-taille-unique-definition-647_r)
 - [La pilule, camisole chimique](http://www.passeportsante.net/fr/Communaute/Blogue/Fiche.aspx?doc=la-pilule-camisole-chimique-)
 - [La pilule contraceptive est en train de tuer les femmes, mais personne ne dit mot](http://www.trucsettutos.com/2016/01/la-pilule-contraceptive-est-en-train-de-tuer-les-femmes-mais-personne-ne-dit-mot.html)
+- [Le préservatif invulnérable va sauver vos nuits d'amour](https://detours.canalplus.fr/le-preservatif-invulnerable-va-sauver-vos-nuits-damour/?cpmid=CFacebookAucunpub3230cplusDNCfogracp31052016atou7%3fcpmid=CFacebookAucunpub3230cplusDNCfogracp31052016atou7)
 - [Ovules contraceptives naturelles](http://lechantdesarbres.over-blog.com/2015/12/ovules-contraceptives-naturelles.html)
 - [Symptothermie](http://sympto.org/home-main_fr.html)
 
@@ -111,6 +112,7 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 
 ## Féminin sacré et Lunes
 
+- [Accouchement, sang menstruel et chamanisme](http://www.spirit-science.fr/doc_humain/menstruations.html)
 - [Calendrier Lunaire](http://www.calendrier-lunaire.net/calendrier-phasesDeLaLune)
 - [Comment et pourquoi je ne me lave plus le vagin et la vulve](http://moruemoderne.blogspot.ru/2014/12/comment-et-pourquoi-je-ne-me-lave-plus.html)
 - [Couvrez ce sein! Les tartuffes sont de retour](http://tempsreel.nouvelobs.com/edito/20151222.OBS1809/couvrez-ce-sein-les-tartuffe-sont-de-retour.html)
@@ -130,11 +132,13 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 - [La quête du féminin, par Pierre Rabhi](http://chemindevie.net/la-quete-du-feminin/)
 - [La source des femmes](http://www.streamcomplet.eu/streaming-la-source-des-femmes.php)
 - [Les mystères de la femme](http://www.cgjung.net/publications/harding.htm)
+- [Le vagin à l'ère connectée](http://www.secondsexe.com/magazine/Le-vagin-a-l-ere-connectee.html)
 - [lorsque cette photographe a retouché la photo de cette femme pour la rendre “plus sexy” elle savait que sa vision des choses allait radicalement changer...](http://www.demotivateur.fr/article-buzz/lorsque-sa-femme-lui-a-offert-un-album-de-photos-sexy-ce-mari-a-envoye-une-reponse-memorable--3665)
 - [Moon Mother Avancée Laetitia Stucki](http://sacree-sexualite.org/moon-mother/)
 - [Nourir son Yin](http://lechantdesarbres.over-blog.com/2016/06/nourrir-son-yin.html)
 - [Oeuf de Jade - Sexualité féminine - Oeuf de Yoni](https://www.youtube.com/watch?v=NS6HUAGTPos)
 - [Préparation à l'exercice de oeuf de Jade avec Karine Nivon](https://www.youtube.com/watch?v=rU4xjiLO07c&feature=player_embedded)
+- [Rééducation périnée, des exercices faciles et fun](http://www.reeducation-perinee.org/exercices.html)
 - [Rites de Femme](https://fr.ulule.com/rites-femme/)
 - [S'armer jusqu'aux lèvres!](https://infokiosques.net/lire.php?id_article=1318)
 - [Tout savoir sur la cyprine](http://www.santemagazine.fr/actualite-tout-savoir-sur-la-cyprine-74818.html)
@@ -241,6 +245,7 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 - [Comment atteindre un plus grand orgasme (homme et femme) – José Toiran](https://www.youtube.com/watch?v=FGRdByya-Po&feature=youtu.be)
 - [Comment jouissent les femmes](http://www.lemonde.fr/societe/article/2014/12/17/comment-jouissent-les-femmes-selon-l-ifop_4542157_3224.html)
 - [Conçue pour jouir](https://www.youtube.com/watch?v=dMCpLaIvYoQ)
+- [Découverte de la Méditation Orgasmique](http://www.nouveauxplaisirs.fr/decouverte-de-la-medication-orgasmique/16193)
 - [Énergie sexuelle, orgasme et oeuf de jade – José Toiran](https://www.youtube.com/watch?v=7IxWbQcu4Ew&feature=youtu.be)
 - [La peau : un organe à orgasme](http://sexes.blogs.liberation.fr/2015/08/05/la-peau-un-organe-orgasmer/)
 - [Libérez votre énergie sexuelle avec la méditation orgasmique !](http://www.consoglobe.com/meditation-orgasmique-cg)
@@ -265,6 +270,7 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 
 ## Sexualité dans l’histoire
 
+- [Accouchement, sang menstruel et chamanisme](http://www.spirit-science.fr/doc_humain/menstruations.html)
 - [À Paris, l’Église catholique exploitait 3000 bordels et 40000 prostituée](http://matricien.org/patriarcat/sociologie/prostitution/bordel-eglise/)
 - [Des gargouilles érotiques photographiées par un Charentais](http://france3-regions.francetvinfo.fr/poitou-charentes/charente/des-gargouilles-erotiques-photographiees-par-un-charentais-967725.html)
 - [Itinéraires Bretagne : de Kamasutra breton dans nos églises ](http://france3-regions.francetvinfo.fr/bretagne/itineraires-de-bretagne-sexe-art-et-religion-828027.html)
