@@ -93,6 +93,7 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 ## Dédramatiser la sexualité
 
 - [À corps et ä cris, chuchottement, halètements](http://www.lemonde.fr/m-le-mag/article/2016/03/13/a-corps-et-a-cris-chuchotements-haletements_4881905_4500055.html#erGdiQSI2hDsy1kL.99)
+- [Apprendre à faire l'amour, 11 conseils pour vous épanouir dans votre sexualité](http://sacree-sexualite.org/articles/2017/01/02/apprendre-a-faire-l-amour-11-conseils-pour-vous-epanouir-dans-votre-sexualite.html)
 - [Cinquante nuances de Grey](http://streamcomplet.com/cinquante-nuances-de-grey/)
 - [Club clitoris: l'instagram qui te décoince de la vulve](http://www.desculottees.com/2016/04/club-clitoris-instagram-de-la-vulve/)
 - [Désir féminin, une histoire excitante](http://www.hebdo.ch/hebdo/cadrages/detail/d%C3%A9sir-f%C3%A9minin-une-histoire-excitante)
@@ -191,6 +192,7 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 
 ## Formation sexualité
 
+- [Apprendre à faire l'amour, 11 conseils pour vous épanouir dans votre sexualité](http://sacree-sexualite.org/articles/2017/01/02/apprendre-a-faire-l-amour-11-conseils-pour-vous-epanouir-dans-votre-sexualite.html)
 - [Café sexo](http://www.sexologieclinique.ch/page23.php)
 - [Formation en Psycho-Sexologie Positive (FPSP)](http://www.vaudfamille.ch/N276432/formation-en-psycho-sexologie-positive-fpsp.html)
 - [Institut suisse de Sexologie Clinique « Cafés Sexos »](http://www.sexologieclinique.ch/page23.php)
@@ -297,6 +299,8 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 
 ## Premiers pas dans la sexualité
 
+- [Apprendre à faire l'amour, 11 conseils pour vous épanouir dans votre sexualité](http://sacree-sexualite.org/articles/2017/01/02/apprendre-a-faire-l-amour-11-conseils-pour-vous-epanouir-dans-votre-sexualite.html)
+- [A quoi rêvent les jeunes filles ? - INFRAROUGE Déconseillé aux - de 16 ans](https://www.youtube.com/watch?v=kZQ8GUDscOw)
 - [Éducation sensuelle, pour les jeunes... et les moins jeunes :-)](http://www.educationsensuelle.com/#.VudPow1Ke7g.facebook)
 - [Education sexuelle à la télévision nationale de la Norvège](http://canal311.com/fr/education-sexuelle-television-nationale-norvege-1111/)
 - [Le consentement sexuel expliqué par une tasse de thé](http://www.madmoizelle.com/consentement-sexuel-tasse-the-365301)
@@ -315,6 +319,7 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 - [L’église et les audaces érotiques en terre bretonne](http://m.culturebox.francetvinfo.fr/tendances/leglise-et-les-audaces-erotiques-en-terre-bretonne-229155#xtref=http://m.facebook.com)
 - [Le manuscrit de Marie-Madeleine : Magie Sexuelle d’Isis](http://devantsoi.forumgratuit.org/t756-manuscrit-de-marie-madeleine-magie-sexuelle-d-isis)
 - [Le pénitentiel de Worms, pour une approche décomplexée de la sexualité au Moyen-Âge](https://savoirsdhistoire.wordpress.com/2015/06/27/le-penitentiel-de-worms-pour-une-approche-decomplexee-de-la-sexualite-au-moyen-age/)
+- [Le privilège de la sexualité, coutumes et habitudes sexuelles à travers le monde](http://sacree-sexualite.org/articles/2016/07/11/le-privilege-de-la-sexualite.html)
 - [Le sexe dans la Grèce antique](https://www.youtube.com/watch?v=kzvTnd02cZI)
 - [Le sexe dans l’Egypte Ancienne.(1.3)](https://www.youtube.com/watch?v=-UN5IoBpVsY)
 - [Le sexe dans l’Egypte Ancienne.(2.3)](https://www.youtube.com/watch?v=LvCl1j2uZ0k)
@@ -340,6 +345,7 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 ## Sexualité sacrée
 
 - [55\. La conscience sexuelle](http://www.colling.lu/chapitres_fr/55.pdf)
+- [Apprendre à faire l'amour, 11 conseils pour vous épanouir dans votre sexualité](http://sacree-sexualite.org/articles/2017/01/02/apprendre-a-faire-l-amour-11-conseils-pour-vous-epanouir-dans-votre-sexualite.html)
 - [Découvrez les 7 règles d'une sexualité de rêve](http://www.planifiezvosreves.com/decouvrez-les-7-regles-dune-sexualite-de-reve/)
 - [Des applications pour la santé sexuelle](http://journalmetro.com/opinions/sexe-dans-la-ville/936026/des-applications-pour-la-sante-sexuelle/)
 - [En amour, nos peaux sont plus intelligentes que nos mots...](http://lespaceducouple.com/2015/07/08/en-amour-nos-peaux-sont-plus-intelligentes-que-nos-mots-2/)
