@@ -53,15 +53,19 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 
 ## Couple
 
+- [4 bonnes raisons de péter devant son/sa partenaire](http://www.feroce.co/4-raisons-de-peter-en-couple/)
 - [Apprendre à être heureux en amour](http://je-cree-mon-equilibre.com/apprendre-a-etre-heureux-en-amour/#more-1078)
 - [C’est tendance ! - La nouvelle façon de s’aimer sous la couette](http://www.rts.ch/la-1ere/programmes/le-journal-du-samedi/6484958-le-journal-du-samedi-du-07-02-2015.html#6484943)
 - [Couple : et si vous testiez le slow sex, l’amour en pleine conscience ?](http://www.lexpress.fr/styles/psycho/slow-sex-faire-l-amour-en-pleine-conscience_1547045.html)
 - [Éducation sensuelle, pour les jeunes... et les moins jeunes :-)](http://www.educationsensuelle.com/#.VudPow1Ke7g.facebook)
 - [Elle propose à son mari un an pour coucher avec qui ils veulent. Résultats ?](http://www.pausecafein.fr/sexe/offre-mariage-sexe-aventures.html)
 - [Infidélité: comment gérer la double ration de sentiments?](http://www.lemonde.fr/m-perso/article/2016/06/26/infidelite-comment-gerer-la-double-ration-de-sentiments_4958319_4497916.html)
+- [Je t'aime pour que tu sois libre.](https://mathillages.net/2016/08/10/aimer-pour-liberer/)
 - ["Je veux être célibataire à deux avec toi...": cette vision du couple va vous émouvoir](http://www.demotivateur.fr/article/une-blogueuse-publie-sa-vision-du-couple-dans-un-texte-vraiment-touchant-et-bourre-de-verite--4870)
+- [La relation  la plus intime entre deux  personnes, ce n'est pas a relation sexuelle, mais la mise à nu émotionnelle](https://nospensees.fr/la-relation-la-plus-intime-entre-deux-personnes-ce-nest-pas-la-relation-sexuelle-mais-la-mise-a-nu-emotionnelle/)
 - [La sexualité de l’homme:entre la Madone et la Putain!](http://www.psy-luxeuil.fr/2016/01/la-sexualite-de-l-homme-entre-la-madone-et-la-putain.html)
 - [Les fesses de la crémière](https://lesfessesdelacremiere.wordpress.com/)
+- [L'infidélité](http://www.psycho-ressources.com/bibli/infidelite.html)
 - [L'intimité, être vulnérable pour une vie de couple authentique](http://union-tantrique.fr/intime-vulnerable/)
 - [Le couple dans la voie Chamanique - Tantrique](http://www.conscience-et-eveil-spirituel.com/article-sur-le-nouveau-couple.html)
 - [Le nouveau couple](http://chrysalyda.com/2015/05/15/le-nouveau-couple/)
@@ -69,6 +73,7 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 - [Lorsque vous tombez amoureux, n’essayez pas de l’expliquer, et laissez vous envahir](http://nospensees.fr/lorsque-tombez-amoureux-nessayez-de-lexpliquer-laissez-lamour-envahir/?utm_medium=post&utm_source=website&utm_campaign=popular)
 - [Ne confondez pas relation, couple et amour](http://chemindevie.net/relation-couple-amour/?utm_campaign=shareaholic&utm_medium=facebook&utm_source=socialnetwork)
 - [Ne pas avoir de but, application à la relation amoureuse](http://union-tantrique.fr/ne-de-but-application-a-relation-amoureuse/)
+- [Plus un couple fait l'amour, plus il est solide](http://www.linfo.re/magazine/couple/696469-plus-un-couple-fait-l-amour-plus-il-est-solide)
 - [Quel genre d’infidèle êtes-vous?](http://sexes.blogs.liberation.fr/2012/11/20/quel-est-votre-genre-dinfidelite-/)
 - [Tous les couples sont voués à l’échec](http://blogdudevperso.com/tous-les-couples-sont-voues-a-lechec/)
 - [Une rupture amoureuse fait souffrir, mais notre cerveau est fait pour que nous passions à autre chose](http://www.huffingtonpost.fr/2015/03/30/rupture-amoureuse-cerveau-passer-autre-chose_n_6967252.html?ir=France&ncid=fcbklnkfrhpmg00000001)
@@ -78,6 +83,7 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 
 ## Cunilingus et massage
 - [Faire un cunnilingus parfait, techniques et astuces dans cet article!](http://www.artdusexe.com/comment-guide-cunnilingus-parfait/)
+- [Le plaisir féminin, à bouche que veux-tu](http://www.lemonde.fr/societe/article/2016/05/15/le-plaisir-feminin-a-bouche-que-veux-tu_4919910_3224.html)
 - [Massage du yoni dans le cadre du couple](http://www.massagetantrique.pro/massageYoni.html)
 - [Témoignage d’un homme qui ne veut pas faire de cunnilingus](http://www.slate.fr/story/109435/cunnilingus-pratique-sexuelle)
 
@@ -90,7 +96,9 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 - [Cinquante nuances de Grey](http://streamcomplet.com/cinquante-nuances-de-grey/)
 - [Club clitoris: l'instagram qui te décoince de la vulve](http://www.desculottees.com/2016/04/club-clitoris-instagram-de-la-vulve/)
 - [Désir féminin, une histoire excitante](http://www.hebdo.ch/hebdo/cadrages/detail/d%C3%A9sir-f%C3%A9minin-une-histoire-excitante)
+- [En suède, un homme politique propose d'instaurer des pauses sexe au travail](http://www.konbini.com/fr/tendances-2/suede-pauses-sex-travail-sante/)
 - [Erotic-attitude](http://erotic-attitude.com/)
+- [La régle du "Fuck Yes!"](https://lesfessesdelacremiere.wordpress.com/2015/02/10/la-regle-du-fuck-yes/)
 - [Les 400 culs](http://sexes.blogs.liberation.fr/)
 	- [Faut-il en finir avec les tabous?](http://sexes.blogs.liberation.fr/2015/08/30/faut-il-en-finir-avec-les-tabous/)
 	- [Toutes les femmes sont des catins...](http://sexes.blogs.liberation.fr/2015/09/28/toutes-les-femmes-sont-des-putes/)
@@ -106,6 +114,8 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 - [Sexe: oser un peu de sauvagerie](http://www.psychologies.com/Couple/Sexualite/Pratiques-sexuelles/Articles-et-Dossiers/Sexe-oser-un-peu-de-sauvagerie#xtor=CS2-6-[02-06-2016]-[20:30]-[Sexe-bestial)
 - [THE NU PROJECT: femmes du monde au naturel.](http://www.allaroundthegirl.com/2015/02/04/the-nu-project-femmes-nues-projet-photo-matt-blum/)
 - [Une immense frustration sexuelle à la base des violences de cologne](http://www.levif.be/actualite/international/une-immense-frustration-sexuelle-a-la-base-des-violences-de-cologne/article-opinion-448753.html)
+- [Vos fantasmes sexuels ont des choses à vous dire.](http://www.magamour.com/fantasmes-sexuels/)
+- [Vous êtes sapiosexuel... Et vous ne le savez peut-être pas. Et oui, ça concerne bien le sexe.](http://www.demotivateur.fr/article/sapiosexualite-attirance-sexuelle-amour-culture-intelligence-7233)
 
 
 
@@ -120,18 +130,25 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 - [Désir féminin une histoire excitante](http://www.hebdo.ch/hebdo/cadrages/detail/d%C3%A9sir-f%C3%A9minin-une-histoire-excitante)
 - [Documentaire – Les Branleuses par Frédérique Barravia](http://monq.biz/article-4993-Documentaire+Les+branleuses+par+Frederique+Barraja.monQ)
 - [Elle est trop sauvage](https://femmeswomen.wordpress.com/2014/04/07/elle-est-trop-sauvage-she-is-too-wild/)
+- [En BD, l'oriiginale histoire du sexe des femmes](http://information.tv5monde.com/terriennes/l-histoire-de-la-representation-du-sexe-des-femmes-en-bd-145668)
 - [Enquête: et si on faisait la paix avec notre vagin?](http://www.femina.ch/societe/sexo/enquete-faire-paix-vagin-esthetique-dysmorphophobie)
 - [Épilation intégrale, chirurgie de la vulve : des fléaux. Mes patientes mutilent leur corps](http://leplus.nouvelobs.com/contribution/1390404-epilation-integrale-chirurgie-de-la-vulve-des-fleaux-les-femmes-mutilent-leur-corps.html)
 - [Esprit de femme – Miranda Gray](http://www.espritdefemme.ch/index.php/miranda-gray)
 - [Excitée ? Moi, jamais !](http://sexes.blogs.liberation.fr/2015/01/21/excitee-moi-jamais-/)
 - [La culotte peut-elle être chaude et la tête froide ?](http://sexes.blogs.liberation.fr/2015/01/26/la-culotte-peut-elle-etre-chaude-et-la-tete-froide-/)
 - [Féminaissance: une association, un festival, un salon.](http://feminaissance.com/lesprit-du-salon/)
+- [L'accouchement naturel, Enfantement plaisir 1/2](https://www.youtube.com/watch?v=h5XR9mmumuI)
+- [La face cachée du sexe féminin](http://www.lemonde.fr/m-perso/article/2016/12/11/la-face-cachee-du-sexe-feminin_5047052_4497916.html#Oh3eeECX5PMk3QSj.99)
 - [La femme, initiatrice spirituelle de l'homme](http://www.elishean.fr/la-femme-initiatrice-spirituelle-de-lhomme/)
 - [La femme lunaire. Les forces du cycle féminin](https://cercledeesse.files.wordpress.com/2007/06/la-femme-lunaire-miranda-gray.pdf)
 - [La prophétie de la femme médecine – Hernan Huarache Mamani](https://www.youtube.com/watch?v=ZIQ1cd9ICps)
 - [La quête du féminin, par Pierre Rabhi](http://chemindevie.net/la-quete-du-feminin/)
+- [L'art de la pénétration](http://www.maevapoornima.com/lart-detre-penetree-de-penetrer/)
 - [La source des femmes](http://www.streamcomplet.eu/streaming-la-source-des-femmes.php)
+- [L'éjaculation féminine ou le nectare sacré](http://cabinetsdecuriosites.fr/au-fond-des-choses/chroniques-amour-et-sexualite/l-ejaculation-feminine-ou-le-nectar-sacre/)
+- [Le plaisir féminin, c'est comme le reste, ça s'apprend](http://m.slate.fr/story/132401/sexe-apprentissage)
 - [Les mystères de la femme](http://www.cgjung.net/publications/harding.htm)
+- [Les femmes de plus de 40 ans sont les plus désirables](https://sympa-sympa.com/inspiration-filles/les-femmes-de-plus-de-40-ans-sont-incomparables-9955/)
 - [Le vagin à l'ère connectée](http://www.secondsexe.com/magazine/Le-vagin-a-l-ere-connectee.html)
 - [lorsque cette photographe a retouché la photo de cette femme pour la rendre “plus sexy” elle savait que sa vision des choses allait radicalement changer...](http://www.demotivateur.fr/article-buzz/lorsque-sa-femme-lui-a-offert-un-album-de-photos-sexy-ce-mari-a-envoye-une-reponse-memorable--3665)
 - [Moon Mother Avancée Laetitia Stucki](http://sacree-sexualite.org/moon-mother/)
@@ -144,6 +161,7 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 - [Tout savoir sur la cyprine](http://www.santemagazine.fr/actualite-tout-savoir-sur-la-cyprine-74818.html)
 - Lunes :
 	- [Asynchronie des cycles menstruel et lunaire:Qu'est-ce que la terre-Mère attend de nous?](http://templeyonimatre.weebly.com/mystegraveres-du-sang-feacuteminin/asynchronie-des-cycles-menstruel-et-lunaire-quest-ce-que-la-terre-mre-attend-de-nous)
+	- [Beautiful Cervix Project](http://beautifulcervix.com/age-30-entire-cycle/)
 	- [Le pouvoir alchimique du sang menstruel et de l’union sexuelle](http://www.spirit-science.fr/doc_humain/sexualitealchimique.html)
 	- [Les règles sans aucune protection : le flux instinctif libre !](https://www.youtube.com/watch?v=EEk9ViK2-2A)
 	- [Offrir le sang de mes Lunes à la Terre](http://decoeurasoi.fr/offrir-le-sang-de-mes-lunes-a-la-terre/)
@@ -153,7 +171,11 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 - [Moon Mother – Womb blessing](http://www.wombblessing.com/french-workshops.html)
 - [Mesdames, il est temps de brûler vos soutiens-gorges!... La science vous dira la raison!!!](http://diply.com/catalogue-de-coiffure/article/il-est-temps-de-br-ler-vos-soutiens-gorges)
 - [Pourquoi tant de femmes vivent-elles encore dans une « misère » sexuelle ?](http://www.levif.be/actualite/sante/pourquoi-tant-de-femmes-vivent-elles-encore-dans-une-misere-sexuelle/article-normal-427877.html?utm_source=facebook&utm_medium=social&utm_campaign=vif)
+- [Qui a (encore) peur des vulves?](http://information.tv5monde.com/terriennes/qui-encore-peur-des-vulves-126500)
 - [Rituels et plantes “Nettoyage des organes génitaux”](http://lechantdesarbres.over-blog.com/2015/11/ritels-plantes-nettoyage-des-organes-genitaux.html)
+- [Sexualité: "La femme de 50-60 ans aurait besoin d'un homme de 30 ans](http://m.levif.be/actualite/sante/sexualite-la-femme-de-50-60-aurait-besoin-d-un-homme-de-30-ans/article-normal-354467.html)
+- [Sommes-nous toutes des femmes fontaines?](http://www.psychologies.com/Couple/Sexualite/Plaisir/Articles-et-Dossiers/Sommes-nous-toutes-des-femmes-fontaines/4Rechercher-le-plaisir)
+- [Ta vilve est normale!](http://www.madmoizelle.com/vulve-normale-74740)
 
 
 
@@ -218,10 +240,14 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 	- [Émission de télé sur la continence amoureuse janvier 2012](https://www.youtube.com/watch?v=O9GQaXwGXXU&app=desktop)
 	- [La continence amoureuse, vivre l’amour dans la sublimation de l’orgasme](https://www.youtube.com/watch?v=UurHQMGTzwA)
 	- [Continence sexuelle](https://www.youtube.com/watch?v=7LCzrQDWzGg&app=desktop)
+- [Doigt dans les fesses:les hommes doivent-ils faire tomber le tabou?](http://www.terrafemina.com/article/doigt-dans-les-fesses-les-hommes-doivent-ils-faire-tomber-le-tabou_a279238/1)
 - [Hommes : devenez un amant inlassable](http://www.psychologies.com/Couple/Sexualite/Plaisir/Articles-et-Dossiers/Les-secrets-des-couples-amants/Hommes-devenez-un-amant-inlassable)
+- [Je suis un Homme Sauvage, un Homme Sacré](https://www.guillaumekremmel.com/single-post/2016/09/19/Je-suis-un-Homme-Sauvage-un-Homme-Sacr%C3%A9)
+- [L'art de la pénétration](http://www.maevapoornima.com/lart-detre-penetree-de-penetrer/)
 - [Les 8 erreurs que les hommes commettent au moment de faire l’amour](http://amelioretasante.com/les-8-erreurs-que-les-hommes-comettent-au-moment-de-faire-lamour/)
 - [Masculin sacré, sexualité de l’homme et paroles d’hommes – Patrick Ferrer](https://www.youtube.com/watch?v=XRNKHYiJonc&feature=youtu.be)
 - [Si tu veux changer le monde, aime un homme](https://www.youtube.com/watch?v=xYoHpwiqTvU)
+- [Sexualité de l'homme](http://www.doctissimo.fr/html/sexualite/hommes/index_se_hommes.htm)
 - [Témoignage d’un homme qui ne veut pas faire de cunnilingus](http://www.slate.fr/story/109435/cunnilingus-pratique-sexuelle)
 - [Vers une sexualité saine et rayonnante, l’homme divin](http://evolutionsexuelle.simplesite.com/420404672?b=CCA7D6DA42E4B587D132C2935DCC24BF1588B4F)
 
@@ -232,9 +258,13 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 
 - [Documentaire – Les Branleuses par Frédérique Barravia](http://monq.biz/article-4993-Documentaire+Les+branleuses+par+Frederique+Barraja.monQ)
 - [La masturbation, des bienfaits pour la santé](http://www.medisite.fr/pratiques-sexuelles-la-masturbation-des-bienfaits-pour-sante.1511.80.html)
+- [La masturbation Masculine ou l'Art de Prendre en Main son Plaisir](https://www.lelo.com/fr/blog/masturbation-masculine-lart-prendre-en-main-plaisir/)
 - [Masturbation et santé](http://www.sexoconseil.com/pratiques-sexuelles/masturbation/sante)
 - [Masturbation féminine : 13 bonnes raisons de s’y adonner fréquemment](http://www.huffingtonpost.fr/2015/01/19/masturbation-feminine-bonnes-raisons-adonner-frequemment_n_6499222.html?ir=France&ncid=fcbklnkfrhpmg00000001)
+- [Masturbation féminine: 5 techniques qui donnent vraiment du plaisir](http://www.femmeactuelle.fr/amour/sexo/masturbation-femme-techniques-27287)
 - [Se masturber c’est bon pour la santé des femmes](http://www.neobienetre.fr/se-masturber-cest-bon-pour-la-sante-des-femmes/)
+- [Tabou de la masturbation: sept trucs que vous ne savez peut-être pas](http://tempsreel.nouvelobs.com/rue89/rue89-rue69/20130902.RUE8503/tabou-de-la-masturbation-sept-trucs-que-vous-ne-savez-peut-etre-pas.html)
+- [Top 12 des trucs à savoir sur la masturbation masculine, histoire de faire les choses bien](http://www.topito.com/top-trucs-savoir-masturbation-masculine-top-utile)
 
 
 
@@ -243,15 +273,20 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 
 - [ARTE Désir et plaisir les secrets de la libido](https://www.youtube.com/watch?v=S4pHAlnXAhU)
 - [Comment atteindre un plus grand orgasme (homme et femme) – José Toiran](https://www.youtube.com/watch?v=FGRdByya-Po&feature=youtu.be)
+- [Comment améliorer l'orgasme masculin?](http://www.commentbander.com/comment-ameliorer-lorgasme-masculin/)
 - [Comment jouissent les femmes](http://www.lemonde.fr/societe/article/2014/12/17/comment-jouissent-les-femmes-selon-l-ifop_4542157_3224.html)
 - [Conçue pour jouir](https://www.youtube.com/watch?v=dMCpLaIvYoQ)
 - [Découverte de la Méditation Orgasmique](http://www.nouveauxplaisirs.fr/decouverte-de-la-medication-orgasmique/16193)
 - [Énergie sexuelle, orgasme et oeuf de jade – José Toiran](https://www.youtube.com/watch?v=7IxWbQcu4Ew&feature=youtu.be)
+- [Hey dis-moi, comment tu jouis?](http://cheekmagazine.fr/societe/sexualite-vision-jouissance-femmes/)
 - [La peau : un organe à orgasme](http://sexes.blogs.liberation.fr/2015/08/05/la-peau-un-organe-orgasmer/)
+- [L'éjaculation féminine ou le nectare sacré](http://cabinetsdecuriosites.fr/au-fond-des-choses/chroniques-amour-et-sexualite/l-ejaculation-feminine-ou-le-nectar-sacre/)
+- [Les mystères de l'orgasme masculin](http://www.psychologies.com/Couple/Sexualite/Orgasme/Articles-et-dossiers/Les-mysteres-de-l-orgasme-masculin)
 - [Libérez votre énergie sexuelle avec la méditation orgasmique !](http://www.consoglobe.com/meditation-orgasmique-cg)
 - [L'orgasme féminin expliqué aux mecs](http://erotic-attitude.com/lorgasme-feminin-explique-aux-mecs/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost)
 - [Nommer l’orgasme : l’enquête qui va faire du bruit](http://www.santemagazine.fr/le-blog-sexo-de-marine-nugeron-et-daisy-le-corre/nommer-l-orgasme-l-enquete-qui-va-faire-du-bruit-60952.html)
 - [Odile Buisson : Le point G et l’orgasme féminin](http://www.dailymotion.com/video/x1ytz7h_odile-buisson-le-point-g-et-l-orgasme-feminin_school)
+- [Orgasme: tout ce qu'il faut savoir](http://www.femmeactuelle.fr/amour/sexo/orgasme-tout-ce-qu-il-faut-savoir-00187)
 - [Orgasmie du cœur](http://www.orgasmieducoeur.org/)
 - [Similitudes des organes, similitudes des orgasmes](http://secondsexe.com/magazine/Similitudes-des-organes.html)
 - [Tout savoir sur l’orgasme nocturne chez les femmes](http://www.santemagazine.fr/actualite-tout-savoir-sur-l-orgasme-nocturne-chez-les-femmes-73343.html)
@@ -263,6 +298,7 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 ## Premiers pas dans la sexualité
 
 - [Éducation sensuelle, pour les jeunes... et les moins jeunes :-)](http://www.educationsensuelle.com/#.VudPow1Ke7g.facebook)
+- [Education sexuelle à la télévision nationale de la Norvège](http://canal311.com/fr/education-sexuelle-television-nationale-norvege-1111/)
 - [Le consentement sexuel expliqué par une tasse de thé](http://www.madmoizelle.com/consentement-sexuel-tasse-the-365301)
 
 
@@ -292,9 +328,11 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 	- [Moso](https://www.youtube.com/watch?v=aIDGpZ3PVWM)
 	- [Malinowski et la liberté sexuelle des Triobriandais](http://lhomme.revues.org/216?file=1)
 	- [Essais inédits d’Agnès, chercheuse en anthropologie<br/>culturelle sur l’ère matristique](http://matricien.org/essais/echene/)
+- [Quand la vulve était mythique](http://tempsreel.nouvelobs.com/societe/20160811.OBS6188/quand-la-vulve-etait-mythique.html)
 - [Quand les femmes avaient nettement plus besoin de sexe que les hommes](https://lesfessesdelacremiere.wordpress.com/2013/04/07/quand-les-femmes-partie-1/)
 - [Qui est Lilith ?](http://www.letresordelilith.com/qui-est-lilith/)
 - [Sur le sexe en Bretagne on vous dit tout, ou presque !](http://france3-regions.francetvinfo.fr/bretagne/itineraires-bretagne-sexe-et-legendes-827835.html)
+- [Temporium: La prostitution au Moyen-Âge](https://www.youtube.com/watch?v=p0nMYT1AmbE)
 
 
 
@@ -335,17 +373,22 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 
 ## Tantra et Tao
 
+- [10 bonnes raisons de vous mettre au massage tantrique](http://www.aufeminin.com/bienetre/massage-tantrique-s640759.html)
 - [Conseils pourle sexe tatrique](http://kundalinisexualitesacree.e-monsite.com/blog/le-sexe-tantrique.html)
 - [Découvrez le tantra de la tradition shakta : le Para tan](http://cathymaillard.unblog.fr/2015/01/08/decouvrez-le-tantra-de-tradition-shakta-le-para-tan/)
 - [La Bhagavad Gita](http://www.gita.be/french.htm)
 - [La guérison sexuelle par le Tantra](http://chrysalyda.com/2015/09/24/la-guerison-sexuelle-par-le-tantra/)
 - [La sexualité et le tantra](http://presenceasoi.be/la-sexualite-et-le-tantra/)
+- [Le Désir dans la relation Tantrique](https://www.guillaumekremmel.com/single-post/2016/09/23/Le-D%C3%A9sir-dans-la-Relation-Tantrique)
 - [Le Kung Fu sexuel de la femme](http://www.daojia.fr/philosophie/le-kung-fu-sexuel-de-la-femme)
 - [Le Kung Fu sexuel de l'Homme](http://www.daojia.fr/philosophie/le-kung-fu-sexuel-de-lhomme)
+- [Le massage Tantrique](http://sexologie-magazine.com/560-2/)
 - [Le tantra est l’inverse de la pornographie,<br/>comment apprendre à avoir une intimité épanouie](http://www.espritsciencemetaphysiques.com/le-tantra-est-linverse-de-la-pornographie-comment-apprendre-a-avoir-une-intimite-epanouie.html)
 - [Le tantra et le Rebirth par Danielle](https://www.youtube.com/watch?v=6ObgbBpHmhg)
 - [Le Tantra: une voie de transformation intégrale de l’être humain](http://www.letoucherducoeur.fr/2015/12/le-tantra-une-voie-de-transformation-integrale-de-l-etre-humain.html?utm_source=_ob_share&utm_medium=_ob_facebookpage&utm_campaign=_ob_share_auto)
 - [Maithune, l’art du sexe sacré](http://www.le-sidh.org/site/article_319.html)
+- [Massage Tantrique](http://kundalinisexualitesacree.e-monsite.com/blog/massage-tantrique.html)
+- [Quand le massage tantrique dérape](http://presenceasoi.be/quand-le-massage-tantrique-derape/)
 - [Que faire avec son désir?](http://presenceasoi.be/que-faire-avec-son-desir/)
 - [Qu’est-ce que le Tantra ?](http://www.meditationfrance.com/tantra/quoi.htm)
 - [Qu’est-ce que le Tao ? Comment se guérir grâce à votre énergie sexuelle ?<br/>– Aisha Sieburth](https://www.youtube.com/watch?v=7DvPeK8GU5w&feature=youtu.be)
@@ -354,7 +397,8 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 - Vadaya Tantra
 	- [Naître à l’Humain](http://www.vadayatantra.net/index.html)
 	- [Les aspects du rituel Tantrique](http://www.vadayatantra.net/rituel.html)
-- [Tantra et chamanisme. Marie-Jesus Sandoval – Amrita](http://www.esprittantra.org/)
+- [Tantra et chamanisme. Marie-Jesus Sandoval-Amrita](http://www.esprittantra.org/)
+- [Tantrisme:une pratique spirituelle plus que sexuelle](http://www.topsante.com/forme-et-bien-etre/mieux-vivre/mieux-se-connaitre/tantrisme-une-pratique-spirituelle-plus-que-sexuelle-610095)
 - [Temple Yoni Matre](http://templeyonimatre.weebly.com/)
 	- [La vulve sacrée autour du monde](http://templeyonimatre.weebly.com/culte-du-yoni/la-vulve-sacre-autour-du-monde)
 	- [Le pouvoir sacré du sang menstruel](http://templeyonimatre.weebly.com/mystegraveres-du-sang-feacuteminin/le-pouvoir-sacr-du-sang-menstruel)
