@@ -4,7 +4,9 @@ permalink: massage-tantrique-femme/
 layout: page
 published: false
 ---
+Le descriptif de cette page sera disponnible sous peu :-)
 
+<!--
 # Massage Tantrique pour les Femmes
 
 Ce massage est pour votre corps entier une redecouverte, de soi, de votre coeur et votre esprit. 
@@ -24,5 +26,5 @@ C’est une invitation à une expérience de reconnection à vous-même, à votr
 
 Par mes compétences et ma présence, je t'offre un espace dans une ambiance protégée, de respect, d’amour et de confiance. La possibilité de te laisser aller, de lâcher prise de toute peur, tabou ou pensée de séparativité, et ainsi réunir en toi l’énergie de Shiva et Shakti.
 
-
+-->
 
