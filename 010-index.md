@@ -6,7 +6,7 @@ published: true
 ---
 
 
-# Des nouveautés pour vous !
+# Des nouveautés pour vous !!
 
 {% include ateliers.liquid %}
 
