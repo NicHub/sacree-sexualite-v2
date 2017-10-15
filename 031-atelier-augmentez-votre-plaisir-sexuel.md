@@ -6,7 +6,7 @@ published: true
 ---
 # Les nouveautés 2018 pour&nbsp;vous !
 
-## Chaque mois 1 atelier collectif en soirée à la Vallée de Joux et à Lausanne!
+## 3 ateliers collectifs en soirée à la Vallée de Joux et à Lausanne!
 
 - **Avril à juin 3 ateliers "Épanouissement sexuel pour les femmes"**
 
