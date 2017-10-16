@@ -35,6 +35,12 @@ published: true
 | ---                                                | ---:         |
 | Séance de lithothérapie et soins énergétiques <br/><small class="brun"><em>Il est également possible de coupler l’hypnose à un soin énergétique, auquel cas le tarif reste à 120 CHF la séance.</em></small> | 120&nbsp;CHF |
 
+## Massage Tantrique
+
+{: .table .table-condensed .table-responsive }
+| ---                                                | ---:         |
+| Massage Tantrique de 2h                            | 280&nbsp;CHF |
+
 ## Les ateliers
 
 {: .table .table-condensed .table-responsive }
