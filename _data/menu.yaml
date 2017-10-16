@@ -23,10 +23,11 @@
 
     - titre: Moon Mother
       permalink: moon-mother/
-	
-    - titre: Massage Tantrique Femme
-	  permalink: massage-tantrique-femme/
+     
+    - separator: Massage Tantrique Femme
 
+    - titre: Massage Tantrique Femme
+      permalink: massage-tantrique-femme/
 
 - titre: Découverte
   menu:
