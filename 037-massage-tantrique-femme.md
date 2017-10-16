@@ -4,8 +4,6 @@ permalink: massage-tantrique/
 layout: page
 published: true
 ---
-Le descriptif de cette page sera disponnible sous peu :-)
-
 
 # Massage Tantrique 
 
