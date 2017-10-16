@@ -1,30 +1,35 @@
 ---
-title: Massage Tantrique Femme
-permalink: massage-tantrique-femme/
+title: Massage Tantrique
+permalink: massage-tantrique/
 layout: page
 published: true
 ---
 Le descriptif de cette page sera disponnible sous peu :-)
 
-<!--
-# Massage Tantrique pour les Femmes
 
-Ce massage est pour votre corps entier une redecouverte, de soi, de votre coeur et votre esprit. 
+# Massage Tantrique 
 
-Le massage Tantrique se pratique pour le corps dans son entier, vous êtes entières, il est donc essentiel
+Le Massage Tantrique est un massage qui comprend le corps dans son entier. Il s'agit d'une redécouverte de soi, de votre corps, de votre coeur et votre esprit. 
 
-Par ma présence à vous et mon expérience, je vous propose un cadre serein et propice au lâcher-prise
+Par ma présence à vous et mon expérience, je vous propose un espace respectueux, serein et propice au lâcher-prise et à la détente. Ainsi ce massage Sacré, ce Rituel, devient une méditation, pouvant parfois libérer les mémoires enfouies. 
+
+Ce massage est une reconnexion à votre être profond, un don d'amour pour vous-même, une reconnexion à votre puissance de vie originelle!
+
+## Pour les Femmes
+Ce massage est ouvert à toute femme désirant se reconnecter avec l'aspect sacré de son corps, son coeur et son esprit.
+
+
+## Pour les Hommes
+Ce massage est ouvert à tout homme désirant se reconnecter avec l'aspect sacré de son corps, son coeur et son esprit. Cependant je ne prends en compte que les demandes des hommes que je connais ou qui ont déjà suivi une thérapie avec moi et dont je suis certaine des intentions. En cas de refus de ma part, je vous orienterais vers d'autres masseurs Tantriques.
 
  
-
-
-avertissement 
+### Avertissement 
 
 Ce massage n’a aucune visée sexuelle !
 
-C’est une invitation à une expérience de reconnection à vous-même, à votre corps et ses mémoires. 
+Je propose ce massage uniquement dans mon espace de soin à la Vallée de Joux.
 
-Par mes compétences et ma présence, je t'offre un espace dans une ambiance protégée, de respect, d’amour et de confiance. La possibilité de te laisser aller, de lâcher prise de toute peur, tabou ou pensée de séparativité, et ainsi réunir en toi l’énergie de Shiva et Shakti.
 
+<!--
 -->
 
