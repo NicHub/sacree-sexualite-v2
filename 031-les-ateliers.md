@@ -1,6 +1,6 @@
 ---
-title: Atelier augmentez votre plaisir sexuel
-permalink: atelier-augmentez-votre-plaisir-sexuel/
+title: Les ateliers
+permalink: les-ateliers/
 layout: page
 published: true
 ---
