@@ -25,7 +25,7 @@ Ce massage est ouvert à tout homme désirant se reconnecter avec l’aspect sac
 
 Ce massage n’a aucune visée sexuelle !
 
-Je propose ce massage uniquement dans mon espace de soin à la Vallée de Joux.
+Je propose ce massage uniquement dans mon espace de soins à la Vallée de Joux.
 
 
 <!--
