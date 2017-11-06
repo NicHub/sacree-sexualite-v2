@@ -1,6 +1,6 @@
 ---
 title: Les ateliers
-permalink: les-ateliers/
+permalink: les-ateliers-collectifs
 layout: page
 published: true
 ---

@@ -1,11 +1,11 @@
 ---
-title: Hypnocoaching amour & sexualité
-permalink: hypnocoaching-amour-sexualite/
+title: Hypnocoaching couple & sexualité
+permalink: hypnocoaching-couple-sexualite/
 layout: page
 published: true
 ---
 
-# Hypnocoaching<br/>amour & sexualité
+# Hypnocoaching<br/>couple & sexualité
 
 Vous désirez :
 

@@ -9,25 +9,34 @@
 
     - titre: Hypnosexologie
       permalink: hypnosexologie/
-    - titre: Hypnocoaching amour &amp; sexualité
-      permalink: hypnocoaching-amour-sexualite/
-    - titre: Les ateliers
-      permalink: les-ateliers/
+    - titre: Hypnocoaching couple &amp; sexualité
+      permalink: hypnocoaching-couple-sexualite/
+      
+    - separator: Les ateliers collectifs
+    
+    - titre: Les ateliers collectifs
+      permalink: les-ateliers-collectifs/
 
-    - separator: Soins énergétiques
-
-    - titre: Soins énergétiques
-      permalink: soins-energetiques/
-
-    - separator: Moon Mother
-
-    - titre: Moon Mother
-      permalink: moon-mother/
      
     - separator: Massage Tantrique
 
     - titre: Massage Tantrique
       permalink: massage-tantrique/
+      
+      
+    - separator: Moon Mother
+
+    - titre: Moon Mother
+      permalink: moon-mother/    
+      
+    <!--  
+    - separator: Soins énergétiques
+
+    - titre: Soins énergétiques
+      permalink: soins-energetiques/
+    -->
+    
+      
 
 - titre: Découverte
   menu:
