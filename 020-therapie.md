@@ -11,7 +11,7 @@ published: true
 
 [L’hypnose, les soins énergétiques](http://laetitia-stucki.ch/) et [Moon Mother](http://sacree-sexualite.org/moon-mother/) sont des outils de choix pour un travail spécifique sur la sexualité. Qu’il s’agisse de se libérer de troubles sexuels ou tout simplement de s’épanouir sexuellement.
 
-La sexualité tient une part importante dans nos vies, nous avons été conçus pour la plupart par un acte sexuel, puis au fil de notre vie nous l’utilisons pour nous reproduire, pour le plaisir, pour tisser et renforcer nos liens amoureux et parfois même pour notre développement personnel et spirituel.
+La sexualité tient une part importante dans nos vies, nous avons été conçus pour la plupart par un acte sexuel, puis au fil de notre vie nous l’utilisons pour créer la vie, pour le plaisir, pour tisser et renforcer nos liens amoureux et parfois même pour notre développement personnel et spirituel.
 
 Nous souffrons souvent du conditionnement inculqué par la société, nos parents, nos enseignants, les religions, les médias ou certaines expériences difficiles. Ces conditionnements agissent sur notre sexualité par des émotions négatives qui peuvent déboucher sur des difficultés ou insatisfactions sexuelles, divers troubles psychiques et dysfonctionnements physiques.
 

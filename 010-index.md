@@ -4,15 +4,58 @@ permalink: /
 layout: page
 published: true
 ---
+# NOUVEAU
+
+# Les Ateliers collectifs !
+
+{: .mise-en-evidence-1 } 
+Épanouissement sexuel féminin 
+<i class="fa fa-envira" aria-hidden="true"></i> 
+Hypnochamanisme reconnexion à votre puissance vitale originelle 
+<i class="fa fa-envira" aria-hidden="true"></i> 
+
+<br/>
+
+D'avril à septembre 2018, je vous propose des ateliers sur le thème de la sexualité. De 19h30 à 21h30 environ sur inscription à la Vallée de Joux et à Lausanne ! 
+
+Deux thèmes répartis sur trois ateliers chacun :
 
 
-# Les nouveautés 2018 pour&nbsp;vous !
+### Épanouissement sexuel féminin 
 
-## 3 ateliers collectifs en soirée à la Vallée de Joux et à Lausanne!
 
-- **Avril à juin 3 ateliers "Épanouissement sexuel pour les femmes"**
+Ces ateliers, tous différents, et allant crescendo dans l’approche de votre épanouissement sexuel, vous apporteront les outils essentiels à l’épanouissement de votre sexualité dans la relation avec votre conjoint-e-s et avec vous-même ! Ces ateliers seront parsemés de danse, d’hypnose et d’autohypnose, du rythme du tambour, de rituels et de structures tantriques pour apporter une nouvelle dimension à votre sexualité !
 
-*Un descriptif plus précis sera disponible très prochainement sur ce site, avec les dates, les tarifs attractifs et l'explicatif de chaque atelier. Chaque atelier sera différent pour mettre à votre disposition un maximum de connaissances. D'ici là vous pouvez me contacter pour de plus amples informations.*
+<br/>
+
+- <b>Épanouissement sexuel féminin 1</b>
+Vallée de Joux 12.04.2018 / Lausanne 19.04.2018
+- <b>Épanouissement sexuel féminin 2</b>
+Vallée de Joux 10.05.2018 / Lausanne 17.05.2018
+- <b>Épanouissement sexuel féminin 3</b>
+Vallée de Joux 14.06.2018 / Lausanne 21.06.2018
+
+
+### Hypnochamanisme reconnexion à votre puissance vitale originelle
+
+
+Ces ateliers, tous différents et allants crescendo dans l’approche de votre puissance originelle, vous amèneront à reconnecter votre puissance de vie ! Ces ateliers seront composé de danse, d’hypnose et autohypnose, du rythme du tambour, de rituels et de structures tantriques de reconnexion à votre énergie vitale. Même si ces ateliers n’ont aucune visée sexuelle, ils vous seront d’un grand soutien sexuellement ainsi que dans votre vie quotidienne.
+
+<br/>
+
+- <b>Hypnochamanisme 1</b>
+Vallée de Joux 12.07.2018 / Lausanne 19.07.2018
+- <b>Hypnochamanisme 2</b>
+Vallée de Joux 09.08.2018 / Lausanne 16.08.2018
+- <b>Hypnochamanisme 3</b>
+Vallée de Joux 13.09.2018 / Lausanne 20.09.2018
+
+
+*Les lieux de rencontre vous seront communiqués lors de l’inscription
+
+![Atelier collectif avec Laetitia Stucki](../images/hypnochamanisme.JPG)
+
+
 
 <!--
 

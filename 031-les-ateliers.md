@@ -2,7 +2,7 @@
 title: Les ateliers
 permalink: les-ateliers-collectifs
 layout: page
-published: true
+published: false
 ---
 # Les nouveautés 2018 pour&nbsp;vous !
 
