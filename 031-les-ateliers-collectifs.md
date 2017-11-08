@@ -53,6 +53,12 @@ Vallée de Joux 13.09.2018 / Lausanne 20.09.2018
 
 ![Atelier collectif avec Laetitia Stucki](../images/hypnochamanisme.JPG)
 
+## Inscriptions et tarifs
+
+{: .text-center }
+<mailto:laetitia.stucki@gmail.com>
+<i class="fa fa-mobile"></i> +41 79 326 30 64
+[Tarifs](http://sacree-sexualite.org/tarifs/)
 
 <!--
 # Les nouveautés 2018 pour&nbsp;vous !
