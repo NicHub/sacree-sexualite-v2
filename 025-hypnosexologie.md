@@ -12,6 +12,8 @@ published: true
 Voici certaines des applications qui s’offrent à vous en hypnosexologie:
 
 - Vous débarrasser de vos schémas et conditionnements limitants
+- Travailler et vous libérer des traumatismes liés à la sexualité
+- Laisser partir les hontes et culpabilités inculquées
 - Renouer avec votre corps et vos sensations
 - Apprendre à gérer et connaître vos sensations physiques et vos émotions pour un plaisir plus grand et plus long
 - Découvrir ou redécouvrir le plaisir sexuel
