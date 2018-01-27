@@ -43,3 +43,11 @@ Se préparer à amener la vérité et l’entièreté dans nos partages, s’acc
 Libération du corps de l’emprise mentale. Assouvissement et retour à l’innocence.
 
 Phase finale du cours sur la sexualité.
+
+
+Conseil individuel sur rendez-vous, 
+
+Tel: 079 458 45 32
+
+
+Tarifs: 60.-/heures
