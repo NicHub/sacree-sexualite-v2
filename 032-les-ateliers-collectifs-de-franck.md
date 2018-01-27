@@ -4,8 +4,6 @@ permalink: les-ateliers-collectifs-de-frank/
 layout: page
 published: true
 ---
-# Formations
-
 # 1- Cycle annuel et fêtes celtiques
 
 L’année, son découpage les miroirs périodiques. Le cycle des énergies masculines et féminines. Les solstices, équinoxes et leurs liens aux éléments.
