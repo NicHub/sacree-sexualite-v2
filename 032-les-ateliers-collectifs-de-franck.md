@@ -1,6 +1,6 @@
 ---
 title: Les ateliers
-permalink: les-ateliers-collectifs-de-laetitia/
+permalink: les-ateliers-collectifs-de-franck/
 layout: page
 published: true
 ---
