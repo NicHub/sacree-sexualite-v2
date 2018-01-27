@@ -9,7 +9,7 @@ published: true
 {: .mise-en-evidence-1 }
 [Hypnosexologie](http://sacree-sexualite.org/hypnosexologie/) 
 <i class="fa fa-envira" aria-hidden="true"></i> 
-[Les ateliers collectifs en soirée](http://sacree-sexualite.org/les-ateliers-collectifs/) 
+[Les ateliers collectifs en soirée](http://sacree-sexualite.org/les-ateliers-collectifs-de-laetitia/) 
 <i class="fa fa-envira" aria-hidden="true"></i> 
 [Massage Tantrique](http://sacree-sexualite.org/massage-tantrique/)
 <i class="fa fa-envira" aria-hidden="true"></i> 
