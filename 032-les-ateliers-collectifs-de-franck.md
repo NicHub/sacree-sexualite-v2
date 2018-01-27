@@ -4,13 +4,13 @@ permalink: les-ateliers-collectifs-de-franck/
 layout: page
 published: true
 ---
-#1- Cycle annuel et fêtes celtiques
+# 1- Cycle annuel et fêtes celtiques
 
 L’année, son découpage les miroirs périodiques. Le cycle des énergies masculines et féminines. Les solstices, équinoxes et leurs liens aux éléments.
 
 Se réapproprier les cycles naturels et festifs de la terre et se placer dans le temps céleste. Cet atelier nous permet de comprendre l’influence des différents moments de l’année sur nos fonctionnements et notre santé, ainsi que sur nos rapports avec les autres 
 
-#2- Le cercle du genre, masculin et féminin. Approche vibratoire.
+# 2- Le cercle du genre, masculin et féminin. Approche vibratoire.
 
 Où et comment se situer sur l’échelle des alignements des genres. Décryptage de nos relations et de nos fonctionnements ainsi que de leurs travers. Se relier à nos parts masculines et féminines pour redevenir des êtres entiers.
 
