@@ -46,6 +46,7 @@ Libération du corps de l’emprise mentale. Assouvissement et retour à l’inn
 
 Phase finale du cours sur la sexualité.
 
+<br/>
 
 Conseil individuel sur rendez-vous, 
 
