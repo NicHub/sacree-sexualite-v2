@@ -7,7 +7,7 @@ published: true
 
 # Citations
 
-“Il existe autant d'orgasmes qu'il y a d'étoile dans le ciel...”
+“Il existe autant d’orgasmes qu’il y a d’étoile dans le ciel...”
 
 “Le Tantra réel n’est pas une technique, il est amour. Il n’est pas technique, il est prière. Il n’est pas orienté vers la tête, il est un assouplissant dans le cœur. S’il te plaît, souviens-toi de cela. Il y a beaucoup de livres sur le Tantra. Ils parlent tous de technique. Mais le Tantra réel n’a rien à voir avec une technique. Le Tantra réel ne peut pas être écrit. Il convient de savourer le véritable Tantra réel. Comment savourer le véritable Tantra? Tu dois transformer ton approche tout entière.”
 

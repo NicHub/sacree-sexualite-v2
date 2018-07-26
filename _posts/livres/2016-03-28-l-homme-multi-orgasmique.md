@@ -1,8 +1,8 @@
 ---
 layout       : livre
-title        : "L'homme multi-orgasmique"
+title        : "L’homme multi-orgasmique"
 categories   : livres
-exergue      : "L'énergie sexuelle masculine"
+exergue      : "L’énergie sexuelle masculine"
 ---
 
 Chaque homme peut avoir des orgasmes multiples et améliorer radicalement ses capacités amoureuses, simplement grâce à quelques techniques physiques accessibles à tous.

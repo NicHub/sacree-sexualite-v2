@@ -14,7 +14,7 @@ Hypnochamanisme reconnexion à votre puissance vitale originelle
 
 <br/>
 
-D'avril à septembre 2018, je vous propose des ateliers sur le thème de la sexualité. De 19h30 à 21h30 environ sur inscription à la Vallée de Joux et à Lausanne !
+D’avril à septembre 2018, je vous propose des ateliers sur le thème de la sexualité. De 19h30 à 21h30 environ sur inscription à la Vallée de Joux et à Lausanne !
 
 Deux thèmes répartis sur trois ateliers chacun :
 
@@ -65,12 +65,12 @@ Vallée de Joux 13.09.2018 / Lausanne 20.09.2018
 
 ## 3 ateliers collectifs en soirée à la Vallée de Joux et à Lausanne!
 
-- **Avril à juin 3 ateliers "Épanouissement sexuel pour les femmes"**
+- **Avril à juin 3 ateliers « Épanouissement sexuel pour les femmes »**
 
-*Un descriptif plus précis sera disponible très prochainement sur ce site, avec les dates, les tarifs attractifs et l'explicatif de chaque atelier. Chaque atelier sera différent pour mettre à votre disposition un maximum de connaissances. D'ici là vous pouvez me contacter pour de plus amples informations.*
+*Un descriptif plus précis sera disponible très prochainement sur ce site, avec les dates, les tarifs attractifs et l’explicatif de chaque atelier. Chaque atelier sera différent pour mettre à votre disposition un maximum de connaissances. D’ici là vous pouvez me contacter pour de plus amples informations.*
 
 
-## Atelier "Augmentez votre plaisir sexuel"
+## Atelier « Augmentez votre plaisir sexuel »
 
 Il me tient particulièrement à cœur de transmettre des techniques et méthodes simples d’autohypnose que vous pourrez utiliser facilement par vous-même et pour votre mieux-être. J’ai donc mis sur pieds cet atelier de 1 h 30.
 
@@ -82,5 +82,5 @@ Cet atelier est composé :
 
 Cet atelier se déroule sur rendez-vous à l’une de mes salles de soins, en individuel et jusqu’à 4 personnes.
 
-Au plaisir de vous y rencontrer !
+Au plaisir de vous y rencontrer !
 -->
