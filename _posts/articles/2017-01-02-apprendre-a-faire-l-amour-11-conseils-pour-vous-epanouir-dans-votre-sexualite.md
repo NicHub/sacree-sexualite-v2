@@ -9,7 +9,7 @@ exergue      : "11 conseils pour vous épanouir dans&nbsp;votre sexualité"
 
 ## 11 conseils pour vous épanouir dans&nbsp;votre sexualité
 
-Lors de mes <a href="http://sacree-sexualite.org/hypnosexologie/" target="_blank">consultations en hypnosexologie</a>, je constate régulièrement qu’une partie des difficultés sexuelles viennent simplement d’une méconnaissance de soi-même et de notre corps, malgré <a href="http://sacree-sexualite.org/articles/2016/07/11/le-privilege-de-la-sexualite.html"            target="_blank">l’ouverture sexuelle dont nous bénéficions en occident</a>. Mais comment se fait-il que nous en sachions si peu sur nous-mêmes ?
+Lors de mes <a href="https://sacree-sexualite.org/hypnosexologie/" target="_blank">consultations en hypnosexologie</a>, je constate régulièrement qu’une partie des difficultés sexuelles viennent simplement d’une méconnaissance de soi-même et de notre corps, malgré <a href="https://sacree-sexualite.org/articles/2016/07/11/le-privilege-de-la-sexualite.html"            target="_blank">l’ouverture sexuelle dont nous bénéficions en occident</a>. Mais comment se fait-il que nous en sachions si peu sur nous-mêmes ?
 
 Cela commence très tôt, dès notre plus tendre enfance. Nombreux sont ceux qui se souviennent par exemple d’un parent, pourtant bien intentionné, mais très mal à l’aise, nous interdisant de toucher à nos organes génitaux en public. Malheureusement bien souvent l’interaction s’arrête ici avec un manque d’explication sur les raisons de cette interdiction limitant ainsi l’accès à notre propre corps et suggérant une idée malsaine et sale de notre sexe. Alors qu’une simple explication peut dissiper le malaise et donner l’occasion aux parents de communiquer sur ce domaine avec leur enfant.
 
@@ -37,7 +37,7 @@ Seul, à deux, ou à plus :-), vous avez le droit de vous toucher, de vous exp�
 
 ## 3. Informez-vous !
 
-Évitez de vous limiter au porno pour vous instruire ! Il existe une multitude de façons de s’informer efficacement pour une sexualité plus épanouie : <a href="http://sacree-sexualite.org/liens/" target="_blank">internet</a>, <a href="http://sacree-sexualite.org/livres/" target="_blank">lire des livres</a>, <a href="http://sacree-sexualite.org/atelier-augmentez-votre-plaisir-sexuel/" target="_blank">suivre des cours</a>, par <a href="http://sacree-sexualite.org/hypnocoaching-amour-sexualite/" target="_blank">le coaching </a>, ou la <a href="http://sacree-sexualite.org/hypnosexologie/" target="_blank">thérapie</a>.
+Évitez de vous limiter au porno pour vous instruire ! Il existe une multitude de façons de s’informer efficacement pour une sexualité plus épanouie : <a href="https://sacree-sexualite.org/liens/" target="_blank">internet</a>, <a href="https://sacree-sexualite.org/livres/" target="_blank">lire des livres</a>, <a href="https://sacree-sexualite.org/atelier-augmentez-votre-plaisir-sexuel/" target="_blank">suivre des cours</a>, par <a href="https://sacree-sexualite.org/hypnocoaching-amour-sexualite/" target="_blank">le coaching </a>, ou la <a href="https://sacree-sexualite.org/hypnosexologie/" target="_blank">thérapie</a>.
 
 ## 4. N’attendez rien et savourez juste l’instant !
 

@@ -93,7 +93,7 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 ## Dédramatiser la sexualité
 
 - [À corps et ä cris, chuchottement, halètements](http://www.lemonde.fr/m-le-mag/article/2016/03/13/a-corps-et-a-cris-chuchotements-haletements_4881905_4500055.html#erGdiQSI2hDsy1kL.99)
-- [Apprendre à faire l'amour, 11 conseils pour vous épanouir dans votre sexualité](http://sacree-sexualite.org/articles/2017/01/02/apprendre-a-faire-l-amour-11-conseils-pour-vous-epanouir-dans-votre-sexualite.html)
+- [Apprendre à faire l'amour, 11 conseils pour vous épanouir dans votre sexualité](https://sacree-sexualite.org/articles/2017/01/02/apprendre-a-faire-l-amour-11-conseils-pour-vous-epanouir-dans-votre-sexualite.html)
 - [Cinquante nuances de Grey](http://streamcomplet.com/cinquante-nuances-de-grey/)
 - [Club clitoris: l'instagram qui te décoince de la vulve](http://www.desculottees.com/2016/04/club-clitoris-instagram-de-la-vulve/)
 - [Désir féminin, une histoire excitante](http://www.hebdo.ch/hebdo/cadrages/detail/d%C3%A9sir-f%C3%A9minin-une-histoire-excitante)
@@ -152,7 +152,7 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 - [Les femmes de plus de 40 ans sont les plus désirables](https://sympa-sympa.com/inspiration-filles/les-femmes-de-plus-de-40-ans-sont-incomparables-9955/)
 - [Le vagin à l'ère connectée](http://www.secondsexe.com/magazine/Le-vagin-a-l-ere-connectee.html)
 - [lorsque cette photographe a retouché la photo de cette femme pour la rendre “plus sexy” elle savait que sa vision des choses allait radicalement changer...](http://www.demotivateur.fr/article-buzz/lorsque-sa-femme-lui-a-offert-un-album-de-photos-sexy-ce-mari-a-envoye-une-reponse-memorable--3665)
-- [Moon Mother Avancée Laetitia Stucki](http://sacree-sexualite.org/moon-mother/)
+- [Moon Mother Avancée Laetitia Stucki](https://sacree-sexualite.org/moon-mother/)
 - [Nourir son Yin](http://lechantdesarbres.over-blog.com/2016/06/nourrir-son-yin.html)
 - [Oeuf de Jade - Sexualité féminine - Oeuf de Yoni](https://www.youtube.com/watch?v=NS6HUAGTPos)
 - [Préparation à l'exercice de oeuf de Jade avec Karine Nivon](https://www.youtube.com/watch?v=rU4xjiLO07c&feature=player_embedded)
@@ -192,7 +192,7 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 
 ## Formation sexualité
 
-- [Apprendre à faire l'amour, 11 conseils pour vous épanouir dans votre sexualité](http://sacree-sexualite.org/articles/2017/01/02/apprendre-a-faire-l-amour-11-conseils-pour-vous-epanouir-dans-votre-sexualite.html)
+- [Apprendre à faire l'amour, 11 conseils pour vous épanouir dans votre sexualité](https://sacree-sexualite.org/articles/2017/01/02/apprendre-a-faire-l-amour-11-conseils-pour-vous-epanouir-dans-votre-sexualite.html)
 - [Café sexo](http://www.sexologieclinique.ch/page23.php)
 - [Formation en Psycho-Sexologie Positive (FPSP)](http://www.vaudfamille.ch/N276432/formation-en-psycho-sexologie-positive-fpsp.html)
 - [Institut suisse de Sexologie Clinique « Cafés Sexos »](http://www.sexologieclinique.ch/page23.php)
@@ -299,7 +299,7 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 
 ## Premiers pas dans la sexualité
 
-- [Apprendre à faire l'amour, 11 conseils pour vous épanouir dans votre sexualité](http://sacree-sexualite.org/articles/2017/01/02/apprendre-a-faire-l-amour-11-conseils-pour-vous-epanouir-dans-votre-sexualite.html)
+- [Apprendre à faire l'amour, 11 conseils pour vous épanouir dans votre sexualité](https://sacree-sexualite.org/articles/2017/01/02/apprendre-a-faire-l-amour-11-conseils-pour-vous-epanouir-dans-votre-sexualite.html)
 - [A quoi rêvent les jeunes filles ? - INFRAROUGE Déconseillé aux - de 16 ans](https://www.youtube.com/watch?v=kZQ8GUDscOw)
 - [Éducation sensuelle, pour les jeunes... et les moins jeunes :-)](http://www.educationsensuelle.com/#.VudPow1Ke7g.facebook)
 - [Education sexuelle à la télévision nationale de la Norvège](http://canal311.com/fr/education-sexuelle-television-nationale-norvege-1111/)
@@ -319,7 +319,7 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 - [L’église et les audaces érotiques en terre bretonne](http://m.culturebox.francetvinfo.fr/tendances/leglise-et-les-audaces-erotiques-en-terre-bretonne-229155#xtref=http://m.facebook.com)
 - [Le manuscrit de Marie-Madeleine : Magie Sexuelle d’Isis](http://devantsoi.forumgratuit.org/t756-manuscrit-de-marie-madeleine-magie-sexuelle-d-isis)
 - [Le pénitentiel de Worms, pour une approche décomplexée de la sexualité au Moyen-Âge](https://savoirsdhistoire.wordpress.com/2015/06/27/le-penitentiel-de-worms-pour-une-approche-decomplexee-de-la-sexualite-au-moyen-age/)
-- [Le privilège de la sexualité, coutumes et habitudes sexuelles à travers le monde](http://sacree-sexualite.org/articles/2016/07/11/le-privilege-de-la-sexualite.html)
+- [Le privilège de la sexualité, coutumes et habitudes sexuelles à travers le monde](https://sacree-sexualite.org/articles/2016/07/11/le-privilege-de-la-sexualite.html)
 - [Le sexe dans la Grèce antique](https://www.youtube.com/watch?v=kzvTnd02cZI)
 - [Le sexe dans l’Egypte Ancienne.(1.3)](https://www.youtube.com/watch?v=-UN5IoBpVsY)
 - [Le sexe dans l’Egypte Ancienne.(2.3)](https://www.youtube.com/watch?v=LvCl1j2uZ0k)
@@ -345,14 +345,14 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 ## Sexualité sacrée
 
 - [55\. La conscience sexuelle](http://www.colling.lu/chapitres_fr/55.pdf)
-- [Apprendre à faire l'amour, 11 conseils pour vous épanouir dans votre sexualité](http://sacree-sexualite.org/articles/2017/01/02/apprendre-a-faire-l-amour-11-conseils-pour-vous-epanouir-dans-votre-sexualite.html)
+- [Apprendre à faire l'amour, 11 conseils pour vous épanouir dans votre sexualité](https://sacree-sexualite.org/articles/2017/01/02/apprendre-a-faire-l-amour-11-conseils-pour-vous-epanouir-dans-votre-sexualite.html)
 - [Découvrez les 7 règles d'une sexualité de rêve](http://www.planifiezvosreves.com/decouvrez-les-7-regles-dune-sexualite-de-reve/)
 - [Des applications pour la santé sexuelle](http://journalmetro.com/opinions/sexe-dans-la-ville/936026/des-applications-pour-la-sante-sexuelle/)
 - [En amour, nos peaux sont plus intelligentes que nos mots...](http://lespaceducouple.com/2015/07/08/en-amour-nos-peaux-sont-plus-intelligentes-que-nos-mots-2/)
 - [Energie sexuelle, trois phases d’expérimentation](http://therapiequantique.eklablog.com/energie-sexuelle-trois-phases-d-experimentation-a118016592)
 - [Féminin sacré : s’épanouir dans une sexualité sacrée](http://femininsacre.com/feminin-sacre-spanouir-dans-la-sexualite-sacree/)
-- [Hypnocoaching amour et sexualité](http://sacree-sexualite.org/hypnocoaching-amour-sexualite/)
-- [Hypnosexologie](http://sacree-sexualite.org/hypnosexologie/)
+- [Hypnocoaching amour et sexualité](https://sacree-sexualite.org/hypnocoaching-amour-sexualite/)
+- [Hypnosexologie](https://sacree-sexualite.org/hypnosexologie/)
 - [Inspiration naturiennes : Sexualité Naturienne...](https://www.youtube.com/watch?v=utw2XB1ZeKQ&list=UUWQT49S0h-JQwiXxF0FWXKA)
 - [La sexualité Divine (par les Êtres de lumière)](http://chrysalyda.com/2015/02/03/la-sexualite-divine-par-les-etres-de-lumiere/)
 - [La sexualité est-elle bien enseignée?](http://www.liberation.fr/france/2016/06/15/la-sexualite-est-elle-bien-enseignee_1459313)
@@ -362,7 +362,7 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 - [L’échec de la sexualité humaine](http://www.mariepaulross.com/lechec-de-la-sexualite-humaine/)
 - [Le consentement sexuel expliqué par une tasse de thé](http://www.madmoizelle.com/consentement-sexuel-tasse-the-365301)
 - [Les limites dans la sexualité](http://presenceasoi.be/les-limites-dans-la-sexualite/)
-- [Sacrée Sexualité](http://sacree-sexualite.org/)
+- [Sacrée Sexualité](https://sacree-sexualite.org/)
 - [Sexualité essentielle et sexualité sacrée](http://www.spirit-science.fr/doc_psycho/sexualite.html)
 - [Sexualité essentielle et sexualité sacrée PDF](http://www.academia.edu/8666414/Sexualité_essentielle_et_sexualité_sacrée)
 - [Sexualité et énergie de l’aura](http://www.espritsciencemetaphysiques.com/sexualite-et-energie-de-laura.html)
@@ -370,9 +370,9 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 	- [Aimer c’est Évoluer](https://www.youtube.com/watch?v=4dI7rMePWI8)
 	- [Intimité et Sexualité – Part 1](https://www.youtube.com/watch?v=vUkQiIR52LA)
 
-- [Soins énergétiques au service de la sexualité](http://sacree-sexualite.org/soins-energetiques/)
+- [Soins énergétiques au service de la sexualité](https://sacree-sexualite.org/soins-energetiques/)
 - [Spiritualité et sexualité : deux états complètement compatibles.](http://stephanie-et-nadia.com/spiritualite-et-sexualite/)
-- [Thérapie](http://sacree-sexualite.org/therapie/)
+- [Thérapie](https://sacree-sexualite.org/therapie/)
 
 
 

@@ -6,20 +6,20 @@ published: true
 ---
 # Les Ateliers collectifs !
 
-{: .mise-en-evidence-1 } 
-Épanouissement sexuel féminin 
-<i class="fa fa-envira" aria-hidden="true"></i> 
-Hypnochamanisme reconnexion à votre puissance vitale originelle 
-<i class="fa fa-envira" aria-hidden="true"></i> 
+{: .mise-en-evidence-1 }
+Épanouissement sexuel féminin
+<i class="fa fa-envira" aria-hidden="true"></i>
+Hypnochamanisme reconnexion à votre puissance vitale originelle
+<i class="fa fa-envira" aria-hidden="true"></i>
 
 <br/>
 
-D'avril à septembre 2018, je vous propose des ateliers sur le thème de la sexualité. De 19h30 à 21h30 environ sur inscription à la Vallée de Joux et à Lausanne ! 
+D'avril à septembre 2018, je vous propose des ateliers sur le thème de la sexualité. De 19h30 à 21h30 environ sur inscription à la Vallée de Joux et à Lausanne !
 
 Deux thèmes répartis sur trois ateliers chacun :
 
 
-### Épanouissement sexuel féminin 
+### Épanouissement sexuel féminin
 
 
 Ces ateliers, tous différents et réservé aux femmes, vont crescendo dans l’approche de votre épanouissement sexuel, vous apporteront les outils essentiels à l’épanouissement de votre sexualité dans la relation avec votre conjoint-e-s et avec vous-même ! Ces ateliers seront parsemés de danse, d’hypnose et d’autohypnose, du rythme du tambour, de rituels et de structures tantriques pour apporter une nouvelle dimension à votre sexualité !
@@ -58,7 +58,7 @@ Vallée de Joux 13.09.2018 / Lausanne 20.09.2018
 {: .text-center }
 <mailto:laetitia.stucki@gmail.com>
 <i class="fa fa-mobile"></i> +41 79 326 30 64
-[Tarifs](http://sacree-sexualite.org/tarifs/)
+[Tarifs](https://sacree-sexualite.org/tarifs/)
 
 <!--
 # Les nouveautés 2018 pour&nbsp;vous !

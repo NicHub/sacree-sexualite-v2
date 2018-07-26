@@ -7,13 +7,13 @@ published: true
 # Bienvenue!
 
 {: .mise-en-evidence-1 }
-[Hypnosexologie](http://sacree-sexualite.org/hypnosexologie/) 
-<i class="fa fa-envira" aria-hidden="true"></i> 
-[Les ateliers collectifs en soirée](http://sacree-sexualite.org/les-ateliers-collectifs-de-laetitia/) 
-<i class="fa fa-envira" aria-hidden="true"></i> 
-[Massage Tantrique](http://sacree-sexualite.org/massage-tantrique/)
-<i class="fa fa-envira" aria-hidden="true"></i> 
-[Moon Mother](http://sacree-sexualite.org/moon-mother/)
+[Hypnosexologie](https://sacree-sexualite.org/hypnosexologie/)
+<i class="fa fa-envira" aria-hidden="true"></i>
+[Les ateliers collectifs en soirée](https://sacree-sexualite.org/les-ateliers-collectifs-de-laetitia/)
+<i class="fa fa-envira" aria-hidden="true"></i>
+[Massage Tantrique](https://sacree-sexualite.org/massage-tantrique/)
+<i class="fa fa-envira" aria-hidden="true"></i>
+[Moon Mother](https://sacree-sexualite.org/moon-mother/)
 
 
 <!--
@@ -22,7 +22,7 @@ published: true
 {: .text-center }
 <mailto:laetitia.stucki@gmail.com>
 <i class="fa fa-mobile"></i> +41 79 326 30 64
-[Tarifs](http://sacree-sexualite.org/tarifs/)
+[Tarifs](https://sacree-sexualite.org/tarifs/)
 -->
 
 {: .align-center .margin-top-50 }
