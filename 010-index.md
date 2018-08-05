@@ -11,7 +11,6 @@ published: true
 <i class="fa fa-envira" aria-hidden="true"></i>
 [Les ateliers collectifs en soirée](https://sacree-sexualite.org/les-ateliers-collectifs-de-laetitia/)
 <i class="fa fa-envira" aria-hidden="true"></i>
-[Massage Tantrique](https://sacree-sexualite.org/massage-tantrique/)
 <i class="fa fa-envira" aria-hidden="true"></i>
 [Moon Mother](https://sacree-sexualite.org/moon-mother/)
 
