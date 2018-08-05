@@ -25,7 +25,8 @@ published: true
 {: .table .table-condensed .table-responsive }
 | ---                                                | ---:         |
 | Massage Tantrique de 2h 
--->                           | 280&nbsp;CHF |
+                           | 280&nbsp;CHF |
+-->
 
 ## Moon Mother<br/>avancé
 
