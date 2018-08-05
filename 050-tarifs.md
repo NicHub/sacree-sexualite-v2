@@ -19,11 +19,13 @@ published: true
 | ---                                                | ---:         |
 | Ateliers d’autohypnose, durée 2 h environ, sur inscription                                                                                                              | 40&nbsp;CHF  |
 
+<!--
 ## Massage Tantrique
 
 {: .table .table-condensed .table-responsive }
 | ---                                                | ---:         |
-| Massage Tantrique de 2h                            | 280&nbsp;CHF |
+| Massage Tantrique de 2h 
+-->                           | 280&nbsp;CHF |
 
 ## Moon Mother<br/>avancé
 
