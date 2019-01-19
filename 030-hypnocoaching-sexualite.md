@@ -2,7 +2,7 @@
 title: Hypnocoaching couple & sexualité
 permalink: hypnocoaching-couple-sexualite/
 layout: page
-published: false
+published: true
 ---
 
 # Hypnocoaching<br/>couple & sexualité

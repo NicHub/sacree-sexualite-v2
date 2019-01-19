@@ -77,7 +77,7 @@ Vallée de Joux 13.09.2018 / Lausanne 20.09.2018
 {: .text-center }
 <mailto:laetitia.stucki@gmail.com>
 <i class="fa fa-mobile"></i> +41 79 326 30 64
-[Tarifs](https://sacree-sexualite.org/tarifs/)
+
 
 <!--
 # Les nouveautés 2018 pour&nbsp;vous !
