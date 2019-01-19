@@ -13,11 +13,15 @@ published: true
 | ---                                                | ---:         |
 | Séance d’hypnosexologie                            | 120&nbsp;CHF |
 
+
+<!--
 ## Les ateliers collectifs
 
 {: .table .table-condensed .table-responsive }
 | ---                                                | ---:         |
 | Ateliers d’autohypnose, durée 2 h environ, sur inscription                                                                                                              | 40&nbsp;CHF  |
+
+-->
 
 <!--
 ## Massage Tantrique

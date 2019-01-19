@@ -1,6 +1,6 @@
 ---
 title: Les ateliers
-permalink: les-cours-privés-et-collectifs/
+permalink: les-ateliers-privés-et-collectifs/
 layout: page
 published: true
 ---
