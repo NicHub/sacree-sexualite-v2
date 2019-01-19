@@ -20,3 +20,10 @@ Voici certaines des applications qui s’offrent à vous en hypnosexologie:
 - Apprendre le lâcher-prise essentiel au plaisir
 - Vous libérer de vos blocages
 - Retrouver l’amour de vous-même et de votre corps
+
+## Inscriptions et tarifs
+
+{: .text-center }
+<mailto:laetitia.stucki@gmail.com>
+<i class="fa fa-mobile"></i> +41 79 326 30 64
+[Tarifs](https://sacree-sexualite.org/tarifs/)

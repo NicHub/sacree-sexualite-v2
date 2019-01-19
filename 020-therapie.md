@@ -16,3 +16,10 @@ La sexualité tient une part importante dans nos vies, nous avons été conçus 
 Nous souffrons souvent du conditionnement inculqué par la société, nos parents, nos enseignants, les religions, les médias ou certaines expériences difficiles. Ces conditionnements agissent sur notre sexualité par des émotions négatives qui peuvent déboucher sur des difficultés ou insatisfactions sexuelles, divers troubles psychiques et dysfonctionnements physiques.
 
 Autant notre sexualité peut être très difficile à vivre et parfois même nous faire du mal, autant il est possible de vivre au travers de cette sexualité un véritable épanouissement personnel en découvrant et en utilisant cette énergie magique, cette énergie de vie que véhicule l’acte sexuel. Par l’hypnose et les soins énergétiques, il est facile de se libérer, à notre rythme, de ces conditionnements limitants et ainsi fluidifier les énergies pour retrouver une sexualité riche et épanouissante en *Accord* et en *Amour* avec *soi M’Aime* !
+
+## Inscriptions et tarifs
+
+{: .text-center }
+<mailto:laetitia.stucki@gmail.com>
+<i class="fa fa-mobile"></i> +41 79 326 30 64
+[Tarifs](https://sacree-sexualite.org/tarifs/)

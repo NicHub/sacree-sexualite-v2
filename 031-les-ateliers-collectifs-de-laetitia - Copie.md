@@ -1,13 +1,30 @@
 ---
 title: Les ateliers
-permalink: les-ateliers-collectifs-de-laetitia/
+permalink: les-cours-privés-et-collectifs/
 layout: page
 published: true
 ---
+
+# Ateliers privés et collectifs
+
+## Je vous propose des cours et ateliers privés et semi-privés sur rendez-vous.
+
+{: .mise-en-evidence-1 }
+Épanouissement sexuel par l'Autohypnose et le Tantra
+<i class="fa fa-envira" aria-hidden="true"></i>
+Hypnochamanisme reconnexion à votre puissance vitale originelle
+<i class="fa fa-envira" aria-hidden="true"></i>
+
+<br/>
+
+Chacun de ces cours à lieu sur rendez-vous, pour une à six personnes et durs 1h30 ou 3h en fonction de ce que vous recherchez. Le tarif maximum est de 150.- et est dégressif en fonction du nombre de personnes inscrites et du nombre d'heures de cours.
+Pour d'avantage d'information merci de me contacter directement.
+
+<!--
 # Les Ateliers collectifs !
 
 {: .mise-en-evidence-1 }
-Épanouissement sexuel féminin
+Épanouissement sexuel par l'Autohypnose et le Tantra
 <i class="fa fa-envira" aria-hidden="true"></i>
 Hypnochamanisme reconnexion à votre puissance vitale originelle
 <i class="fa fa-envira" aria-hidden="true"></i>
@@ -52,6 +69,8 @@ Vallée de Joux 13.09.2018 / Lausanne 20.09.2018
 *Les lieux de rencontre vous seront communiqués lors de l’inscription
 
 ![Atelier collectif avec Laetitia Stucki](../images/hypnochamanisme.JPG)
+
+-->
 
 ## Inscriptions et tarifs
 

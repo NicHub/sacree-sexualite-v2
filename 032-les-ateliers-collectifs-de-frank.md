@@ -2,7 +2,7 @@
 title: Les ateliers
 permalink: les-ateliers-collectifs-de-frank/
 layout: page
-published: true
+published: false
 ---
 # Formations
 
@@ -53,4 +53,4 @@ Conseil individuel sur rendez-vous,
 Tel: 079 458 45 32
 
 
-Tarifs: 60.-/heures
+Tarifs: 60.-/heure
