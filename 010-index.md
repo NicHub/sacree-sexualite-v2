@@ -9,7 +9,7 @@ published: true
 {: .mise-en-evidence-1 }
 [Hypnosexologie](https://sacree-sexualite.org/hypnosexologie/)
 <i class="fa fa-envira" aria-hidden="true"></i>
-[Les ateliers collectifs en soirée](https://sacree-sexualite.org/les-ateliers-collectifs-de-laetitia/)
+[Les ateliers privés et collectifs en soirée](https://sacree-sexualite.org/les-ateliers-privés-et-collectifs/)
 <i class="fa fa-envira" aria-hidden="true"></i>
 [Moon Mother](https://sacree-sexualite.org/moon-mother/)
 
