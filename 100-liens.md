@@ -351,7 +351,6 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 - [En amour, nos peaux sont plus intelligentes que nos mots...](http://lespaceducouple.com/2015/07/08/en-amour-nos-peaux-sont-plus-intelligentes-que-nos-mots-2/)
 - [Energie sexuelle, trois phases d’expérimentation](http://therapiequantique.eklablog.com/energie-sexuelle-trois-phases-d-experimentation-a118016592)
 - [Féminin sacré : s’épanouir dans une sexualité sacrée](http://femininsacre.com/feminin-sacre-spanouir-dans-la-sexualite-sacree/)
-- [Hypnocoaching amour et sexualité](https://laetitiastucki.github.io/laetitia-stucki-v2/hypnocoaching-amour-sexualite/)
 - [Hypnosexologie](../hypnosexologie/)
 - [Inspiration naturiennes : Sexualité Naturienne...](https://www.youtube.com/watch?v=utw2XB1ZeKQ&list=UUWQT49S0h-JQwiXxF0FWXKA)
 - [La sexualité Divine (par les Êtres de lumière)](http://chrysalyda.com/2015/02/03/la-sexualite-divine-par-les-etres-de-lumiere/)
@@ -369,8 +368,6 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 - Michael Brown :
 	- [Aimer c’est Évoluer](https://www.youtube.com/watch?v=4dI7rMePWI8)
 	- [Intimité et Sexualité – Part 1](https://www.youtube.com/watch?v=vUkQiIR52LA)
-
-- [Soins énergétiques au service de la sexualité](../soins-energetiques/)
 - [Spiritualité et sexualité : deux états complètement compatibles.](http://stephanie-et-nadia.com/spiritualite-et-sexualite/)
 - [Thérapie](../therapie/)
 
