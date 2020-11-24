@@ -25,4 +25,4 @@ Par l’autohypnose, l’utilisation et l’apprentissage de techniques hypnotiq
 {: .text-center }
 <mailto:laetitia.stucki@gmail.com>
 <i class="fa fa-mobile"></i> +41 79 326 30 64
-[Tarifs](./tarifs/)
+[Tarifs](../tarifs/)

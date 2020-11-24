@@ -9,7 +9,7 @@ published: true
 
 ![Coupe representant un yoni et un lingam](../images/coupe-yoni-lingam.jpg)
 
-[L’hypnose, les soins énergétiques](https://laetitiastucki.github.io/laetitia-stucki-v2/) et [Moon Mother](./moon-mother/) sont des outils de choix pour un travail spécifique sur la sexualité. Qu’il s’agisse de se libérer de troubles sexuels ou tout simplement de s’épanouir sexuellement.
+[L’hypnose, les soins énergétiques](https://laetitiastucki.github.io/laetitia-stucki-v2/) et [Moon Mother](../moon-mother/) sont des outils de choix pour un travail spécifique sur la sexualité. Qu’il s’agisse de se libérer de troubles sexuels ou tout simplement de s’épanouir sexuellement.
 
 La sexualité tient une part importante dans nos vies, nous avons été conçus pour la plupart par un acte sexuel, puis au fil de notre vie nous l’utilisons pour créer la vie, pour le plaisir, pour tisser et renforcer nos liens amoureux et parfois même pour notre développement personnel et spirituel.
 
@@ -22,4 +22,4 @@ Autant notre sexualité peut être très difficile à vivre et parfois même nou
 {: .text-center }
 <mailto:laetitia.stucki@gmail.com>
 <i class="fa fa-mobile"></i> +41 79 326 30 64
-[Tarifs](./tarifs/)
+[Tarifs](../tarifs/)
