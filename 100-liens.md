@@ -93,7 +93,7 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 ## Dédramatiser la sexualité
 
 - [À corps et ä cris, chuchottement, halètements](http://www.lemonde.fr/m-le-mag/article/2016/03/13/a-corps-et-a-cris-chuchotements-haletements_4881905_4500055.html#erGdiQSI2hDsy1kL.99)
-- [Apprendre à faire l’amour, 11 conseils pour vous épanouir dans votre sexualité](../articles/2017/01/02/apprendre-a-faire-l-amour-11-conseils-pour-vous-epanouir-dans-votre-sexualite.html)
+- [Apprendre à faire l’amour, 11 conseils pour vous épanouir dans votre sexualité](https://laetitiastucki.github.io/sacree-sexualite-v2/articles/2017/01/02/apprendre-a-faire-l-amour-11-conseils-pour-vous-epanouir-dans-votre-sexualite.html)
 - [Cinquante nuances de Grey](http://streamcomplet.com/cinquante-nuances-de-grey/)
 - [Club clitoris: l’instagram qui te décoince de la vulve](http://www.desculottees.com/2016/04/club-clitoris-instagram-de-la-vulve/)
 - [Désir féminin, une histoire excitante](http://www.hebdo.ch/hebdo/cadrages/detail/d%C3%A9sir-f%C3%A9minin-une-histoire-excitante)
@@ -192,7 +192,7 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 
 ## Formation sexualité
 
-- [Apprendre à faire l’amour, 11 conseils pour vous épanouir dans votre sexualité](../articles/2017/01/02/apprendre-a-faire-l-amour-11-conseils-pour-vous-epanouir-dans-votre-sexualite.html)
+- [Apprendre à faire l’amour, 11 conseils pour vous épanouir dans votre sexualité](https://laetitiastucki.github.io/sacree-sexualite-v2/articles/2017/01/02/apprendre-a-faire-l-amour-11-conseils-pour-vous-epanouir-dans-votre-sexualite.html)
 - [Café sexo](http://www.sexologieclinique.ch/page23.php)
 - [Formation en Psycho-Sexologie Positive (FPSP)](http://www.vaudfamille.ch/N276432/formation-en-psycho-sexologie-positive-fpsp.html)
 - [Institut suisse de Sexologie Clinique « Cafés Sexos »](http://www.sexologieclinique.ch/page23.php)
@@ -299,7 +299,7 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 
 ## Premiers pas dans la sexualité
 
-- [Apprendre à faire l’amour, 11 conseils pour vous épanouir dans votre sexualité](../articles/2017/01/02/apprendre-a-faire-l-amour-11-conseils-pour-vous-epanouir-dans-votre-sexualite.html)
+- [Apprendre à faire l’amour, 11 conseils pour vous épanouir dans votre sexualité](https://laetitiastucki.github.io/sacree-sexualite-v2/articles/2017/01/02/apprendre-a-faire-l-amour-11-conseils-pour-vous-epanouir-dans-votre-sexualite.html)
 - [A quoi rêvent les jeunes filles ? - INFRAROUGE Déconseillé aux - de 16 ans](https://www.youtube.com/watch?v=kZQ8GUDscOw)
 - [Éducation sensuelle, pour les jeunes... et les moins jeunes :-)](http://www.educationsensuelle.com/#.VudPow1Ke7g.facebook)
 - [Education sexuelle à la télévision nationale de la Norvège](http://canal311.com/fr/education-sexuelle-television-nationale-norvege-1111/)
@@ -345,7 +345,7 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 ## Sexualité sacrée
 
 - [55\. La conscience sexuelle](http://www.colling.lu/chapitres_fr/55.pdf)
-- [Apprendre à faire l’amour, 11 conseils pour vous épanouir dans votre sexualité](../articles/2017/01/02/apprendre-a-faire-l-amour-11-conseils-pour-vous-epanouir-dans-votre-sexualite.html)
+- [Apprendre à faire l’amour, 11 conseils pour vous épanouir dans votre sexualité](https://laetitiastucki.github.io/sacree-sexualite-v2/articles/2017/01/02/apprendre-a-faire-l-amour-11-conseils-pour-vous-epanouir-dans-votre-sexualite.html)
 - [Découvrez les 7 règles d’une sexualité de rêve](http://www.planifiezvosreves.com/decouvrez-les-7-regles-dune-sexualite-de-reve/)
 - [Des applications pour la santé sexuelle](http://journalmetro.com/opinions/sexe-dans-la-ville/936026/des-applications-pour-la-sante-sexuelle/)
 - [En amour, nos peaux sont plus intelligentes que nos mots...](http://lespaceducouple.com/2015/07/08/en-amour-nos-peaux-sont-plus-intelligentes-que-nos-mots-2/)
@@ -362,7 +362,7 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 - [L’échec de la sexualité humaine](http://www.mariepaulross.com/lechec-de-la-sexualite-humaine/)
 - [Le consentement sexuel expliqué par une tasse de thé](http://www.madmoizelle.com/consentement-sexuel-tasse-the-365301)
 - [Les limites dans la sexualité](http://presenceasoi.be/les-limites-dans-la-sexualite/)
-- [Sacrée Sexualité](./)
+- [Sacrée Sexualité](../)
 - [Sexualité essentielle et sexualité sacrée](http://www.spirit-science.fr/doc_psycho/sexualite.html)
 - [Sexualité essentielle et sexualité sacrée PDF](http://www.academia.edu/8666414/Sexualité_essentielle_et_sexualité_sacrée)
 - [Sexualité et énergie de l’aura](http://www.espritsciencemetaphysiques.com/sexualite-et-energie-de-laura.html)
@@ -370,9 +370,9 @@ La liste des catégories sera affichée automatiquement ici sur le site web en l
 	- [Aimer c’est Évoluer](https://www.youtube.com/watch?v=4dI7rMePWI8)
 	- [Intimité et Sexualité – Part 1](https://www.youtube.com/watch?v=vUkQiIR52LA)
 
-- [Soins énergétiques au service de la sexualité](./soins-energetiques/)
+- [Soins énergétiques au service de la sexualité](../soins-energetiques/)
 - [Spiritualité et sexualité : deux états complètement compatibles.](http://stephanie-et-nadia.com/spiritualite-et-sexualite/)
-- [Thérapie](./therapie/)
+- [Thérapie](../therapie/)
 
 
 

@@ -9,7 +9,7 @@ exergue      : "11 conseils pour vous épanouir dans&nbsp;votre sexualité"
 
 ## 11 conseils pour vous épanouir dans&nbsp;votre sexualité
 
-Lors de mes <a href="../hypnosexologie/" target="_blank">consultations en hypnosexologie</a>, je constate régulièrement qu’une partie des difficultés sexuelles viennent simplement d’une méconnaissance de soi-même et de notre corps, malgré <a href="./articles/2016/07/11/le-privilege-de-la-sexualite.html"            target="_blank">l’ouverture sexuelle dont nous bénéficions en occident</a>. Mais comment se fait-il que nous en sachions si peu sur nous-mêmes ?
+Lors de mes <a href="../hypnosexologie/" target="_blank">consultations en hypnosexologie</a>, je constate régulièrement qu’une partie des difficultés sexuelles viennent simplement d’une méconnaissance de soi-même et de notre corps, malgré <a href="https://laetitiastucki.github.io/sacree-sexualite-v2/articles/2017/01/02/apprendre-a-faire-l-amour-11-conseils-pour-vous-epanouir-dans-votre-sexualite.html"            target="_blank">l’ouverture sexuelle dont nous bénéficions en occident</a>. Mais comment se fait-il que nous en sachions si peu sur nous-mêmes ?
 
 Cela commence très tôt, dès notre plus tendre enfance. Nombreux sont ceux qui se souviennent par exemple d’un parent, pourtant bien intentionné, mais très mal à l’aise, nous interdisant de toucher à nos organes génitaux en public. Malheureusement bien souvent l’interaction s’arrête ici avec un manque d’explication sur les raisons de cette interdiction limitant ainsi l’accès à notre propre corps et suggérant une idée malsaine et sale de notre sexe. Alors qu’une simple explication peut dissiper le malaise et donner l’occasion aux parents de communiquer sur ce domaine avec leur enfant.
 
