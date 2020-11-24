@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: /
+Disallow: /sacree-sexualite-v2/
